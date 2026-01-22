@@ -1,9 +1,9 @@
- _  __ _  ____ ___  _ ____  _  __   _     ____  _     
+ _  __ _  ____ ___  _ ____  _  __   _     ____  _
 / |/ // \/_   \\  \///  _ \/ |/ /  / \ |\/  __\/ \  /|
 |   / | | /   / \  / | / \||   /   | | //|  \/|| |\ ||
 |   \ | |/   /_ / /  | |-|||   \   | \// |  __/| | \||
 \_|\_\\_/\____//_/   \_/ \|\_|\_\  \__/  \_/   \_/  \|
-                                                      
+
 # CIDR сервера
 
 vless://bcf31ced-07e7-4bd3-ae6d-9280d9a47834@217.16.27.216:4249/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=2z8C1eWOMSZEYNoERS8E6f8jiWvY38Z4iebbYh8mtXc&sid=a20d3ed244c76426#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20%5B%2ACIDR%5D
