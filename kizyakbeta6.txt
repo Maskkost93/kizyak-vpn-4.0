@@ -1,7 +1,7 @@
 #profile-title: КIЗЯК VPN 6.0 BETA
 #profile-desc:🥭🥭🥭
 #profile-description:🥭🥭🥭
-#serverDescription:🥭🥭🥭
+#profile-serverDescription:🥭🥭🥭
 #Epodonios
 
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@5.45.109.158:22955?mode=gun&security=reality&encryption=none&authority=&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#🇩🇪Обход БС/ЧС Германия | Попытка 1
