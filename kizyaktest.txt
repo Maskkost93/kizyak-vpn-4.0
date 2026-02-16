@@ -1,0 +1,23 @@
+#profile-title: ХУЙ VPN
+#profile-desc:🥭🥭🥭
+#profile-description:🥭🥭🥭
+#profile-serverDescription:🥭🥭🥭
+#profile-update-interval: 3
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; description=вввв; desc=рпрпр;
+#support-url: https://t.me/+KLYYc-t388QwOTEy
+#profile-web-page-url: https://t.me/+KLYYc-t388QwOTEy
+
+#🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭
+
+#  __   .__                       __
+# |  | _|__|__________.__._____  |  | __    ___  ________   ____
+# |  |/ /  \___   <   |  |\__  \ |  |/ /    \  \/ /\____ \ /    \
+# |    <|  |/    / \___  | / __ \|    <      \   / |  |_> >   |  \
+# |__|_ \__/_____ \/ ____|(____  /__|_ \      \_/  |   __/|___|  /
+#      \/        \/\/          \/     \/           |__|        \/
+
+#🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭
+
+vless://022343dc-6ab9-4502-8441-ed4a4b609092@noserver.org:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&allowinsecure=1&type=grpc&serviceName=&sni=n1.n1server.org#ТЕХНИЧЕСКИЕ РАБОТЫ
+
+
