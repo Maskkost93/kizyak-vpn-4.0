@@ -1,4 +1,4 @@
-#profile-title: ХУЙ VPN
+#profile-title: VPN
 #profile-desc:🥭🥭🥭
 #profile-description:🥭🥭🥭
 #profile-serverDescription:🥭🥭🥭
