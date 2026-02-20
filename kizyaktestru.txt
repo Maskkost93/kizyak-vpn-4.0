@@ -15,7 +15,7 @@
 #🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭
 
 
-# Date/Time: 2026-02-20 / 19:04 (Moscow)
+# Dat026-02-20 / 19:04 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.212.216:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20Канада | 🥭🔥
 vless://a647ef32-4e87-5ca0-af4c-c3594aa2abd2@51.250.24.230:443?encryption=none&host=egress.yandex.net&fp=chrome&path=%2F&pbk=KsPQ6cN7jhI8AbFnYSv2vbz1NxukZz9jqqsEd_lAqXw&security=reality&sni=egress.yandex.net&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20Эстония | 🥭🔥%20 
