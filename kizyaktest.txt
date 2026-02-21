@@ -3,7 +3,7 @@
 #profile-description:🥭🥭🥭
 #profile-serverDescription:🥭🥭🥭
 #profile-update-interval: 3
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; description=вввв; desc=рпрпр;
+#subscription-userinfo: upload=1487; download=1; total=10737418240000000; description=вввв; desc=рпрпр;
 #support-url: https://t.me/+KLYYc-t388QwOTEy
 #profile-web-page-url: https://t.me/+KLYYc-t388QwOTEy
 
