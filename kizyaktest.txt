@@ -3,7 +3,7 @@
 #profile-description:🥭🥭🥭
 #profile-serverDescription:🥭🥭🥭
 #profile-update-interval: 3
-#subscription-userinfo: upload=0; download=6969; total=6900000;
+#subscription-userinfo: upload=0; download=6969; total=6900000000;
 #support-url: https://t.me/+KLYYc-t388QwOTEy
 #profile-web-page-url: https://t.me/+KLYYc-t388QwOTEy
 
