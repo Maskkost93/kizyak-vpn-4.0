@@ -19,10 +19,7 @@
 # Спасибо за конфиги от https://www.github.com/igareck/vpn-configs-for-russia
 #%20%5B%2ACIDR%5D
           
-# profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(1)
-# profile-update-interval: 5
 # Date/Time: 2026-03-04 / 16:17 (Moscow)
-# Количество: 150
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.50.126:22955?type=grpc&security=reality&encryption=none&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&sni=one-piece.com&serviceName=grpc#%F0%9F%87%A6%F0%9F%87%B9%20Австрия%20%7C%20%F0%9F%8C%90%20%7C 🔐 [🏳️LTE] | 🥭🔥
@@ -175,10 +172,7 @@ vless://4292f5ab-8963-04b0-8052-3615895ce4f1@craftmymine.ru:52006?type=tcp&secur
 vless://4292f5ab-8963-0578-8052-3615895ce4f1@craftmymine.ru:52006?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru&path=&host=#%F0%9F%8C%90%20Anycast-IP [🏳️LTE] | 🥭🔥%20 
 vless://4292f5ab-8963-0834-8052-3615895ce4f1@craftmymine.ru:52006?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru&path=&host=#%F0%9F%8C%90%20Anycast-IP [🏳️LTE] | 🥭🔥%20 
 vless://593f742b-5a90-43fa-9c09-ac772cd9294a@79.137.174.106:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#%F0%9F%8C%90%20Anycast-IP [🏳️LTE] | 🥭🔥%20 
-# profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(2)
-# profile-update-interval: 5
 # Date/Time: 2026-03-04 / 16:17 (Moscow)
-# Количество: 150
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://400c1f85-9d3a-444a-8a50-81b11f3b4c20@78.159.131.16:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=alb.denditop.site&pbk=BxD77zyPkOaShiNfOkRbbJvpmSzFHIKx4xhhLR4PSQU&sid=9c2378562188c3cb#%F0%9F%87%A6%F0%9F%87%B1%20Албания [🏳️LTE] | 🥭🔥
@@ -331,10 +325,7 @@ vless://4292f5ab-8963-0320-8052-3615895ce4f1@37.139.33.187:52006?flow=xtls-rprx-
 vless://4292f5ab-8963-05dc-8052-3615895ce4f1@craftmymine.ru:52006?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru&path=&host=#%F0%9F%8C%90%20Anycast-IP [🏳️LTE] | 🥭🔥%20 
 vless://4292f5ab-8963-06a4-8052-3615895ce4f1@37.139.33.187:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%8C%90%20Anycast-IP [🏳️LTE] | 🥭🔥%20 
 vless://4292f5ab-8963-06a4-8052-3615895ce4f1@craftmymine.ru:52006?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru&path=&host=#%F0%9F%8C%90%20Anycast-IP [🏳️LTE] | 🥭🔥%20 
-# profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
-# profile-update-interval: 5
 # Date/Time: 2026-03-04 / 16:17 (Moscow)
-# Количество: 25
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://ffc7f5a9-a1f5-446b-abe0-a841a04f4240@access-fl15.agveit.pro:443?security=reality&encryption=none&pbk=hGydpZcQoEQHwTTtwTf0Lai6MqGOHhvUJtUlONunh2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=queuev4.vk.com&sid=584053d3c479a4fc#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия | 🥭🔥%20queuev4.vk.com
