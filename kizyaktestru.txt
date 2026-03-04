@@ -19,7 +19,7 @@
 # Спасибо за конфиги от https://www.github.com/igareck/vpn-configs-for-russia
 #%20%5B%2ACIDR%5D
           
-vless://dd92odoo-adss-332l-adf3-a841a0332gf9@127.0.0.127:443?security=none&encryption=none&pbk=hGydpZcQoEQHwTTtwTf0Lai6MqGOHhvUJtUlONunh2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=queuev4.vk.com&sid=584053d3c479a4fc#kizyak vpn 🥭 | КIЗЯК VPN 🥭
+vless://dd92odoo-adss-332l-adf3-a841a0332gf9@127.0.0.127:443?security=none&encryption=none&pbk=hGydpZcQoEQHwTTtwTf0Lai6MqGOHhvUJtUlONunh2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=queuev4.vk.com&sid=584053d3c479a4fc#🥭 kizyak vpn | КIЗЯК VPN 🥭
 # Date/Time: 2026-03-04 / 16:17 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
