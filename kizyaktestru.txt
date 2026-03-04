@@ -19,10 +19,7 @@
 # Спасибо за конфиги от https://www.github.com/igareck/vpn-configs-for-russia
 #%20%5B%2ACIDR%5D
           
-# profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
-# profile-update-interval: 5
 # Date/Time: 2026-03-04 / 16:17 (Moscow)
-# Количество: 25
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://ffc7f5a9-a1f5-446b-abe0-a841a04f4240@access-fl15.agveit.pro:443?security=reality&encryption=none&pbk=hGydpZcQoEQHwTTtwTf0Lai6MqGOHhvUJtUlONunh2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=queuev4.vk.com&sid=584053d3c479a4fc#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия | 🥭🔥%20queuev4.vk.com
