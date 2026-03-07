@@ -20,9 +20,9 @@
 #%20%5B%2ACIDR%5D
           
 
-# Date/Time: 2026-03-07 / 09:54 (Moscow)
+# Date/Time: 2026-03-07 / 11:48 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@138.124.32.20:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg&sid=df13327f2677fc90&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C 🔐 | 🥭🔥%20max.ru
+vless://43e322c8-e044-4625-a560-9bfec45e0eae@fin.rokvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.net&fp=chrome&pbk=Sb OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты | 🥭🔥%20yandex.net
 vless://9c42aa2d-3e57-4ce1-ba85-0b11f685dd6b@45.136.126.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=pRvemrnDzUPhjXIYQC933GlpoomcZI9LwL4DPW5-aQc&sid=b93d114f6a85e9&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Россия | 🥭🔥%20max.ru
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@9.cdnconn.com:1443?mode=auto&path=%252F&security=reality&encryption=none&extra=%257B%2522scMaxEachPostBytes%2522%253A1000000.0%252C%2522scMaxConcurrentPosts%2522%253A100.0%252C%2522scMinPostsIntervalMs%2522%253A30.0%252C%2522xPaddingBytes%2522%253A%2522100-1000%2522%252C%2522noGRPCHeader%2522%253Afalse%257D&pbk=UoWP-cohTBmadLBP2fE823VBq8UvXI1qvRTKaaJnnRA&fp=qq&allowinsecure=0&type=xhttp&sni=sun6-21.userapi.com&sid=cb78164bcc0adb7b#%F0%9F%87%B7%F0%9F%87%BA%20Россия | 🥭🔥%20sun6-21.userapi.com
