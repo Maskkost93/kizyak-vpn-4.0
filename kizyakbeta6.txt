@@ -18,7 +18,7 @@
 
 # Спасибо за конфиги от https://www.github.com/igareck/vpn-configs-for-russia
 #%20%5B%2ACIDR%5D
-          
+
 
 # Date/Time: 2026-03-08 / 18:22 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
