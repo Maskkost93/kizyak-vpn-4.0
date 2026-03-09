@@ -20,32 +20,26 @@
 #%20%5B%2ACIDR%5D
 
 
-# Date/Time: 2026-03-08 / 18:43 (Moscow)
+# Date/Time: 2026-03-09 / 10:32 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWYwMjU1ZC0yMzhkLTQ1OTItYjIxZC00M2NkNGVmNjZlNTU@fast219.visi.rip:46969?#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C 🔐%20[🏴BL]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aHJITURnWjJlZ0tmdHZyZWN2a3BVUHFwVVR5YWM3cQ@195.66.25.220:8388?#%F0%9F%87%B1%F0%9F%87%B9%20Литва%2C%20Vilnius%20[🏴BL]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080?#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20%28Amsterdam-Noord%29%20[🏴BL]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080?#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20%28Amsterdam-Noord%29%20[🏴BL]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443?#%F0%9F%87%AC%F0%9F%87%A7%20Великобритания%2C%20London%20[🏴BL]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443?#%F0%9F%87%AC%F0%9F%87%A7%20Великобритания%2C%20London%20[🏴BL]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.19.130:443?#%F0%9F%87%AC%F0%9F%87%A7%20Великобритания%2C%20London%20%7C%20%F0%9F%8C%90%20[🏴BL]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?#%F0%9F%87%AC%F0%9F%87%A7%20Великобритания%2C%20London%20%7C%20%F0%9F%8C%90%20[🏴BL]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.17.254:443?#%F0%9F%87%AC%F0%9F%87%A7%20Великобритания%2C%20London%20%7C%20%F0%9F%8C%90%20[🏴BL]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443?#%F0%9F%87%AC%F0%9F%87%A7%20Великобритания%2C%20London%20%7C%20%F0%9F%8C%90%20[🏴BL]
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2FudGEgQ2xhcmEgfCBbQkxdIiwiYWRkIjoiNDkuNTEuMTg0Ljc0IiwicG9ydCI6IjMxOTc2IiwiaWQiOiJjZGU2OWY1Yi0yNjQxLTQ2OWQtODkzMC1mZDI5MGQwODRhZGYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2FudGEgQ2xhcmEgfCBbQkxdIiwiYWRkIjoiNDkuNTEuMTg0Ljc0IiwicG9ydCI6IjMxOTc2IiwiaWQiOiJjZGU2OWY1Yi0yNjQxLTQ2OWQtODkzMC1mZDI5MGQwODRhZGYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU3QgTG91aXMgKERvd250b3duKSB8IFtCTF0iLCJhZGQiOiJjaGF0Z3B0LmNvbSIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
-trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20Канада%2C%20Pointe-Claire%20[🏴BL]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozS3haTE5KMmhnVWVqbXpIVjh5Z0hsd29M@basic-ru-0.undef.network:43510?#%F0%9F%87%B7%F0%9F%87%BA%20Россия%2C%20Moscow%20[🏴BL]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSlIzc3V4VzVlNDhPTmplbDdKbXdwc3Ji@basic-ru-0.undef.network:45481?#%F0%9F%87%B7%F0%9F%87%BA%20Россия%2C%20Moscow%20[🏴BL]
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@58.152.18.189:443?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Tsui%20Wan%20Estate%20[🏴BL]
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.214.104:2001?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Япония%2C%20Minato%20[🏴BL]
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@58.152.18.2:443?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Tsui%20Wan%20Estate%20[🏴BL]
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:34818?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Япония%2C%20Chiyoda%20[🏴BL]
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:4937?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Япония%2C%20Chiyoda%20[🏴BL]
+trojan://cjwKcGPEZcfjbgUVTBvXyskaTHEsCpmg@8443.golden-cards.me:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%B9%20Литва%2C%20Vilnius%20[🏴BL]
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%B9%20Литва%2C%20Vilnius%20[🏴BL]
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&fp=qq&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%B9%20Литва%2C%20Vilnius%20[🏴BL]
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=%F0%9F%94%92%20By%20EbraSha%20&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B4%20Норвегия%2C%20Oslo%20%28Alna%20District%29%20[🏴BL]
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.45.139:4674?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20Сингапур%2C%20Сингапур%20[🏴BL]
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:3419?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20Сингапур%2C%20Сингапур%20[🏴BL]
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.124.17:3419?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20Сингапур%2C%20Сингапур%20[🏴BL]
-trojan://zp630tdUuD@194.150.166.151:52047?security=reality&sni=aws.amazon.com&fp=chrome&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&sid=1abe0c286879&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20Великобритания%2C%20London%20[🏴BL]
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.72.33:3419?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20Сингапур%2C%20Сингапур%20[🏴BL]
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.72.33:4674?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20Сингапур%2C%20Сингапур%20[🏴BL]
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.130.21:4019?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Chicago%20[🏴BL]
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.72.33:3057?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Los%20Angeles%20[🏴BL]
 trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇧🇸 Эщкерия%20%7C 🔐%20[🏴BL]
-trojan://trojan@178.157.50.221:8001?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇧🇸 Эщкерия%20%7C 🔐%20[🏴BL]
-trojan://trojan@185.188.30.107:9864?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇧🇸 Эщкерия%20%7C 🔐%20[🏴BL]
