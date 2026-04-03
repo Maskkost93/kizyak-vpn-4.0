@@ -20,22 +20,28 @@
 #Спасибо за конфиги от https://www.github.com/igareck/vpn-configs-for-russia
 #%20%5B%2ACIDR%5D
 
-# Date/Time: 2026-04-03 / 18:33 (Moscow)
+# Date/Time: 2026-04-03 / 22:23 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@45.147.248.115:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇧🇸%20Эщкерия%20%7C%20🔐%20[🏴BL]
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@50.62.88.16:443?plugin=v2ray-plugin;mode=websocket;host=ylnhh.us.ci;path=/14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560;tls;mux=0#🇧🇸%20Эщкерия%20%7C%20🔐%20[🏴BL]
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@78.40.216.169:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇧🇸%20Эщкерия%20%7C%20🔐%20[🏴BL]
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@193.68.89.220:8443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dmfvpn.fuchen.indevs.in%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇧🇸%20Эщкерия%20%7C%20🔐%20[🏴BL]
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@199.181.197.38:443/?plugin=v2ray-plugin;mode=websocket;path=3e96ef7d-8637-42c2-ac73-75182196e755/?ed=2560;mux=0;skip-cert-verify=true;host=mfvpn.fuchen.indevs.in;tls;sni=Telegram🇨🇳 @WangCai2#🇧🇸%20Эщкерия%20%7C%20🔐%20[🏴BL]
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@77.110.96.166:8443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dmfvpn.fuchen.indevs.in%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇧🇸%20Эщкерия%20%7C%20🔐%20[🏴BL]
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@91.223.169.88:8443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dmfvpn.fuchen.indevs.in%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇧🇸%20Эщкерия%20%7C%20🔐%20[🏴BL]
+hysteria2://ea8d14d4-ca12-4cd1-bcad-f0fa72f6eadc@212.193.18.60:8443?insecure=1&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20Helsinki%20[🏴BL]
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20Франция%20%7C%20%F0%9F%8C%90%20%7C%20🔐%20[🏴BL]
 hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20Франция%20%7C%20%F0%9F%8C%90%20%7C%20🔐%20[🏴BL]
 hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&sni=www.microsoft.com&allowInsecure=true#%F0%9F%87%AB%F0%9F%87%B7%20Франция%20%7C%20%F0%9F%8C%90%20%7C%20🔐%20[🏴BL]
-hysteria2://6b7c1278-ff9d-11ee-84ca-f23c913c8d2b@12f7c432-t6t0g0-t87m8y-1pr35.hk1.hyhuawei.com:443?security=tls&insecure=1&sni=12f7c432-t6t0g0-t87m8y-1pr35.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20[🏴BL]
-hysteria2://6b7c1278-ff9d-11ee-84ca-f23c913c8d2b@12f7c432-t6t0g0-t87m8y-1pr35.hk1.hyhuawei.com:443?security=tls&sni=12f7c432-t6t0g0-t87m8y-1pr35.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20[🏴BL]
+hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20Франция%20%7C%20%F0%9F%8C%90%20%7C%20🔐%20[🏴BL]
+hysteria2://dongtaiwang.com@62.210.25.116:40022?sni=www.microsoft.com&insecure=1&allowInsecure=1&mport=41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20🔐%20[🏴BL]
+hysteria2://dongtaiwang.com@62.210.25.116:40022?sni=www.microsoft.com&insecure=1&mport=41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20🔐%20[🏴BL]
 hysteria2://a4c9b7cc-a816-11ed-9f65-f23c9164ca5d@WangCai.hk1.hyhuawei.com:443/?insecure=1&sni=WangCai.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20[🏴BL]
-hysteria2://a698c4a6-c3c9-11ee-9693-f23c91cfbbc9@f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com:443?insecure=1&sni=f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20[🏴BL]
-hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?sni=iij.mggl.wang&obfs=none&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Япония%20%7C%20%F0%9F%8C%90%20%7C%20🔐%20[🏴BL]
-hysteria2://123456789StrongPass@144.31.224.14:443?upmbps=10&downmbps=50&security=tls&sni=eh.@solidtrust.com&allowInsecure=true#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20[🏴BL]
+hysteria2://b9c9905c-1627-11ec-a0fc-f23c913c8d2b@74cba7ec-t57ls0-t6nlrg-ach1.hk1.hyhuawei.com:443?sni=74cba7ec-t57ls0-t6nlrg-ach1.hk1.hyhuawei.com&obfs=none&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20[🏴BL]
+hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20[🏴BL]
+hysteria2://123456789StrongPass@144.31.224.14:443?sni=www.cloudflare.com&insecure=1&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20[🏴BL]
 hysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Seattle%20[🏴BL]
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?path=%2Ftrojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#%F0%9F%87%A7%F0%9F%87%AA%20Бельгия%2C%20Brussels%20%28Brussels%20Capital%29%20%7C%20%F0%9F%8C%90%20%7C%20🔐%20[🏴BL]
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@192.142.4.232:2083?path=%2Ftrojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20[🏴BL]
+trojan://trojan@114.207.99.233:11434?security=tls&sni=jflsjlaf.pages.dev&insecure=1&allowInsecure=1&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇧🇸%20Эщкерия%20%7C%20🔐%20[🏴BL]
+trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇧🇸%20Эщкерия%20%7C%20🔐%20[🏴BL]
+trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&path=%25252F&Host=jflsjlaf.pages.dev#🇧🇸%20Эщкерия%20%7C%20🔐%20[🏴BL]
