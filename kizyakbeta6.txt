@@ -64,7 +64,7 @@ vless://d530621b-55f4-4935-b2b8-9432ea8b87cf@51.250.97.87:443?flow=xtls-rprx-vis
 vless://e3fd7b7d-e1d1-4474-b17b-feb23fd08dcb@51.250.97.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-6-4.legendary-vpn.com&pbk=UZcUXcDWwIkPoLsqflKMGiFx50MERRpum96y-y5Dv1Q&sid=ffd676bc2a2657ef#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔥%20%20
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@89.169.6.69:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇧🇸%20Эщкерия%20%7C%20🔐%20[🏳️LTE]%20|%20🥭🔥
 hysteria2://b688ce0f-9201-4e8e-a67a-f3be2c6aa201@de.mjhy2.com:1443?insecure=1&sni=de.mjhy2.com#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20[🏳️LTE]%20|%20🥭🔥
-# Date/Time: 2026-04-09 / 19:03 (Moscow)
+# Date/Time: 2026-04-09 / 19:48 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 # Date/Time: 2026-04-09 / 19:03 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
