@@ -41,3 +41,25 @@
 
 #Спасибо за конфиги от https://www.github.com/igareck/vpn-configs-for-russia
 #%20[🏳️LTE]%20|%20🥭🔥
+
+#profile-title: 🥭 КIЗЯК BETA
+#profile-desc:🥭🥭🥭
+#profile-description:🥭🥭🥭
+#profile-serverDescription:🥭🥭🥭
+#profile-update-interval: 3
+#subscription-userinfo: upload=0; download=0; total=10737418240000000;
+#support-url: https://t.me/+KLYYc-t388QwOTEy
+#profile-web-page-url: https://t.me/+KLYYc-t388QwOTEy
+
+#🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭
+
+#▄ •▄ ▪  ·▄▄▄▄• ▄· ▄▌ ▄▄▄· ▄ •▄      ▌ ▐· ▄▄▄· ▐ ▄
+#█▌▄▌▪██ ▪▀·.█▌▐█▪██▌▐█ ▀█ █▌▄▌▪    ▪█·█▌▐█ ▄█•█▌▐█
+#▐▀▀▄·▐█·▄█▀▀▀•▐█▌▐█▪▄█▀▀█ ▐▀▀▄·    ▐█▐█• ██▀·▐█▐▐▌
+#▐█.█▌▐█▌█▌▪▄█▀ ▐█▀·.▐█ ▪▐▌▐█.█▌     ███ ▐█▪·•██▐█▌
+#·▀  ▀▀▀▀·▀▀▀ •  ▀ •  ▀  ▀ ·▀  ▀    . ▀  .▀   ▀▀ █▪
+
+#🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭
+
+#Спасибо за конфиги от https://www.github.com/igareck/vpn-configs-for-russia
+#%20[🏳️LTE]%20|%20🥭🔥
