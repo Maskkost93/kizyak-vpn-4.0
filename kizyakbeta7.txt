@@ -19,6 +19,27 @@
 
 #Спасибо за конфиги от https://www.github.com/igareck/vpn-configs-for-russia
 #%20%5B%2ACIDR%5D
+#profile-title: 🥭 КIЗЯК BETA
+#profile-desc:🥭🥭🥭
+#profile-description:🥭🥭🥭
+#profile-serverDescription:🥭🥭🥭
+#profile-update-interval: 3
+#subscription-userinfo: upload=0; download=0; total=10737418240000000;
+#support-url: https://t.me/+KLYYc-t388QwOTEy
+#profile-web-page-url: https://t.me/+KLYYc-t388QwOTEy
+
+#🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭
+
+#▄ •▄ ▪  ·▄▄▄▄• ▄· ▄▌ ▄▄▄· ▄ •▄      ▌ ▐· ▄▄▄· ▐ ▄
+#█▌▄▌▪██ ▪▀·.█▌▐█▪██▌▐█ ▀█ █▌▄▌▪    ▪█·█▌▐█ ▄█•█▌▐█
+#▐▀▀▄·▐█·▄█▀▀▀•▐█▌▐█▪▄█▀▀█ ▐▀▀▄·    ▐█▐█• ██▀·▐█▐▐▌
+#▐█.█▌▐█▌█▌▪▄█▀ ▐█▀·.▐█ ▪▐▌▐█.█▌     ███ ▐█▪·•██▐█▌
+#·▀  ▀▀▀▀·▀▀▀ •  ▀ •  ▀  ▀ ·▀  ▀    . ▀  .▀   ▀▀ █▪
+
+#🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭
+
+#Спасибо за конфиги от https://www.github.com/igareck/vpn-configs-for-russia
+#%20%5B%2ACIDR%5D
 trojan://vU2KkcMdBP_RMm4Q8DQZgn5tCekL0Aqv@185.188.30.60:5443?security=reality&pbk=KfP8hAcoTgsFzwNXhyFisbA51B4uCkCz1QgGkfoSTGU&fp=safari&spx=/&type=tcp&sni=vk.com&sid=10893e308040ae87#0592 | 🇫🇮 Finland | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 vless://03823d8d-cffb-4985-924c-53431d98feb5@161.104.105.144:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=5be97fb85093a3a9#🇫🇷%20Франция%20[🏳️LTE]%20|%20🥭🔥
 vless://03823d8d-cffb-4985-924c-53431d98feb5@161.104.105.144:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=5be97fb85093a3a9#🇫🇷%20Франция%20[🏳️LTE]%20|%20🥭🔥
