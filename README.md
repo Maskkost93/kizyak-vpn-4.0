@@ -1,5 +1,21 @@
 <img width="1920" height="494" alt="iconmango_preview" src="https://github.com/user-attachments/assets/c4f9a2f7-d1a2-4471-9174-60335e90e654" />
 
+<h1></h1>
+
+![Static Badge](https://img.shields.io/badge/status-up_to_date-blue)
+![Static Badge](https://img.shields.io/badge/v2rayNG-supported-green)
+![Static Badge](https://img.shields.io/badge/Happ-partrial_support-yellow)
+![Static Badge](https://img.shields.io/badge/v2rayN-supported-green)
+![Static Badge](https://img.shields.io/badge/V2BOX-supported-green)
+![Static Badge](https://img.shields.io/badge/v2rayGG-supported-green)
+![Static Badge](https://img.shields.io/badge/Karing-supported-green)
+![Static Badge](https://img.shields.io/badge/v2rayTun-partrial_support-yellow)
+![Static Badge](https://img.shields.io/badge/NekoBox-not_supported-red)
+![Static Badge](https://img.shields.io/badge/SagerNet-not_supported-red)
+![Static Badge](https://img.shields.io/badge/GL_Proxy-not_supported-red)
+
+<h2></h2>
+
 # 🥭 КIЗЯК VPN
 
 ### Твой сочный проводник в мир большого интернета! 🔥
