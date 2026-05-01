@@ -19,6 +19,27 @@
 
 #Спасибо за конфиги от https://www.github.com/igareck/vpn-configs-for-russia
 #%20%5B%2ACIDR%5D
+#profile-title: 🥭 КIЗЯК VPN ⚡
+#profile-desc:🥭🥭🥭
+#profile-description:🥭🥭🥭
+#profile-serverDescription:🥭🥭🥭
+#profile-update-interval: 3
+#subscription-userinfo: upload=0; download=0; total=10737418240000000;
+#support-url: https://t.me/+KLYYc-t388QwOTEy
+#profile-web-page-url: https://t.me/+KLYYc-t388QwOTEy
+
+#🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭
+
+#▄ •▄ ▪  ·▄▄▄▄• ▄· ▄▌ ▄▄▄· ▄ •▄      ▌ ▐· ▄▄▄· ▐ ▄
+#█▌▄▌▪██ ▪▀·.█▌▐█▪██▌▐█ ▀█ █▌▄▌▪    ▪█·█▌▐█ ▄█•█▌▐█
+#▐▀▀▄·▐█·▄█▀▀▀•▐█▌▐█▪▄█▀▀█ ▐▀▀▄·    ▐█▐█• ██▀·▐█▐▐▌
+#▐█.█▌▐█▌█▌▪▄█▀ ▐█▀·.▐█ ▪▐▌▐█.█▌     ███ ▐█▪·•██▐█▌
+#·▀  ▀▀▀▀·▀▀▀ •  ▀ •  ▀  ▀ ·▀  ▀    . ▀  .▀   ▀▀ █▪
+
+#🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭
+
+#Спасибо за конфиги от https://www.github.com/igareck/vpn-configs-for-russia
+#%20%5B%2ACIDR%5D
 trojan://13d29042-ab82-4195-9cd4-2bafc518e201@23.227.38.178:443?path=/images&sni=q6clkp794liy3y90.hktimecsgo.xyz&host=q6clkp794liy3y90.hktimecsgo.xyz&security=tls&type=ws&nonce=g4CNYeIX#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
 trojan://13d29042-ab82-4195-9cd4-2bafc518e201@23.227.38.178:443?security=tls&type=ws&host=q6clkp794liy3y90.hktimecsgo.xyz&sni=q6clkp794liy3y90.hktimecsgo.xyz&path=/images#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
 trojan://1710442808@188.114.98.0:443?sni=subb.nrshop198.workers.dev&type=ws&security=tls&host=subb.nrshop198.workers.dev&v=389#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
@@ -130,5 +151,5 @@ trojan://162534@5.223.56.239:8443?security=tls&sni=cchh2.pages.dev&type=ws&host=
 trojan://162534@5.223.56.239:8443?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/%3Fhttps%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&seq=1832#🇸🇬🚀%20Сингапур%20[🏳️LTE]%20|%20🥭🔥
 trojan://162534@5.223.56.239:8443?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/%3Fhttps%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&_t=b22973be#🇸🇬🚀%20Сингапур%20[🏳️LTE]%20|%20🥭🔥
 trojan://162534@5.223.56.239:8443?type=ws&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&host=cchh2.pages.dev&security=tls&sni=cchh2.pages.dev#🇸🇬🚀%20Сингапур%20[🏳️LTE]%20|%20🥭🔥
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?security=none&type=tcp&encryption=none&__rand=a76d2006#🇸🇬🚀%20Сингапур%20[🏳️LTE]%20|%20🥭🔥
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?security=none&type=tcp&2e&__rand=a76d2006#🇸🇬🚀%20Сингапур%20[🏳️LTE]%20|%20🥭🔥
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?type=tcp&security=none&encryption=none#🇸🇬🚀%20Сингапур%20[🏳️LTE]%20|%20🥭🔥
