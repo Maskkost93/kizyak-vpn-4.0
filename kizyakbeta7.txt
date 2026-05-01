@@ -1,3 +1,25 @@
+#profile-title: 🥭 КIЗЯК VPN ⚡
+#profile-desc:🥭🥭🥭
+#profile-description:🥭🥭🥭
+#profile-serverDescription:🥭🥭🥭
+#profile-update-interval: 3
+#subscription-userinfo: upload=0; download=0; total=10737418240000000;
+#support-url: https://t.me/+KLYYc-t388QwOTEy
+#profile-web-page-url: https://t.me/+KLYYc-t388QwOTEy
+
+#🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭
+
+#▄ •▄ ▪  ·▄▄▄▄• ▄· ▄▌ ▄▄▄· ▄ •▄      ▌ ▐· ▄▄▄· ▐ ▄
+#█▌▄▌▪██ ▪▀·.█▌▐█▪██▌▐█ ▀█ █▌▄▌▪    ▪█·█▌▐█ ▄█•█▌▐█
+#▐▀▀▄·▐█·▄█▀▀▀•▐█▌▐█▪▄█▀▀█ ▐▀▀▄·    ▐█▐█• ██▀·▐█▐▐▌
+#▐█.█▌▐█▌█▌▪▄█▀ ▐█▀·.▐█ ▪▐▌▐█.█▌     ███ ▐█▪·•██▐█▌
+#·▀  ▀▀▀▀·▀▀▀ •  ▀ •  ▀  ▀ ·▀  ▀    . ▀  .▀   ▀▀ █▪
+
+#🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭
+
+#Спасибо за конфиги от https://www.github.com/igareck/vpn-configs-for-russia
+#%20%5B%2ACIDR%5D
+
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#🇧🇸🚀%20Эщкерия%20[🏳️LTE]%20|%20🥭🔥
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F&sni=sni.111000.dynv6.net&type=ws#🇧🇸🚀%20Эщкерия%20[🏳️LTE]%20|%20🥭🔥
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@freeyx.cloudflare88.eu.org:443?security=tls&sni=sni.111000.dynv6.net&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26proxyip%3Dip.111000.de5.net%3A443#🇧🇸🚀%20Эщкерия%20[🏳️LTE]%20|%20🥭🔥
