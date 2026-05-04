@@ -10,9 +10,9 @@
 ![Static Badge](https://img.shields.io/badge/v2rayGG-supported-green)
 ![Static Badge](https://img.shields.io/badge/Karing-supported-green)
 ![Static Badge](https://img.shields.io/badge/v2rayTun-partrial_support-yellow)
-![Static Badge](https://img.shields.io/badge/NekoBox-not_supported-red)
-![Static Badge](https://img.shields.io/badge/SagerNet-not_supported-red)
-![Static Badge](https://img.shields.io/badge/GL_Proxy-not_supported-red)
+![Static Badge](https://img.shields.io/badge/NekoBox-supported-green)
+![Static Badge](https://img.shields.io/badge/SagerNet-unknown-red)
+![Static Badge](https://img.shields.io/badge/GL_Proxy-supported-green)
 
 <h2></h2>
 
