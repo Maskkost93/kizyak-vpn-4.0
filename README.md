@@ -11,7 +11,8 @@
 ![Static Badge](https://img.shields.io/badge/Karing-supported-green)
 ![Static Badge](https://img.shields.io/badge/v2rayTun-partrial_support-yellow)
 ![Static Badge](https://img.shields.io/badge/NekoBox-supported-green)
-![Static Badge](https://img.shields.io/badge/SagerNet-unknown-red)
+![Static Badge](https://img.shields.io/badge/SagerNet-supported-green)
+![Static Badge](https://img.shields.io/badge/husi-unknown-red)
 ![Static Badge](https://img.shields.io/badge/GL_Proxy-supported-green)
 
 <h2></h2>
