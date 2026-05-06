@@ -1,4 +1,6 @@
 #profile-name: 🥭 КIЗЯК VPN ⚡
+#announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMDYgMTE6NTIg8J+lrQrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=
+#profile-name: 🥭 КIЗЯК VPN ⚡
 #announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMDYgMTA6MDAg8J+lrQrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=
 vless://3f1851f4-4dbe-4e46-8939-3c5fe4f58d13@at.persik.host:443?fp=chrome&sid=a9d1&type=tcp&flow=xtls-rprx-vision&pbk=0PWYjgVF77OS9fFDEp_w5hq-y1RDwv8KCriiyUdhfGY&security=reality&sni=at.persik.host&spx=/#🇦🇹🚀%20Австрия%20[🏳️LTE]%20|%20🥭🔥
 vless://3f1851f4-4dbe-4e46-8939-3c5fe4f58d13@at.persik.host:443?spx=/&security=reality&sni=at.persik.host&flow=xtls-rprx-vision&type=tcp&fp=chrome&sid=a9d1&pbk=0PWYjgVF77OS9fFDEp_w5hq-y1RDwv8KCriiyUdhfGY&id=9830a3d2#🇦🇹🚀%20Австрия%20[🏳️LTE]%20|%20🥭🔥
