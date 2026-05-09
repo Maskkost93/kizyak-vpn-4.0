@@ -1,9 +1,5 @@
 #profile-name: 🥭 КIЗЯК VPN ⚡
-#announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMDkgMTY6MzMg8J+lrQrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=\033[0m
-#profile-name: 🥭 КIЗЯК VPN ⚡
-#announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMDkgMTY6MzAg8J+lrQrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=\033[0m
-#profile-name: 🥭 КIЗЯК VPN ⚡
-#announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMDkgMTY6MDUg8J+lrQrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=\033[0m
+#announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMDkgMTY6MzQg8J+lrQrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=\033[0m
 vless://5b6a67cc-684e-448d-a93d-3335a61be810@pl-free-2.amnesia.pw:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=TGiarWayhvAmTy5Z26bfEtnmHtRS4YVn03VdRxtm1Es&sni=www.ozon.ru#🇬🇧🚀%20Великобритания%20[🏳️LTE]%20|%20🥭🔥
 vless://5b6a67cc-684e-448d-a93d-3335a61be810@pl-free-2.amnesia.pw:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=TGiarWayhvAmTy5Z26bfEtnmHtRS4YVn03VdRxtm1Es&sni=www.ozon.ru#🇬🇧🚀%20Великобритания%20[🏳️LTE]%20|%20🥭🔥
 vless://5bd36fef-18ac-4d69-8080-25df6c9b369e@104.238.6.225:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SqNAL7L50tQTHhkvN4dT3O-DqdI1qan5iwg6ai4U_hY&sid=a3a5df265540&sni=www.hollywoodreporter.com#🇬🇧🚀%20Великобритания%20[🏳️LTE]%20|%20🥭🔥
