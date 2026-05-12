@@ -1,5 +1,7 @@
 # profile-name: 🥭 КIЗЯК VPN ⚡
 # announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMTIgMTE6NDUg8J+lrQrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=
+# profile-update-interval: 1
+
 vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:27472?encryption=none&headerType=none&pbk=tfBYj32NRb7oc8lmVjr0nlote_rqpe_vd367HlcwxVs&flow=xtls-rprx-vision&spx=%2F&type=tcp&sni=www.samsung.com&fp=chrome&security=reality&sid=b0#🇦🇹🚀%20Австрия%20[🏳️LTE]%20|%20🥭🔥
 vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:27472?headerType=none&sid=b0&spx=%2F&pbk=tfBYj32NRb7oc8lmVjr0nlote_rqpe_vd367HlcwxVs&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=chrome&security=reality&type=tcp&v=300#🇦🇹🚀%20Австрия%20[🏳️LTE]%20|%20🥭🔥
 vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:27472?security=reality&encryption=none&pbk=tfBYj32NRb7oc8lmVjr0nlote_rqpe_vd367HlcwxVs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=b0&r=cb5115#🇦🇹🚀%20Австрия%20[🏳️LTE]%20|%20🥭🔥
