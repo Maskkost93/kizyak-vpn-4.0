@@ -1,5 +1,5 @@
 # profile-title: 🥭 КIЗЯК VPN ⚡
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMTcgMTU6MTAg8J+lrQrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMTcgMTU6NDQg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogNzk3IOKame+4jwrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=
 # profile-update-interval: 1
 vless://0dcd0d55-8a1c-4a8b-91c5-6967720a8444@london1.ap221.com:443?fp=chrome&sni=london.ap221.com&flow=xtls-rprx-vision&type=tcp&security=tls&burmalda=910448bb#🇬🇧🚀%20Великобритания%20[🏳️LTE]%20|%20🥭🔥
 vless://0dcd0d55-8a1c-4a8b-91c5-6967720a8444@london1.ap221.com:443?security=tls&type=tcp&sni=london.ap221.com&fp=chrome&flow=xtls-rprx-vision&freeinternet=kizyak_vpn1779012493766#🇬🇧🚀%20Великобритания%20[🏳️LTE]%20|%20🥭🔥
