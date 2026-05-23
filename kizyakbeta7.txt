@@ -1,19 +1,8 @@
 # profile-title: 🥭 КIЗЯК VPN ⚡
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMjMgMjI6MzMg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTMg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# announce: base64:0KLQldCl0J3QmNCn0JXQodCa0JjQlSDQoNCQ0JHQntCi0KsK0JpJ0JfQr9CaIFZQTiA3LjEg0J3Q
+kCDQrdCi0JDQn9CVINCU0J7QoNCQ0JHQntCi0JrQmArQo9CR0JXQlNCY0KLQldCb0KzQndCeINCf
+0KDQntCh0JjQnCDQktCQ0KEg0JLQoNCV0JzQldCd0J3QniDQn9CV0KDQldCZ0KLQmCDQndCQINCS
+0JXQoNCh0JjQriB2Ni42Cg==
 # profile-update-interval: 1
-# profile-title: 🥭 КIЗЯК VPN ⚡
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMjMgMTM6NDIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTMg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
-# profile-update-interval: 1
-vless://2d14c590-a783-47f0-9e15-9160d50c12fb@84.201.160.68:2447?sni=dnd.wb.ru&sid=e035146d93da51a9&fp=random&type=tcp&pbk=5w9AftPH_705ynMzcG03D3z61O1qegNp6WFL6jOXxRA&flow=xtls-rprx-vision&encryption=none&spx=%2F&security=reality#🇪🇺🚀%20Европа%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://33ac3139-22c0-4176-945f-da539c0b8ef3@62.152.58.100:443?security=reality&encryption=none&pbk=dIGnZ6HRkh_W5K4i00JOsT_F1Ez96Lm1PjEr0TkJPWo&type=tcp&fp=chrome&sid=6ba85179e30d4fc2&sni=x5.ru&flow=xtls-rprx-vision#🇪🇺🚀%20Европа%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://72c319bb-577f-481c-8fc7-0364d72a395d@5.188.142.107:443?sni=ads.x5.ru&flow=xtls-rprx-vision&security=reality&pbk=r86ni68GUNiBgVWBcMefmBuPhNYpxgjsZkDFJDJxJUw&encryption=none&sid=c2b9fa3010bd32ae&type=tcp&fp=qq#🇪🇺🚀%20Европа%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://fb0a849b-094a-42f5-acdc-a755d553da24@158.160.187.237:443?sni=api-maps.yandex.ru&pbk=xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I&encryption=none&flow=xtls-rprx-vision&fp=random&type=tcp&security=reality&spx=%2F&sid=27e53bbcab7593d7&freeinternet=kizyak_vpn177952572886#🇪🇺🚀%20Европа%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://6d1b6391-c4ba-431e-9c3a-148a8f392c8b@88.214.24.186:443?sni=fr186.mechvpn.online&flow=xtls-rprx-vision&type=tcp&security=tls&fp=chrome#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
-vless://c0331af3-eb81-442a-b62a-630830a1772f@158.160.130.173:443?sid=8ec792bfd725be8a&security=reality&encryption=none&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&flow=xtls-rprx-vision&type=tcp&fp=chrome&sni=cdp.x5.ru#🇳🇱🚀%20Нидерланды%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://c0331af3-eb81-442a-b62a-630830a1772f@51.250.106.87:443?fp=chrome&flow=xtls-rprx-vision&sid=8ec792bfd725be8a&type=tcp&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&encryption=none&security=reality&sni=cdp.x5.ru&descriptions=люби_себя9f4b4f#🇳🇱🚀%20Нидерланды%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://c0331af3-eb81-442a-b62a-630830a1772f@51.250.108.162:443?security=reality&flow=xtls-rprx-vision&fp=chrome&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a&type=tcp&encryption=none&burmalda=01dfe9d0#🇳🇱🚀%20Нидерланды%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://c0331af3-eb81-442a-b62a-630830a1772f@51.250.97.18:443?encryption=none&sni=cdp.x5.ru&sid=8ec792bfd725be8a&flow=xtls-rprx-vision&security=reality&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&type=tcp&fp=chrome#🇳🇱🚀%20Нидерланды%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://6d1b6391-c4ba-431e-9c3a-148a8f392c8b@85.158.110.194:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=node194.mechvpn.online&_t=5200ee15#🇳🇱🚀%20Нидерланды%20[🏳️LTE]%20|%20🥭🔥
-vless://e5bbcb8c-ffd9-40c8-8406-5514b3934c85@84.201.172.166:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=yandex.ru&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&sid=3c1523da43287ec4&spx=%2F#🇷🇺🚀%20Россия%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://2d14c590-a783-47f0-9e15-9160d50c12fb@84.201.160.68:2445?flow=xtls-rprx-vision&encryption=none&sid=7b374423e3f0f5fb&fp=random&security=reality&type=tcp&spx=%2F&pbk=5w9AftPH_705ynMzcG03D3z61O1qegNp6WFL6jOXxRA&sni=akashi.vk-portal.net&freeinternet=kizyak_vpn1779525728852#🇫🇮🚀%20Финляндия%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://33ac3139-22c0-4176-945f-da539c0b8ef3@62.152.60.54:443?sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&sni=x5.ru&pbk=dIGnZ6HRkh_W5K4i00JOsT_F1Ez96Lm1PjEr0TkJPWo&security=reality&encryption=none&fp=chrome&type=tcp#🇫🇮🚀%20Финляндия%20🔐%20[🏳️LTE]%20|%20🥭🔥
+
+vless://33ac3139-22c0-4176-945f-da539c0b8ef3@0.0.0.0:443?sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&sni=x5.ru&pbk=dIGnZ6HRkh_W5K4i00JOsT_F1Ez96Lm1PjEr0TkJPWo&security=reality&encryption=none&fp=chrome&type=tcp#ТЕХНИЧЕСКИЕ%20РАБОТЫ
