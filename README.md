@@ -12,7 +12,7 @@
 ![Static Badge](https://img.shields.io/badge/NekoBox-supported-green)
 ![Static Badge](https://img.shields.io/badge/v2rayNG-supported-green)
 ![Static Badge](https://img.shields.io/badge/Happ-partial_support-yellow)
-[![Telegram](https://img.shields.io/badge/Telegram-@kizyak_vpn-0e75b6?logo=telegram&logoColor=white)](https://t.me/+eAvcZtwbbq5lMDYy)
+[![Telegram](https://img.shields.io/badge/Telegram-@kizyak_vpn-0e75b6?logo=telegram&logoColor=white)](https://t.me/+_AQS7X42NBdiNmNi)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RkeXZzdDl1Y3g4dW1xcjFxc2xsMHVsZ2RiY243OHJodjd0cHQ1NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qXp82ZL3eZbbTUrLyy/giphy.gif" width="20"> Коллекция публичных и бесплатных конфигураций VLESS / VMess / Shadowsocks / Hysteria2, протестированных для обхода белых списков (БС) и чёрных списков (ЧС) на территории РФ.
 
@@ -159,7 +159,7 @@ https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/Mask
 
 ## 📢 КОНТАКТЫ И ПОДДЕРЖКА
 
-- **Telegram-канал со свежими серверами и новостями:** [@kizyak_vpn](https://t.me/+eAvcZtwbbq5lMDYy) (нажмите)
+- **Telegram-канал со свежими серверами и новостями:** [@kizyak_vpn](https://t.me/+_AQS7X42NBdiNmNi) (нажмите)
 - **Репозиторий:** [github.com/Maskkost93/kizyak-vpn-4.0](https://github.com/Maskkost93/kizyak-vpn-4.0)
 
 ### ☕️ Поддержать проект
