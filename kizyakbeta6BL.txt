@@ -1,17 +1,22 @@
 # profile-title: КIЗЯК VPN BLACKLIST🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMjcgMTQ6NDkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogNCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMjggMTk6MzUg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMSDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-05-27 / 10:50 (Moscow)
+# Date/Time: 2026-05-28 / 16:59 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@90.156.211.232:8443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dss.lrdxw.club%3Bpath%3D%2F94ce96d3-840d-4320-9b9b-07bdba018212%2F%3Fed%3D2560%3Btls%3Bsni%3Dhttps%3A%2F%2Ft.me%2Foneclickvpnkeys%3Bmux%3D0%3Bskip-cert-verify%3Dtrue#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20[🏴BL]
+hysteria2://qqqqqq%3AWvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:443?headerType=none&encryption=none&sni=fi2.alexanderoff.ru&insecure=0#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20Helsinki%20[🏴BL]
+hysteria2://qqqqqq%3AWvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:443?security=tls&alpn=h3&insecure=0&sni=fi2.alexanderoff.ru#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20Helsinki%20[🏴BL]
+hysteria2://qqqqqq%3AWvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:443?security=tls&insecure=0&sni=fi2.alexanderoff.ru#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20Helsinki%20[🏴BL]
 hysteria2://qqqqqq:Wvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:443?fm=%257B%250A%2520%2520%2522quicParams%2522%2520%3A%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520%3A%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&type=hysteria&security=tls&sni=fi2.alexanderoff.ru&alpn=h3&fp=chrome&allowInsecure=0&echfq=none#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20Helsinki%20[🏴BL]
+hysteria2://qqqqqq:Wvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=fi2.alexanderoff.ru#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20Helsinki%20[🏴BL]
 hysteria2://qqqqqq:Wvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&insecure=0#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20Helsinki%20[🏴BL]
-hysteria2://lmMa0tE8qQ@212.135.127.231:443?sni=fastly.net&insecure=1#%F0%9F%87%AC%F0%9F%87%A7%20Великобритания%2C%20Beeston%20[🏴BL]
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@163.172.126.108:41227?sni=www.microsoft.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Los%20Angeles%20[🏴BL]
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?security=tls&insecure=0&mport=443&sni=s516.okgfw.top#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏴BL]
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh70gTWV4aWNvLCBNZXhpY28gQ2l0eSB8IFtCTF0iLCJhZGQiOiIxMzAuOTQuMTAxLjM1IiwicG9ydCI6IjQ2ODIwIiwiaWQiOiJmMjNiMzIyYy05YmMxLTRhMGMtODAzZC00OTRkYjlkNDA5OWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=
-trojan://b49df800-061e-3282-a34c-70c864c83e8a@ascjp.ntt1.ccddn4.icu:65302?security=tls&sni=cdnjp.douyinvod.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Япония%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20[🏴BL]
-trojan://b49df800-061e-3282-a34c-70c864c83e8a@ntnt2.x2k8m9q3.top:65302?security=tls&sni=cdnjp.douyinvod.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Япония%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20[🏴BL]
+hysteria2://6yhPOr3f9o@47.242.216.193:30236?headerType=none&encryption=none&sni=go.microsoft.com&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20[🏴BL]
+hysteria2://6yhPOr3f9o@47.242.216.193:30236?sni=go.microsoft.com&insecure=1&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20[🏴BL]
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-tw-002.fastervpn.world&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Тайвань%2C%20Taoyuan%20[🏴BL]
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#%F0%9F%87%B9%F0%9F%87%BC%20Тайвань%2C%20Taoyuan%20[🏴BL]
+hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@5.39.254.225:2056?sni=ld1.mangshe.xyz&insecure=1&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20Великобритания%2C%20London%20%7C%20%F0%9F%8C%90%20[🏴BL]
+hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@166.88.142.205:2056/?insecure=1&sni=mg6.mangshe.xyz#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%20%7C%20%F0%9F%8C%90%20[🏴BL]
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@185.106.96.231:443?sni=s559.ccgfw.top#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20San%20Francisco%20[🏴BL]
+trojan://mitivpn@14.102.228.76:443?security=tls&sni=www.app-cloud.ir&insecure=1&allowInsecure=1&type=ws&path=%2Fhttp%2F1.1#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AC%20[🏴BL]
