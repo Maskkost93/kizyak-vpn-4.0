@@ -1,4 +1,7 @@
 # profile-title: 🥭 КIЗЯК VPN ⚡
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMjggMjI6NTcg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTI4IOKame+4jwrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=
+# profile-update-interval: 1
+# profile-title: 🥭 КIЗЯК VPN ⚡
 # announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMjggMjI6MDkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTI4IOKame+4jwrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=
 # profile-update-interval: 1
 vless://47030ea3-4e8c-4dd6-b440-418a7a54c1a0@47.82.87.196:50724?encryption=none&type=raw&headerType=none&security=none&burmalda=c11c9630#🇭🇰🚀%20Гонконг%20[🏳️LTE]%20|%20🥭🔥
