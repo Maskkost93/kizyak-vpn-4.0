@@ -1,5 +1,5 @@
 # profile-title: 🥭 КIЗЯК VPN 6
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMjkgMTM6NDQg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogNjEg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDUtMjkgMTQ6Mjcg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogNTkg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
 # profile-update-interval: 1
 
 
@@ -63,12 +63,10 @@ trojan://Mitivpn@216.24.57.7:443?path=/?ed=2048&security=tls&alpn=http/1.1&host=
 trojan://Mitivpn@216.24.57.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AC%20[🏳️LTE]%20|%20🥭🔥
 # Date/Time: 2026-05-29 / 11:42 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-# Date/Time: 2026-05-29 / 10:11 (Moscow)
+# Date/Time: 2026-05-29 / 11:42 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://79d6a159-67c8-4164-9534-89f103c81aaf@bez2.stream-room.com:8080?type=xhttp&security=reality&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c&sni=ozon.ru&path=/#%F0%9F%87%AA%F0%9F%87%AA%20Эстония%20%7C%20%F0%9F%8C%90%20|%20🥭🔥%20ozon.ru
-vless://86e1cbab-329e-48ca-a213-71745655886f@72.56.4.94:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.gosuslugi.ru&fp=chrome&security=reality&pbk=ra-OyOGZwj9ZApabpTq2sZWIzub52UfzLvnfw1utsQg&sid=23637807#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20%F0%9F%8C%90%20|%20🥭🔥%20www.gosuslugi.ru
-vless://9beef3b2-5749-4529-a91a-29af1c043d6b@ru.cleanersaz.help:443?encryption=none&security=reality&sni=mail.yandex.ru&fp=chrome&pbk=ln-KqcOqpzGkkbNd9zLrVLWgHUB8TZrSq7IhAm69zQY&sid=aaaa&type=grpc&authority=&serviceName=zrvxqfpn&mode=gun#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B0%F0%9F%87%B7%20|%20🥭🔥%20mail.yandex.ru
-vless://9beef3b2-5749-4529-a91a-29af1c043d6b@ru.cleanersaz.help:443?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=WtnWCKqYrcdcV5hhWcFOQs3iPbUaxQrpPcFMiQPpwns&sid=aaaa&type=grpc&authority=&serviceName=mtdklsqa&mode=gun#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B0%F0%9F%87%B7%20|%20🥭🔥%20yandex.ru
-vless://9beef3b2-5749-4529-a91a-29af1c043d6b@ru.cleanersaz.help:4443?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=TeLKwBR2dLcbcY-G8jySuzhC25-OOMLyjy-BkKAa1SY&sid=aaaa&type=grpc&authority=&serviceName=api-maps.yandex.ru&mode=gun#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20|%20🥭🔥%20api-maps.yandex.ru
+vless://4accc4fb-9ec3-41ae-ac3e-cc5d3dabe156@cdn8.cloud-vk.com:8443?security=reality&encryption=none&pbk=eOSTlPCwxYoFWH74DVgLUX_dJb9wmHL33MMU5lxMwCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=fd3e03cb6d5b#%F0%9F%87%B0%F0%9F%87%BF%20Казахстан%20%7C%20%F0%9F%8C%90%20|%20🥭🔥%20rbc.ru
+vless://4accc4fb-9ec3-41ae-ac3e-cc5d3dabe156@cdn11.cloud-vk.com:443?security=reality&encryption=none&pbk=I6seu-Rq-f8XamKpN_Zh2EiKkKx7pbAv__DK2aX9FGk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=7653a284f17acb26#%F0%9F%87%B9%F0%9F%87%B7%20Турция%20%7C%20%F0%9F%8C%90%20|%20🥭🔥%20m.vk.com
+vless://4accc4fb-9ec3-41ae-ac3e-cc5d3dabe156@cdn2.cloud-vk.com:443?security=reality&encryption=none&pbk=yrYgien87jB4aWqIArGlf6qlNZ_gA8Qxbaq9LBmezEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=2655c0d496#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B0%F0%9F%87%AA%20|%20🥭🔥%20m.vk.com
 trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?allowInsecure=1&headerType=none&insecure=1&security=tls&type=tcp&sni=eh.vk.com#%F0%9F%87%A8%F0%9F%87%A6%20Канада%20|%20🥭🔥%20eh.vk.com
