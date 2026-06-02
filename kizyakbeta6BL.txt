@@ -1,36 +1,10 @@
 # profile-title: КIЗЯК VPN BLACKLIST🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDYtMDIgMTc6NTkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTkg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDYtMDIgMjE6NDkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMSDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-06-02 / 10:33 (Moscow)
+# Date/Time: 2026-06-02 / 16:56 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-hysteria2://205d6869-02ca-3b36-b933-be2465250c7e@s544.ccgfw.online:443?sni=u716087us544.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#%F0%9F%87%A7%F0%9F%87%AC%20Болгария%2C%20Veliko%20Tarnovo%20[🏴BL]
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?headerType=none&encryption=none&sni=de2.xiaoliyu.cyou&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Karlsruhe%20%28Nordweststadt%29%20%7C%20%F0%9F%8C%90%20[🏴BL]
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Karlsruhe%20%28Nordweststadt%29%20%7C%20%F0%9F%8C%90%20[🏴BL]
-hysteria2://IG9Sundefinedvx6RJ@47.76.94.197:58771?headerType=none&encryption=none&sni=go.microsoft.com&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20[🏴BL]
-hysteria2://IG9Sundefinedvx6RJ@47.76.94.197:58771?sni=go.microsoft.com&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20[🏴BL]
-hysteria2://IG9Sundefinedvx6RJ@47.76.94.197:58771?sni=go.microsoft.com&insecure=1&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20[🏴BL]
-hysteria2://205d6869-02ca-3b36-b933-be2465250c7e@s869.okgfwbackxyz.xyz:443?sni=u716087us869.okgfwbackxyz.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Arlington%20Heights%20[🏴BL]
-hysteria2://7ce9a8d0-2cb2-4b8d-8de9-262c1d6597ac@us.gotogle.com:443?headerType=none&encryption=none&sni=us.gotogle.com&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Seattle%20%7C%20%F0%9F%8C%90%20[🏴BL]
-hysteria2://7ce9a8d0-2cb2-4b8d-8de9-262c1d6597ac@us.gotogle.com:443?sni=us.gotogle.com#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Seattle%20%7C%20%F0%9F%8C%90%20[🏴BL]
-vmess://eyJhZGQiOiJsZXZlbDMuY3BsdXNsaW5rLmNvbSIsImFpZCI6IjAiLCJhbGxvd19pbnNlY3VyZSI6IjAiLCJhbGxvd0luc2VjdXJlIjoiMCIsImlkIjoiOGQxZTdmYzktNjBmOS0zZTExLWFiMjktNDU1MjQzYzQ4OTVkIiwiaW5zZWN1cmUiOiIwIiwicG9ydCI6IjYwMSIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIE9zYWthIHwgW0JMXSIsInNlY3VyaXR5IjoiYXV0byIsInYiOiIyIiwibmV0IjoiIiwidHlwZSI6Im5vbmUiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
-trojan://Z3_%3Dewk_%2Bl1U4OT4usQ5%3Do2vFfk95yfy1V@130.94.97.11:443?type=tcp&security=tls&headerType=none&sni=www.selectnet.click&fp=chrome&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%AC%20Болгария%2C%20Sofia%20[🏴BL]
-trojan://Z3_%3Dewk_%2Bl1U4OT4usQ5%3Do2vFfk95yfy1V@130.94.97.11:443?security=tls&sni=www.selectnet.click#%F0%9F%87%A7%F0%9F%87%AC%20Болгария%2C%20Sofia%20[🏴BL]
-trojan://Z3_%3Dewk_%2Bl1U4OT4usQ5%3Do2vFfk95yfy1V@130.94.97.11:443?type=tcp&security=tls&sni=www.selectnet.click&fp=chrome&alpn=http%252F1.1&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%AC%20Болгария%2C%20Sofia%20[🏴BL]
-trojan://lTs6OZOMoq%20kDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&insecure=1&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.cdn-structure.click#%F0%9F%87%A8%F0%9F%87%B1%20Чили%2C%20Santiago%20[🏴BL]
-trojan://lTs6OZOMoq%20kDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?type=tcp&security=tls&headerType=none&sni=www.cdn-structure.click&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B1%20Чили%2C%20Santiago%20[🏴BL]
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&insecure=1&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.static-cast.click#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Beijing%20[🏴BL]
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?type=tcp&security=tls&headerType=none&sni=www.static-cast.click&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Beijing%20[🏴BL]
-trojan://M7v%25w11Se%2A@dggg.wsone.icu:443?security=tls&type=tcp&sni=dggg.wsone.icu#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
-trojan://M7v%25w11Se%2A@amanm.wsone.icu:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B3%20Индия%2C%20Mumbai%20[🏴BL]
-trojan://M7v%25w11Se%2A@amanm.wsone.icu:443?security=tls&sni=amanm.wsone.icu#%F0%9F%87%AE%F0%9F%87%B3%20Индия%2C%20Mumbai%20[🏴BL]
-trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B3%20Индия%2C%20New%20Delhi%20[🏴BL]
-trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&sni=hyfuuf6.wsone.icu&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B3%20Индия%2C%20New%20Delhi%20[🏴BL]
-trojan://M7v%25w11Se%2A@34.131.228.210:443?security=tls&type=tcp&sni=hyfuuf6.wsone.icu#%F0%9F%87%AE%F0%9F%87%B3%20Индия%2C%20New%20Delhi%20[🏴BL]
-trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20Польша%2C%20Warsaw%20[🏴BL]
-trojan://humanity@81.255.155.10:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20Польша%2C%20Warsaw%20[🏴BL]
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:45553?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&fp=chrome&alpn=http%252F1.1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%AD%20Швейцария%2C%20Zurich%20[🏴BL]
-trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?security=tls&sni=www.event-snapshot.click&fp=chrome&type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20Вьетнам%2C%20Hanoi%20[🏴BL]
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AC%20[🏴BL]
+hysteria2://205d6869-02ca-3b36-b933-be2465250c7e@s544.ccgfw.online:443?headerType=none&encryption=none&sni=u716087us544.ccgfw.online&insecure=0#%F0%9F%87%A7%F0%9F%87%AC%20Болгария%2C%20Veliko%20Tarnovo%20[🏴BL]
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&allowinsecure=0&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20[🏴BL]
