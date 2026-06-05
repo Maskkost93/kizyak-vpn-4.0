@@ -1,17 +1,29 @@
-# profile-title: 🥭 КIЗЯК VPN 6
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDYtMDUgMTQ6NDMg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogNSDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# profile-title: 🥭 КIЗЯК VPN ⚡
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDYtMDUgMTU6MTIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMjYg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
 # profile-update-interval: 1
-
-
-# Date/Time: 2026-06-05 / 11:17 (Moscow)
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-
-vless://231e089f-60eb-41d5-bc1f-a98334fbacb5@51.250.108.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%AC%F0%9F%87%A7%20Великобритания%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://231e089f-60eb-41d5-bc1f-a98334fbacb5@51.250.104.246:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%AC%F0%9F%87%A7%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://231e089f-60eb-41d5-bc1f-a98334fbacb5@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%AC%F0%9F%87%A7%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://231e089f-60eb-41d5-bc1f-a98334fbacb5@51.250.24.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%AC%F0%9F%87%A7%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://231e089f-60eb-41d5-bc1f-a98334fbacb5@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%AC%F0%9F%87%A7%20[🏳️LTE]%20|%20🥭🔧%20%20
-# Date/Time: 2026-06-05 / 11:17 (Moscow)
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-# Date/Time: 2026-06-05 / 11:17 (Moscow)
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
+vless://a69d3804-b95f-4ea7-8b06-b544c1b49438@51.250.108.162:443?encryption=none&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&fp=safari&sni=cdp.x5.ru&flow=xtls-rprx-vision&sid=8ec792bfd725be8a&security=reality&type=tcp&burmalda=8ce32457#🇬🇧🚀%20Великобритания%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://a69d3804-b95f-4ea7-8b06-b544c1b49438@51.250.108.162:443?flow=xtls-rprx-vision&security=reality&sni=cdp.x5.ru&fp=safari&sid=8ec792bfd725be8a&type=tcp&encryption=none&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&__rand=2f6b0cf3#🇬🇧🚀%20Великобритания%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@login.sempai.site:443?headerType=none&encryption=none&fp=firefox&type=tcp&sni=front.xwhiteness.site&security=reality&pbk=HSxmRrAGkb_RPkm7rLyqr9tVCGzd9thesrdcgENYShA&flow=xtls-rprx-vision#🇬🇧🚀%20Великобритания%20[🏳️LTE]%20|%20🥭🔥
+vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@login.sempai.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=front.xwhiteness.site&fp=firefox&pbk=HSxmRrAGkb_RPkm7rLyqr9tVCGzd9thesrdcgENYShA&flow=xtls-rprx-vision&_t=b2352dc9#🇬🇧🚀%20Великобритания%20[🏳️LTE]%20|%20🥭🔥
+vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?host=odd-bread-435d.ahmadrezasteamacc.workers.dev&type=ws&path=%2F&security=none&encryption=none#🇭🇰🚀%20Гонконг%20[🏳️LTE]%20|%20🥭🔥
+vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?path=%2F&security=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&type=ws&encryption=none&_t=a6115267#🇭🇰🚀%20Гонконг%20[🏳️LTE]%20|%20🥭🔥
+vless://63a16ebb-8687-42ac-972a-5914cafad1d5@146.185.211.107:8444?encryption=none&security=reality&fp=chrome&sid=0d62c138f2bf1ba8&flow=xtls-rprx-vision&pbk=hL6rNCNtquIMhYV8V3WOrowSgIwko61yQIX2o1w6_lY&sni=yandex.ru&headerType=none&type=tcp&seq=you_are_beautiful0715#🇪🇺🚀%20Европа%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://63a16ebb-8687-42ac-972a-5914cafad1d5@146.185.211.107:8444?security=reality&type=tcp&encryption=none&headerType=none&fp=chrome&sni=yandex.ru&sid=0d62c138f2bf1ba8&flow=xtls-rprx-vision&pbk=hL6rNCNtquIMhYV8V3WOrowSgIwko61yQIX2o1w6_lY&freeinternet=kizyak_vpn1780654372936#🇪🇺🚀%20Европа%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://6682035b-8de0-4603-9e8a-b496857897b2@172.67.220.199:2095?encryption=none&path=/&type=ws&host=n5.asmdns.net&security=none&burmalda=f76538f9#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
+vless://6682035b-8de0-4603-9e8a-b496857897b2@172.67.220.199:2095?path=/&security=none&encryption=none&host=n5.asmdns.net&type=ws&burmalda=4f14dc4b#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
+vless://6682035b-8de0-4603-9e8a-b496857897b2@n6.asmdns.net:2095?path=/&encryption=none&type=ws&host=n5.asmdns.net&security=none#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
+vless://6682035b-8de0-4603-9e8a-b496857897b2@n6.asmdns.net:2095?type=ws&host=n5.asmdns.net&path=/&security=none&encryption=none#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?type=grpc&descriptions=люби_себя6a6a5a#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?type=grpc&seq=you_are_beautiful9879#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc&descriptions=люби_себяbc1d54#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?type=grpc&mode=gun&encryption=none&security=&burmalda=fbaf140c#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
+vless://9b6971cf-60cb-4ead-9d8c-92bb44823f84@5.75.196.174:443?sni=www.cloudflare.com&fp=chrome&headerType=none&type=tcp&sid=26baa584ed0e88&security=reality&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&spx=%2FatvKoAwX1UsJfaX&encryption=none&flow=xtls-rprx-vision&seq=you_are_beautiful2021#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
+vless://9b6971cf-60cb-4ead-9d8c-92bb44823f84@5.75.196.174:443?type=tcp&sni=www.cloudflare.com&security=reality&spx=%2FatvKoAwX1UsJfaX&sid=26baa584ed0e88&encryption=none&fp=chrome&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=none&flow=xtls-rprx-vision#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
+vless://d914b02c-274b-41c9-9952-11eda75b12f0@193.233.198.69:8443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8&burmalda=4f63ab70#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
+vless://d914b02c-274b-41c9-9952-11eda75b12f0@193.233.198.69:8443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8&nonce=vNdlN-LJ#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80/?host=main.boobie.eu.cc&type=ws&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=&path=%2F&__rand=2c09ae9e#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80/?type=ws&encryption=none&path=%2F&flow=&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&host=main.boobie.eu.cc&descriptions=СвободуИнтернету268#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
+vless://111ff361-01ae-43a6-9a70-37a177adb989@188.114.97.6:80?encryption=none&host=cache.netflix.com.cyylr.eu.cc&type=ws&security=none&path=/in-pdr&nonce=ZwhyYbXY#🇸🇪🚀%20Швеция%20[🏳️LTE]%20|%20🥭🔥
+vless://111ff361-01ae-43a6-9a70-37a177adb989@188.114.97.6:80?type=ws&path=/in-pdr&encryption=none&security=none&host=cache.netflix.com.cyylr.eu.cc#🇸🇪🚀%20Швеция%20[🏳️LTE]%20|%20🥭🔥
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.17.46.112:80?encryption=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F&security=none#🇧🇸🚀%20Эщкерия%20[🏳️LTE]%20|%20🥭🔥
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?encryption=none&host=main.boobie.eu.cc&path=/&security=none&type=ws#🇧🇸🚀%20Эщкерия%20[🏳️LTE]%20|%20🥭🔥
