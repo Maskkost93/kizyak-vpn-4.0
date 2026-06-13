@@ -1,19 +1,26 @@
 # profile-title: КIЗЯК VPN BLACKLIST🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDYtMTMgMjA6NTMg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogNSDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDYtMTMgMjI6MTgg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTAg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-06-13 / 15:12 (Moscow)
+# Date/Time: 2026-06-13 / 19:21 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 hysteria2://e3a5bb40be52de65@89.251.26.111:55555/?insecure=1&sni=apps.apple.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Tsuen%20Wan%20[🏴BL]
 hysteria2://e3a5bb40be52de65@89.251.26.111:55555?sni=apps.apple.com&insecure=1&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Tsuen%20Wan%20[🏴BL]
+hysteria2://efe3901e-b309-43f3-843a-f4f871670cf3@154.83.159.233:8449?insecure=1&pinSHA256=firefox&sni=sni.nl01-cherry.online#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20[🏴BL]
 hysteria2://efe3901e-b309-43f3-843a-f4f871670cf3@154.83.159.233:8449?sni=sni.nl01-cherry.online&pinSHA256=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20[🏴BL]
 hysteria2://efe3901e-b309-43f3-843a-f4f871670cf3@888275.nl01-cherry.online:8449?headerType=none&encryption=none&sni=sni.nl01-cherry.online&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20[🏴BL]
 hysteria2://efe3901e-b309-43f3-843a-f4f871670cf3@888275.nl01-cherry.online:8449?sni=sni.nl01-cherry.online#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20[🏴BL]
-hysteria2://2d83ea00-2813-448d-bee6-14eaf7f52e13@161.104.88.46:443?sni=k71530.w-mebel.pro&upmbps=2&downmbps=5#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Woodside%20%28Woodside%20Hills%29%20[🏴BL]
-trojan://SoftNetConnect@194.5.192.89:2087?mode=gun&security=reality&authority=45.151.102.87&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=160b91b3#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
-trojan://SoftNetConnect@194.5.192.89:443?mode=auto&path=/&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=d591#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
-trojan://SoftNetConnect@194.5.192.89:8443?security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=ca14e14437#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+hysteria2://2d83ea00-2813-448d-bee6-14eaf7f52e13@161.104.88.46:443?insecure=1&sni=k71530.w-mebel.pro#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Woodside%20%28Woodside%20Hills%29%20[🏴BL]
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@180.93.128.92:443?sni=vpn-vn-001.fastervpn.world&insecure=1&allowInsecure=1#%F0%9F%87%BB%F0%9F%87%B3%20Вьетнам%2C%20Qu%E1%BA%ADn%20B%E1%BB%91n%20[🏴BL]
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN%3DUCe.2Jd@185.137.157.254:443?security=tls&insecure=0&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN%3DUCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://SoftNetConnect@185.204.169.164:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&authority=45.151.102.87&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=160b91b3#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://SoftNetConnect@185.204.169.164:443?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&sid=d591&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://SoftNetConnect@185.204.169.164:8443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&sid=ca14e14437&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://humanity@185.231.112.217:40443?path=/assignment&security=tls&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20Польша%2C%20Warsaw%20[🏴BL]
 trojan://humanity@81.255.155.10:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20Польша%2C%20Warsaw%20[🏴BL]
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:45553/?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%AD%20Швейцария%2C%20Zurich%20[🏴BL]
+trojan://humanity@81.255.155.10:443?type=ws&headerType=none&security=tls&encryption=none&sni=www.creationlong.org&path=/assignment&insecure=0#%F0%9F%87%B5%F0%9F%87%B1%20Польша%2C%20Warsaw%20[🏴BL]
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.44:45553?security=tls&sni=ch.01.naiun.bilibili.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%20Швейцария%2C%20Zurich%20[🏴BL]
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.90:45553/?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%AD%20Швейцария%2C%20Zurich%20[🏴BL]
