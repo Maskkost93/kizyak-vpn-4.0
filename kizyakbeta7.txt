@@ -1,4 +1,7 @@
 # profile-title: 🥭 КIЗЯК VPN ⚡
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDYtMTYgMDM6MTMg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMjU4IOKame+4jwrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=
+# profile-update-interval: 1
+# profile-title: 🥭 КIЗЯК VPN ⚡
 # announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDYtMTYgMDE6MDcg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMjU4IOKame+4jwrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=
 # profile-update-interval: 1
 vless://39c61035-36aa-4892-8cf8-b6f3ffc0b145@uk-gthost-01.com:8443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=c20b1035d72d7793&sni=rbc.ru&type=tcp&descriptions=СвободуИнтернету901#🇬🇧🚀%20Великобритания%20🔐%20[🏳️LTE]%20|%20🥭🔥
