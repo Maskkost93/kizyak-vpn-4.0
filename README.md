@@ -4,7 +4,7 @@
 
 </div>
 
-# 🥭 КIЗЯК VPN — бесплатные серверы против белых списков в РФ
+# 🥭 КIЗЯК VPN — бесплатные сервера против белых списков в РФ
 
 [![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/Maskkost93/kizyak-vpn-4.0?logo=history&logoColor=white&color=0e75b6&style=flat)](https://github.com/Maskkost93/kizyak-vpn-4.0/commits/main)
 [![Stars](https://img.shields.io/github/stars/Maskkost93/kizyak-vpn-4.0?style=flat&color=0e75b6)](https://github.com/Maskkost93/kizyak-vpn-4.0/stargazers)
