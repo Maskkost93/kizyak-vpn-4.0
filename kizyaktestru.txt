@@ -1,5 +1,5 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDYtMjggMTM6NDAg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogNDUg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDYtMjggMTM6NTQg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogNDUg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
 # profile-update-interval: 1
 vless://8bbf020e-653f-4a82-9900-1214e4e37dab@45.91.55.232:7443?type=tcp&security=reality&sni=rutube.ru&fp=firefox&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#🇬🇧🚀%20Великобритания%20🔐%20[🏳️LTE]%20|%20🥭🔥
 vless://8bbf020e-653f-4a82-9900-1214e4e37dab@45.91.55.233:7443?type=tcp&security=reality&sni=rutube.ru&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#🇬🇧🚀%20Великобритания%20🔐%20[🏳️LTE]%20|%20🥭🔥
@@ -35,7 +35,7 @@ vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.147:8443?Telegram=@Gozarg
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.156:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#🇸🇨🚀%20Сейшелы%20🔐%20[🏳️LTE]%20|%20🥭🔥
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.181:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#🇸🇨🚀%20Сейшелы%20🔐%20[🏳️LTE]%20|%20🥭🔥
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.187:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#🇸🇨🚀%20Сейшелы%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.194:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#🇸🇨🚀%20Сейшелы%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.194:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#🇸🇨🚀%20Сейшелы%20🔐%20[🏳️LTE]%20|%20🥭🔥
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.203:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#🇸🇨🚀%20Сейшелы%20🔐%20[🏳️LTE]%20|%20🥭🔥
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.56:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#🇸🇨🚀%20Сейшелы%20🔐%20[🏳️LTE]%20|%20🥭🔥
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.71:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#🇸🇨🚀%20Сейшелы%20🔐%20[🏳️LTE]%20|%20🥭🔥
@@ -61,5 +61,5 @@ hysteria2://b95dd8e5-2758-408f-be99-9362eecee609@files.fantoff.online:10808?inse
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz&insecure=1#🇺🇸🚀%20США%20🛡️%20[🏳️LTE]%20|%20🥭🔥
 hysteria2://MySecurePassword123@wuhantravel.duckdns.org:8443?security=tls&insecure=0&sni=wuhantravel.duckdns.org#🇺🇸🚀%20США%20🛡️%20[🏳️LTE]%20|%20🥭🔥
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?encryption=none&sni=fta.fontanvpn.com&insecure=0&headerType=none&__rand=025d5f55#🇫🇮🚀%20Финляндия%20🛡️%20[🏳️LTE]%20|%20🥭🔥
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@hy2.313186.xyz:18066?sni=hy2.313186.xyz&insecure=0#🇫🇷🚀%20Франция%20🛡️%20[🏳️LTE]%20|%20🥭🔥
+hysteria2://github.com/Alvin9999-newpac/fanqiang@hy2.313186.xyz:18066?insecure=0&sni=hy2.313186.xyz#🇫🇷🚀%20Франция%20🛡️%20[🏳️LTE]%20|%20🥭🔥
 hysteria2://ebcb836a-ab7a-424f-a07c-aba25c70da69@finnode.dostupnet.ru:10100?headerType=none&encryption=none&sni=finnode.dostupnet.ru&insecure=0&_t=8fc5c3a1#🇨🇭🚀%20Швейцария%20🛡️%20[🏳️LTE]%20|%20🥭🔥
