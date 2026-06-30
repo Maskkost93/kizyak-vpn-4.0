@@ -1,4 +1,7 @@
 # profile-title: 🥭 КIЗЯК VPN ⚡
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDYtMzAgMTU6MDgg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMjk4IOKame+4jwrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=
+# profile-update-interval: 1
+# profile-title: 🥭 КIЗЯК VPN ⚡
 # announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDYtMzAgMTI6MzIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMjk4IOKame+4jwrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=
 # profile-update-interval: 1
 vless://1dd5f2be-f124-4f35-9239-8abc042829c2@77.110.110.81:14302?type=tcp&headerType=none&security=reality&encryption=none&sni=www.samsung.com&fp=firefox&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&sid=106f1604d65bb70c&spx=%2F&flow=xtls-rprx-vision&_t=61ac86c3#🇦🇹🚀%20Австрия%20🔐%20[🏳️LTE]%20|%20🥭🔥
