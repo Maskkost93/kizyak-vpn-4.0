@@ -1,4 +1,7 @@
 # profile-title: 🥭 КIЗЯК VPN ⚡
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDctMDkgMjM6MDcg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTYg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# profile-update-interval: 1
+# profile-title: 🥭 КIЗЯК VPN ⚡
 # announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDctMDkgMjM6MDMg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTYg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
 # profile-update-interval: 1
 hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?security=tls&fm={"quicParams":{"brutalDown":"60mbps","brutalUp":"60mbps","congestion":"brutal","debug":false,"disablePathMTUDiscovery":false,"initConnectionReceiveWindow":20971520,"initStreamReceiveWindow":8388608,"keepAlivePeriod":10,"maxConnectionReceiveWindow":20971520,"maxIdleTimeout":30,"maxIncomingStreams":1024,"maxStreamReceiveWindow":8388608},"udp":[{"settings":{"password":"8zzng75tz4tf82pj"},"type":"salamander"}]}&obfs=salamander&obfs-password=8zzng75tz4tf82pj&alpn=h3&sni=musicclips.videolinks.ru&fp=safari#🇬🇧🚀%20Великобритания%20🛡️%20[🏳️LTE]%20|%20🥭🔥
