@@ -1,23 +1,29 @@
 # profile-title: 🥭 КIЗЯК VPN 6
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDctMDkgMTQ6MTcg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogOCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDctMTAgMDE6MTAg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTcg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-07-09 / 11:36 (Moscow)
+# Date/Time: 2026-07-09 / 22:06 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://3f4e2e66-0670-4bb6-8dcf-20a535314b17@176.109.85.88:4443?fp=firefox&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&security=reality&serviceName=ns&sni=id.pervye.ru&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20[🏳️LTE]%20|%20🥭🔧
-vless://43e1373c-ca2c-5c20-ad1d-3b34ce61025e@84.201.146.8:443?encryption=none&type=xhttp&security=reality&extra=null&fp=firefox&sni=max.ru&pbk=KR2tU5Ozrtgk4qxx_h3Pt9LgPsQ5rjLzraod0PJFSTI#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://2f93a08b-5c23-502c-936d-a53072cf9882@5.42.100.84:48212?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=firefox&sni=yandex.ru&pbk=8rZnE8gkbRv3ZVHUvkyrMZnmoIRhtncAgQpUAPAwIlo&sid=62b5466a2183d4da#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
-vless://63e75781-d343-4ca7-9a37-74881ea92e32@176.109.92.139:443?flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=ads.x5.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
-vless://63e75781-d343-4ca7-9a37-74881ea92e32@194.55.239.245:443?flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=ads.x5.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
-vless://ba9d9079-e759-0001-ad22-e359813a56d9@213.219.212.24:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧%20%20
-hysteria2://57c77d07-bec3-4bf7-9b72-70ece40450f6@hyst-1.hysteria.ltd:5443?sni=hyst-1.hysteria.ltd&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧%20%20
-hysteria2://57c77d07-bec3-4bf7-9b72-70ece40450f6@vkmks.hysteria.ltd:5443?sni=vkmks.hysteria.ltd&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧%20%20
-# Date/Time: 2026-07-09 / 11:36 (Moscow)
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-# Date/Time: 2026-07-09 / 11:36 (Moscow)
+vless://8fa126b3-56a1-4f24-9987-ef700dfcf5e2@217.16.31.226:1829?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B1%20Албания%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://8fa126b3-56a1-4f24-9987-ef700dfcf5e2@217.16.31.226:1829?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=max.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#%F0%9F%87%A6%F0%9F%87%B1%20Албания%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://db7cae85-3c1a-4e4f-b317-7cdeaf419c5a@217.16.31.226:1829?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=max.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#%F0%9F%87%A6%F0%9F%87%B1%20Албания%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://485f9b6d-2e64-4396-83cd-49912c11a176@195.209.86.193:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s52061.cdn.ngenix.net&fp=chrome&sni=s52061.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20[🏳️LTE]%20|%20🥭🔧
+vless://9727d3cf-d839-4d8b-b22e-6d62483fea25@195.209.86.193:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s52061.cdn.ngenix.net&fp=chrome&sni=s52061.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20[🏳️LTE]%20|%20🥭🔧
+vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@46.8.208.49:6443?encryption=none&security=tls&sni=slc-tst.hysteria.ltd&fp=qq&allowinsecure=0&type=ws&path=%2Fws#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+vless://8fa126b3-56a1-4f24-9987-ef700dfcf5e2@217.16.31.86:1695?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://db7cae85-3c1a-4e4f-b317-7cdeaf419c5a@217.16.31.86:1695?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://db7cae85-3c1a-4e4f-b317-7cdeaf419c5a@217.16.31.86:1695?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@194.55.239.181:9443?encryption=none&security=tls&sni=sw-2-al.hysteria.ltd&fp=qq&allowinsecure=0&type=ws&path=%2Fws#%F0%9F%87%A8%F0%9F%87%AD%20Швейцария%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@46.8.208.49:7443?encryption=none&security=tls&sni=nl-cnn-1.hysteria.ltd&fp=qq&allowinsecure=0&type=ws&path=%2Fws#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20[🏳️LTE]%20|%20🥭🔧
+vless://2f93a08b-5c23-502c-936d-a53072cf9882@5.42.100.84:48212?encryption=none&fp=chrome&pbk=8rZnE8gkbRv3ZVHUvkyrMZnmoIRhtncAgQpUAPAwIlo&security=reality&serviceName=grpc&sid=62b5466a2183d4da&sni=yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+vless://3106ff13-51fb-489f-a082-5669ad7a6f13@46.149.68.228:443?security=reality&encryption=none&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ea1058117be12087#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+404: Not Found
+# Date/Time: 2026-07-09 / 22:06 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://74139fb5-fd3f-4133-a34a-b1d85da7a89f@186.246.31.136:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=firefox&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%B1%20Албания%20|%20🥭🔧%20ads.x5.ru
 vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20Франция%20|%20🥭🔧%20yandex.net
+vless://8fa126b3-56a1-4f24-9987-ef700dfcf5e2@46.253.132.140:1829?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=edge&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20|%20🥭🔧%20api-maps.yandex.ru
+vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@am.janvpn.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=vk-portal.net&fp=firefox&pbk=Qse9gI7x_oaUtYpat3UdIMdIU8x_nYIGegq96omgXg0&sid=fa1aa700&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20%F0%9F%8C%90%20|%20🥭🔧%20vk-portal.net
+vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@gb.janaj.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=p2kybyvJhP9F98fLS4TcL8nNcFE-MdhfGoVBlGkdHUs&sid=d1&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20|%20🥭🔧%20api-maps.yandex.ru
