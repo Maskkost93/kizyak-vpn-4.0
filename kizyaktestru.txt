@@ -1,12 +1,12 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjIgMDg6MjAg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjIgMDk6NTEg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
-hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?obfs=salamander&nonce=CiyCSuFw&sni=lms22.gelzaro.ir&obfs-password=hmvyfx1tpnz6pp3k&nonce=BfAHn8Sz&__rand=0e6d4c0b#🇨🇦%20Канада%20|%20🥭🔥
-hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?sni=lms22.gelzaro.ir&nonce=BfAHn8Sz&nonce=CiyCSuFw&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k#🇨🇦%20Канада%20|%20🥭🔥
-hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?sni=lms22.gelzaro.ir&obfs-password=hmvyfx1tpnz6pp3k&obfs=salamander&nonce=BfAHn8Sz&nonce=CiyCSuFw&_t=1e3f3d9d#🇨🇦%20Канада%20|%20🥭🔥
-hysteria2://8569e507-8ef7-481d-9108-6bc7f040c2ff@178.250.243.21:9443?sni=cns.dodostarscoffee.ru&descriptions=СвободуИнтернету147#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://8569e507-8ef7-481d-9108-6bc7f040c2ff@cns.dodostarscoffee.ru:9443?__rand=1de0e7da&sni=cns.dodostarscoffee.ru&seq=you_are_beautiful9095&descriptions=СвободуИнтернету307#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?alpn=h3&sni=admin.wwwinternetvideo.click&__rand=54d8a282&_t=d5e303df#🇺🇸%20США%20|%20🥭🔥
-hysteria2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135?sni=vip-jp-4.hkd4fwmg.vip&descriptions=СвободуИнтернету674#🇯🇵%20Япония%20|%20🥭🔥
-hysteria2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135?sni=vip-jp-4.hkd4fwmg.vip&descriptions=СвободуИнтернету674#🇯🇵%20Япония%20|%20🥭🔥
-hysteria2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135?sni=vip-jp-4.hkd4fwmg.vip&descriptions=СвободуИнтернету674&nonce=dfAKpA4i#🇯🇵%20Япония%20|%20🥭🔥
+hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?burmalda=06d85f0b&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k&burmalda=cff305e7&sni=lms22.gelzaro.ir#🇨🇦%20Канада%20|%20🥭🔥
+hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?burmalda=06d85f0b&sni=lms22.gelzaro.ir&burmalda=cff305e7&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k&nonce=VWdApyIE#🇨🇦%20Канада%20|%20🥭🔥
+hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?obfs=salamander&burmalda=06d85f0b&obfs-password=hmvyfx1tpnz6pp3k&sni=lms22.gelzaro.ir&burmalda=cff305e7&__rand=571e00be#🇨🇦%20Канада%20|%20🥭🔥
+hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k&burmalda=cff305e7&burmalda=06d85f0b&sni=lms22.gelzaro.ir#🇨🇦%20Канада%20|%20🥭🔥
+hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?sni=lms22.gelzaro.ir&obfs=salamander&burmalda=cff305e7&burmalda=06d85f0b&obfs-password=hmvyfx1tpnz6pp3k&freeinternet=kizyak_vpn1787374312167#🇨🇦%20Канада%20|%20🥭🔥
+hysteria2://8569e507-8ef7-481d-9108-6bc7f040c2ff@178.250.243.21:9443?sni=cns.dodostarscoffee.ru&seq=you_are_beautiful8384&burmalda=8c13e7bc&descriptions=люби_себя55856b#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://8569e507-8ef7-481d-9108-6bc7f040c2ff@cns.dodostarscoffee.ru:9443?sni=cns.dodostarscoffee.ru&freeinternet=kizyak_vpn1787359152383&descriptions=люби_себяf29697#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?sni=admin.wwwinternetvideo.click&__rand=54d8a282&alpn=h3&_t=1cb1c086&descriptions=люби_себяba3db4#🇺🇸%20США%20|%20🥭🔥
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?sni=admin.wwwinternetvideo.click&__rand=54d8a282&alpn=h3&_t=1cb1c086&descriptions=СвободуИнтернету264#🇺🇸%20США%20|%20🥭🔥
