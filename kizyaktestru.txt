@@ -1,13 +1,5 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjIgMTI6MDIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjMgMDE6NTIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
-hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?burmalda=06d85f0b&obfs-password=hmvyfx1tpnz6pp3k&seq=you_are_beautiful9436&descriptions=СвободуИнтернету1&burmalda=73e5b5a8&sni=lms22.gelzaro.ir&obfs=salamander&seq=you_are_beautiful0920#🇨🇦%20Канада%20|%20🥭🔥
-hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?descriptions=СвободуИнтернету1&seq=you_are_beautiful9436&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k&sni=lms22.gelzaro.ir&burmalda=06d85f0b&burmalda=73e5b5a8&descriptions=СвободуИнтернету929#🇨🇦%20Канада%20|%20🥭🔥
-hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?descriptions=СвободуИнтернету1&seq=you_are_beautiful9436&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k&sni=lms22.gelzaro.ir&burmalda=06d85f0b&burmalda=73e5b5a8&__rand=50f6a8f2#🇨🇦%20Канада%20|%20🥭🔥
-hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?seq=you_are_beautiful9436&obfs-password=hmvyfx1tpnz6pp3k&sni=lms22.gelzaro.ir&descriptions=СвободуИнтернету1&burmalda=06d85f0b&obfs=salamander&burmalda=73e5b5a8&freeinternet=kizyak_vpn1787382164634#🇨🇦%20Канада%20|%20🥭🔥
-hysteria2://8569e507-8ef7-481d-9108-6bc7f040c2ff@178.250.243.21:9443?__rand=e2f386bc&sni=cns.dodostarscoffee.ru&seq=you_are_beautiful8563&seq=you_are_beautiful8384&freeinternet=kizyak_vpn1787374187936#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://8569e507-8ef7-481d-9108-6bc7f040c2ff@cns.dodostarscoffee.ru:9443?descriptions=СвободуИнтернету574&sni=cns.dodostarscoffee.ru&descriptions=СвободуИнтернету49#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?nonce=kxxg4zp-&seq=you_are_beautiful0858&sni=admin.wwwinternetvideo.click&alpn=h3&freeinternet=kizyak_vpn1787382164491#🇺🇸%20США%20|%20🥭🔥
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?sni=admin.wwwinternetvideo.click&nonce=kxxg4zp-&seq=you_are_beautiful0858&alpn=h3&burmalda=7928dbf7#🇺🇸%20США%20|%20🥭🔥
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?sni=admin.wwwinternetvideo.click&nonce=kxxg4zp-&seq=you_are_beautiful0858&alpn=h3&freeinternet=kizyak_vpn1787382164485#🇺🇸%20США%20|%20🥭🔥
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?sni=admin.wwwinternetvideo.click&nonce=kxxg4zp-&seq=you_are_beautiful0858&alpn=h3&nonce=E_lPOBGD#🇺🇸%20США%20|%20🥭🔥
+hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://d532115bea@srv-0dc9de.21freedom.net:11592?security=tls&fp=chrome&alpn=h3&nonce=mRSB_jNL#🇷🇺%20Обход%20БС%20|%20🥭🔥
