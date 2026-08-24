@@ -1,37 +1,7 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjQgMTU6MTUg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjQgMTc6MTkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora1.api3-max.ru:443?sni=dora1.api3-max.ru#🇬🇧%20Великобритания%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora1.api3-max.ru:443?sni=dora1.api3-max.ru&burmalda=e7f8f474#🇬🇧%20Великобритания%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora1.api3-max.ru:443?sni=dora1.api3-max.ru&freeinternet=kizyak_vpn1787566551125#🇬🇧%20Великобритания%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov3.api3-max.ru:443?sni=pov3.api3-max.ru#🇳🇱%20Нидерланды%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov3.api3-max.ru:443?sni=pov3.api3-max.ru#🇳🇱%20Нидерланды%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov3.api3-max.ru:443?sni=pov3.api3-max.ru&descriptions=люби_себяffbc0a#🇳🇱%20Нидерланды%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov3.api3-max.ru:443?sni=pov3.api3-max.ru&__rand=913144aa#🇳🇱%20Нидерланды%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov3.api3-max.ru:443?sni=pov3.api3-max.ru&__rand=a3f704f4#🇳🇱%20Нидерланды%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov3.api3-max.ru:443?sni=pov3.api3-max.ru&_t=71b6e7c4#🇳🇱%20Нидерланды%20|%20🥭🔥
-hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?alpn=h3&sni=hy222.routeon.pro#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?sni=srv-17e124.21freedom.net#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://d532115bea@srv-0dc9de.21freedom.net:11592?security=tls&fp=chrome&alpn=h3#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?sni=hy222.routeon.pro&nonce=CVzaHvU-#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://d532115bea@srv-0dc9de.21freedom.net:11592?sni=srv-0dc9de.21freedom.net&alpn=h3&security=tls&insecure=1&fp=chrome&freeinternet=kizyak_vpn178756654155#🇷🇺%20Обход%20БС%20|%20🥭🔥
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora2.api3-max.ru:443?sni=gora2.api3-max.ru&descriptions=люби_себяc67ada#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora3.api3-max.ru:443?sni=gora3.api3-max.ru#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora3.api3-max.ru:443?sni=gora3.api3-max.ru#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora3.api3-max.ru:443?sni=gora3.api3-max.ru&freeinternet=kizyak_vpn178756655197#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora3.api3-max.ru:443?sni=gora3.api3-max.ru&seq=you_are_beautiful0179#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora3.api3-max.ru:443?sni=gora3.api3-max.ru&seq=you_are_beautiful8570#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora5.api3-max.ru:443?sni=gora5.api3-max.ru#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora5.api3-max.ru:443?sni=gora5.api3-max.ru#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora5.api3-max.ru:443?sni=gora5.api3-max.ru&burmalda=e6692d4a#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora5.api3-max.ru:443?sni=gora5.api3-max.ru&descriptions=СвободуИнтернету797#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov10.api3-max.ru:443?sni=pov10.api3-max.ru#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov10.api3-max.ru:443?sni=pov10.api3-max.ru&descriptions=люби_себя0712c5#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov10.api3-max.ru:443?sni=pov10.api3-max.ru&__rand=6b768968#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov2.api3-max.ru:443?sni=pov2.api3-max.ru&burmalda=55ed97e8#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov2.api3-max.ru:443?sni=pov2.api3-max.ru&descriptions=СвободуИнтернету883#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov2.api3-max.ru:443?sni=pov2.api3-max.ru&descriptions=СвободуИнтернету908#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora4.api3-max.ru:443?sni=dora4.api3-max.ru&freeinternet=kizyak_vpn1787566551592#🇫🇷%20Франция%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora4.api3-max.ru:443?sni=dora4.api3-max.ru&__rand=4f260932#🇫🇷%20Франция%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru#🇫🇷%20Франция%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru&burmalda=904f1d52#🇫🇷%20Франция%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru&descriptions=СвободуИнтернету578#🇫🇷%20Франция%20|%20🥭🔥
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru&_t=62847a46&burmalda=3ae1babd#🇫🇷%20Франция%20|%20🥭🔥
