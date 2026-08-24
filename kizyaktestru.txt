@@ -1,7 +1,7 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjQgMTc6MTkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjQgMTg6MjAg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
 hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?sni=hy222.routeon.pro&nonce=CVzaHvU-#🇷🇺%20Обход%20БС%20|%20🥭🔥
 hysteria2://d532115bea@srv-0dc9de.21freedom.net:11592?sni=srv-0dc9de.21freedom.net&alpn=h3&security=tls&insecure=1&fp=chrome&freeinternet=kizyak_vpn178756654155#🇷🇺%20Обход%20БС%20|%20🥭🔥
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru&_t=62847a46&burmalda=3ae1babd#🇫🇷%20Франция%20|%20🥭🔥
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru&_t=62847a46&descriptions=СвободуИнтернету949#🇫🇷%20Франция%20|%20🥭🔥
