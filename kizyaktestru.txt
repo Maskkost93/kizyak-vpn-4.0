@@ -1,20 +1,20 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjUgMDM6MjYg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjUgMDQ6NDkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
-hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1452?sni=zisvpn.ru&descriptions=люби_себяf0b4c2&__rand=782713f8#🇪🇸%20Испания%20|%20🥭🔥
-hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1452?sni=zisvpn.ru&descriptions=люби_себяf0b4c2&__rand=782713f8#🇪🇸%20Испания%20|%20🥭🔥
-hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1452?sni=zisvpn.ru&descriptions=люби_себяf0b4c2&__rand=782713f8&freeinternet=kizyak_vpn178761040327#🇪🇸%20Испания%20|%20🥭🔥
-hysteria2://1c8206c7-231c-41a8-b807-ad23a354cc69@178.250.243.21:9443?sni=cns.dodostarscoffee.ru&seq=you_are_beautiful2376#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?sni=hy222.routeon.pro#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://d532115bea@srv-0dc9de.21freedom.net:11592?nonce=3qRhqFNI&__rand=040105ef&burmalda=9a5d213f&security=tls&fp=chrome&alpn=h3&seq=you_are_beautiful4366&nonce=Gvz92HGM&descriptions=СвободуИнтернету498#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&insecure=false&__rand=95107ed1&seq=you_are_beautiful2754&up-mbps=0#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.113:8443?sni=hopp-germany-new.ddnsguru.com#🇷🇴%20Румыния%20|%20🥭🔥
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.113:8443?sni=hopp-germany-new.ddnsguru.com&burmalda=993909dc#🇷🇴%20Румыния%20|%20🥭🔥
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.113:8443?sni=hopp-germany-new.ddnsguru.com&descriptions=СвободуИнтернету299#🇷🇴%20Румыния%20|%20🥭🔥
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.113:8443?sni=hopp-germany-new.ddnsguru.com&descriptions=СвободуИнтернету869#🇷🇴%20Румыния%20|%20🥭🔥
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.113:8443?sni=hopp-germany-new.ddnsguru.com&__rand=83bf23ef#🇷🇴%20Румыния%20|%20🥭🔥
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.163:8443?sni=hopp-netherland-new.dynuddns.net&descriptions=СвободуИнтернету517#🇷🇴%20Румыния%20|%20🥭🔥
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.163:8443?sni=hopp-netherland-new.dynuddns.net&freeinternet=kizyak_vpn1787610403945#🇷🇴%20Румыния%20|%20🥭🔥
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?sni=fast.wwwinternetvideo.click&_t=70176df0&descriptions=люби_себя85fb70&freeinternet=kizyak_vpn1787586190253&nonce=dciY0WcN#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru&descriptions=СвободуИнтернету20#🇫🇷%20Франция%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru&__rand=e65f1657#🇫🇷%20Франция%20|%20🥭🔥
+hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1452?sni=zisvpn.ru&fm=%257B%250A%2520%2520%2522quicParams%2522%2520%3A%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520%3A%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&type=hysteria&security=tls&alpn=h3#🇪🇸%20Испания%20|%20🥭🔥
+hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1452?sni=zisvpn.ru&type=hysteria&alpn=h3&fm=%257B%250A%2520%2520%2522quicParams%2522%2520%3A%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520%3A%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&security=tls&burmalda=cccabe4b#🇪🇸%20Испания%20|%20🥭🔥
+hysteria2://1c8206c7-231c-41a8-b807-ad23a354cc69@178.250.243.21:9443?sni=cns.dodostarscoffee.ru#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?alpn=h3&sni=hy222.routeon.pro#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://adb4836c-5bcb-40d7-80b5-f84b5bc6d81b@ru-i.monkeyvillage.pro:443?sni=ru-i.monkeyvillage.pro#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://adb4836c-5bcb-40d7-80b5-f84b5bc6d81b@ru-r1.monkeyvillage.pro:9443?sni=ru-r1.monkeyvillage.pro#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://d532115bea@srv-0dc9de.21freedom.net:11592?insecure=1&security=tls&sni=srv-0dc9de.21freedom.net#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.113:8443?sni=hopp-germany-new.ddnsguru.com&__rand=851e7d33&seq=you_are_beautiful0944#🇷🇴%20Румыния%20|%20🥭🔥
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.163:8443?descriptions=люби_себяb3202c&sni=hopp-netherland-new.dynuddns.net&_t=d8b32504#🇷🇴%20Румыния%20|%20🥭🔥
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.163:8443?sni=hopp-netherland-new.dynuddns.net&descriptions=люби_себяb3202c&descriptions=люби_себя3cf39d#🇷🇴%20Румыния%20|%20🥭🔥
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.163:8443?sni=hopp-netherland-new.dynuddns.net&descriptions=люби_себяb3202c&_t=72491942#🇷🇴%20Румыния%20|%20🥭🔥
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?alpn=h3&sni=fast.wwwinternetvideo.click#🇺🇸%20США%20|%20🥭🔥
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?alpn=h3&sni=fast.wwwinternetvideo.click&descriptions=люби_себя90f00d#🇺🇸%20США%20|%20🥭🔥
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?descriptions=СвободуИнтернету423&nonce=wfVxwG7J&sni=dora5.api3-max.ru&nonce=sBXSOxQn&seq=you_are_beautiful1738&_t=723f9fde&__rand=f7f4ab21#🇫🇷%20Франция%20|%20🥭🔥
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?descriptions=СвободуИнтернету423&seq=you_are_beautiful1738&sni=dora5.api3-max.ru&_t=723f9fde&nonce=sBXSOxQn&nonce=wfVxwG7J#🇫🇷%20Франция%20|%20🥭🔥
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?_t=723f9fde&seq=you_are_beautiful1738&nonce=sBXSOxQn&descriptions=СвободуИнтернету423&nonce=wfVxwG7J&sni=dora5.api3-max.ru&_t=c59b49f3#🇫🇷%20Франция%20|%20🥭🔥
