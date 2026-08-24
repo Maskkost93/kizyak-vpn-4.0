@@ -1,13 +1,21 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjQgMjM6MjIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjUgMDA6NDMg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
-hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1452?sni=zisvpn.ru&nonce=Vwm-nppE#🇪🇸%20Испания%20|%20🥭🔥
-hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1452?sni=zisvpn.ru&_t=7623496a#🇪🇸%20Испания%20|%20🥭🔥
-hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?alpn=h3&sni=hy222.routeon.pro&burmalda=01cb9b14#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://d532115bea@srv-0dc9de.21freedom.net:11592?alpn=h3&freeinternet=kizyak_vpn178756654155&fp=chrome&burmalda=3f89614b&sni=srv-0dc9de.21freedom.net&security=tls&insecure=1#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&descriptions=СвободуИнтернету945&descriptions=СвободуИнтернету506&insecure=false&up-mbps=0&nonce=Sib_JV2m&nonce=2I1ZMkJE#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?freeinternet=kizyak_vpn1787586190253&sni=fast.wwwinternetvideo.click&descriptions=люби_себя85fb70&seq=you_are_beautiful9249#🇺🇸%20США%20|%20🥭🔥
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?sni=fast.wwwinternetvideo.click&freeinternet=kizyak_vpn1787586190253&descriptions=люби_себя85fb70&nonce=RCQlieOc#🇺🇸%20США%20|%20🥭🔥
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?sni=fast.wwwinternetvideo.click&freeinternet=kizyak_vpn1787586190253&descriptions=люби_себя85fb70&seq=you_are_beautiful9654#🇺🇸%20США%20|%20🥭🔥
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?sni=fast.wwwinternetvideo.click&freeinternet=kizyak_vpn1787586190253&descriptions=люби_себя85fb70&_t=cbd3be1d#🇺🇸%20США%20|%20🥭🔥
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru&seq=you_are_beautiful0827#🇫🇷%20Франция%20|%20🥭🔥
+hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1452?sni=zisvpn.ru#🇪🇸%20Испания%20|%20🥭🔥
+hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1452?sni=zisvpn.ru#🇪🇸%20Испания%20|%20🥭🔥
+hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1452?sni=zisvpn.ru#🇪🇸%20Испания%20|%20🥭🔥
+hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1452?sni=zisvpn.ru&descriptions=СвободуИнтернету548#🇪🇸%20Испания%20|%20🥭🔥
+hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1452?sni=zisvpn.ru&seq=you_are_beautiful2870#🇪🇸%20Испания%20|%20🥭🔥
+hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?sni=hy222.routeon.pro&seq=you_are_beautiful2289#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://d532115bea@srv-0dc9de.21freedom.net:11592?fp=chrome&__rand=a7a6000c&security=tls&alpn=h3&_t=4c5a3a4b&nonce=Sjjzmwqb#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&descriptions=СвободуИнтернету945&descriptions=СвободуИнтернету506&insecure=false&up-mbps=0&nonce=Sib_JV2m&nonce=2I1ZMkJE&nonce=r9H8A6F2#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?descriptions=люби_себя85fb70&sni=fast.wwwinternetvideo.click&freeinternet=kizyak_vpn1787586190253&nonce=dciY0WcN&descriptions=люби_себя968abc#🇺🇸%20США%20|%20🥭🔥
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?descriptions=люби_себя85fb70&sni=fast.wwwinternetvideo.click&freeinternet=kizyak_vpn1787586190253&nonce=dciY0WcN&freeinternet=kizyak_vpn178760062213#🇺🇸%20США%20|%20🥭🔥
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?descriptions=люби_себя85fb70&sni=fast.wwwinternetvideo.click&freeinternet=kizyak_vpn1787586190253&nonce=dciY0WcN&nonce=84bvoFbW#🇺🇸%20США%20|%20🥭🔥
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?freeinternet=kizyak_vpn1787586190253&nonce=dciY0WcN&descriptions=люби_себя85fb70&sni=fast.wwwinternetvideo.click#🇺🇸%20США%20|%20🥭🔥
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?freeinternet=kizyak_vpn1787586190253&sni=fast.wwwinternetvideo.click&descriptions=люби_себя85fb70&nonce=dciY0WcN#🇺🇸%20США%20|%20🥭🔥
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?freeinternet=kizyak_vpn1787586190253&sni=fast.wwwinternetvideo.click&descriptions=люби_себя85fb70&nonce=dciY0WcN&freeinternet=kizyak_vpn1787600622494#🇺🇸%20США%20|%20🥭🔥
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?descriptions=СвободуИнтернету897&sni=dora5.api3-max.ru&burmalda=7370b546#🇫🇷%20Франция%20|%20🥭🔥
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?descriptions=СвободуИнтернету897&sni=dora5.api3-max.ru&descriptions=люби_себя756d9e#🇫🇷%20Франция%20|%20🥭🔥
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?descriptions=СвободуИнтернету897&sni=dora5.api3-max.ru&descriptions=СвободуИнтернету846#🇫🇷%20Франция%20|%20🥭🔥
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?descriptions=СвободуИнтернету897&sni=dora5.api3-max.ru&descriptions=СвободуИнтернету990#🇫🇷%20Франция%20|%20🥭🔥
