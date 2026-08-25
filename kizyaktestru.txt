@@ -1,14 +1,9 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjYgMDM6MTkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjYgMDQ6NDIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
-hysteria2://4a7983ed-4e1d-4038-aa13-61929b431fbf@2.27.22.245:8443?sni=de2.lootopen.online&seq=you_are_beautiful9531&nonce=98MPAyqr#🇬🇧%20Великобритания%20|%20🥭🔥
-hysteria2://4a7983ed-4e1d-4038-aa13-61929b431fbf@2.27.22.245:8443?sni=de2.lootopen.online&seq=you_are_beautiful9531&__rand=064613d1#🇬🇧%20Великобритания%20|%20🥭🔥
-hysteria2://4a7983ed-4e1d-4038-aa13-61929b431fbf@2.27.22.245:8443?sni=de2.lootopen.online&seq=you_are_beautiful9531&_t=27def153#🇬🇧%20Великобритания%20|%20🥭🔥
-hysteria2://a6e28a65-c1c6-49d9-9b9d-93013a2625bb@178.250.240.78:9443?sni=appstatic.ru&descriptions=люби_себяf586e1#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?up-mbps=0&insecure=false&burmalda=4347bb87#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.164:8443?burmalda=de9c80a8&sni=hopp-netherland-new.dynuddns.net#🇷🇴%20Румыния%20|%20🥭🔥
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.164:8443?burmalda=de9c80a8&sni=hopp-netherland-new.dynuddns.net&descriptions=люби_себя342711#🇷🇴%20Румыния%20|%20🥭🔥
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.164:8443?sni=hopp-netherland-new.dynuddns.net&burmalda=de9c80a8#🇷🇴%20Румыния%20|%20🥭🔥
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.164:8443?sni=hopp-netherland-new.dynuddns.net&burmalda=de9c80a8#🇷🇴%20Румыния%20|%20🥭🔥
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.164:8443?sni=hopp-netherland-new.dynuddns.net&burmalda=de9c80a8&freeinternet=kizyak_vpn1787696345414#🇷🇴%20Румыния%20|%20🥭🔥
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.164:8443?sni=hopp-netherland-new.dynuddns.net&burmalda=de9c80a8&seq=you_are_beautiful4965#🇷🇴%20Румыния%20|%20🥭🔥
+hysteria2://4a7983ed-4e1d-4038-aa13-61929b431fbf@2.27.22.245:8443?sni=de2.lootopen.online&seq=you_are_beautiful9531&descriptions=люби_себя564b70#🇬🇧%20Великобритания%20|%20🥭🔥
+hysteria2://4a7983ed-4e1d-4038-aa13-61929b431fbf@2.27.22.245:8443?sni=de2.lootopen.online&seq=you_are_beautiful9531&seq=you_are_beautiful2450#🇬🇧%20Великобритания%20|%20🥭🔥
+hysteria2://a6e28a65-c1c6-49d9-9b9d-93013a2625bb@178.250.240.78:9443?sni=appstatic.ru#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?up-mbps=0&insecure=false&burmalda=4347bb87&_t=964f018d#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.164:8443?burmalda=de9c80a8&sni=hopp-netherland-new.dynuddns.net&__rand=e21c1dc6&seq=you_are_beautiful8078#🇷🇴%20Румыния%20|%20🥭🔥
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.164:8443?sni=hopp-netherland-new.dynuddns.net&burmalda=de9c80a8&__rand=e21c1dc6&burmalda=b9be2c02#🇷🇴%20Румыния%20|%20🥭🔥
