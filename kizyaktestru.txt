@@ -1,4 +1,4 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjYgMTU6NTgg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjYgMTc6MzQg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&descriptions=СвободуИнтернету116&descriptions=СвободуИнтернету380&nonce=DXHPscrR&freeinternet=kizyak_vpn1787725172614&sni=msk.frkn.org&up-mbps=0&freeinternet=kizyak_vpn1787691430592&freeinternet=kizyak_vpn1787736338977#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&descriptions=СвободуИнтернету116&descriptions=СвободуИнтернету380&nonce=DXHPscrR&freeinternet=kizyak_vpn1787725172614&sni=msk.frkn.org&up-mbps=0&freeinternet=kizyak_vpn1787691430592&freeinternet=kizyak_vpn1787736338977&descriptions=СвободуИнтернету913#🇷🇺%20Обход%20БС%20|%20🥭🔥
