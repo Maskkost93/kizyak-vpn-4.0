@@ -1,14 +1,13 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjYgMDg6MDgg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjYgMDk6NDUg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
-hysteria2://4a7983ed-4e1d-4038-aa13-61929b431fbf@2.27.22.245:8443?seq=you_are_beautiful9531&sni=de2.lootopen.online&burmalda=f36acfe8#🇬🇧%20Великобритания%20|%20🥭🔥
-hysteria2://4a7983ed-4e1d-4038-aa13-61929b431fbf@2.27.22.245:8443?seq=you_are_beautiful9531&sni=de2.lootopen.online&descriptions=люби_себя36b2d9#🇬🇧%20Великобритания%20|%20🥭🔥
-hysteria2://4a7983ed-4e1d-4038-aa13-61929b431fbf@2.27.22.245:8443?seq=you_are_beautiful9531&sni=de2.lootopen.online&nonce=avSjHZj2#🇬🇧%20Великобритания%20|%20🥭🔥
-hysteria2://a6e28a65-c1c6-49d9-9b9d-93013a2625bb@178.250.240.78:9443?sni=appstatic.ru&__rand=0cd3988a#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://4a7983ed-4e1d-4038-aa13-61929b431fbf@2.27.22.245:8443?freeinternet=kizyak_vpn178771369214&sni=de2.lootopen.online&seq=you_are_beautiful9531&freeinternet=kizyak_vpn1787719508205#🇬🇧%20Великобритания%20|%20🥭🔥
+hysteria2://4a7983ed-4e1d-4038-aa13-61929b431fbf@2.27.22.245:8443?seq=you_are_beautiful9531&freeinternet=kizyak_vpn178771369214&sni=de2.lootopen.online#🇬🇧%20Великобритания%20|%20🥭🔥
+hysteria2://4a7983ed-4e1d-4038-aa13-61929b431fbf@2.27.22.245:8443?seq=you_are_beautiful9531&sni=de2.lootopen.online&freeinternet=kizyak_vpn178771369214#🇬🇧%20Великобритания%20|%20🥭🔥
+hysteria2://4a7983ed-4e1d-4038-aa13-61929b431fbf@2.27.22.245:8443?seq=you_are_beautiful9531&sni=de2.lootopen.online&freeinternet=kizyak_vpn178771369214#🇬🇧%20Великобритания%20|%20🥭🔥
 hysteria2://c0a137ca-08d2-4734-95ed-2131ea6b45d9@185.247.185.238:25443?sni=cloudrynth.com#🇷🇺%20Обход%20БС%20|%20🥭🔥
 hysteria2://c0a137ca-08d2-4734-95ed-2131ea6b45d9@194.87.56.99:25443?sni=cloudrynth.com#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://c0a137ca-08d2-4734-95ed-2131ea6b45d9@62.76.233.254:25443?sni=cloudrynth.com&descriptions=люби_себя94e075#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://c0a137ca-08d2-4734-95ed-2131ea6b45d9@62.76.233.254:25443?sni=cloudrynth.com&descriptions=СвободуИнтернету451#🇷🇺%20Обход%20БС%20|%20🥭🔥
 hysteria2://c0a137ca-08d2-4734-95ed-2131ea6b45d9@91.240.86.70:27443?sni=cloudrynth.com&_t=6d86dbc2#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?up-mbps=0&descriptions=СвободуИнтернету380&sni=msk.frkn.org&insecure=false&nonce=DXHPscrR&freeinternet=kizyak_vpn1787691430592#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.164:8443?descriptions=СвободуИнтернету592&__rand=efb1f16e&sni=hopp-netherland-new.dynuddns.net&burmalda=de9c80a8&__rand=e21c1dc6#🇷🇴%20Румыния%20|%20🥭🔥
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.164:8443?descriptions=СвободуИнтернету592&sni=hopp-netherland-new.dynuddns.net&burmalda=de9c80a8&__rand=efb1f16e&__rand=e21c1dc6&_t=fa2d4a83#🇷🇴%20Румыния%20|%20🥭🔥
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?up-mbps=0&seq=you_are_beautiful5495&insecure=false&nonce=U622CThX#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.164:8443?__rand=e21c1dc6&descriptions=СвободуИнтернету18&sni=hopp-netherland-new.dynuddns.net&__rand=efb1f16e&descriptions=СвободуИнтернету592&burmalda=de9c80a8&freeinternet=kizyak_vpn1787719508407#🇷🇴%20Румыния%20|%20🥭🔥
