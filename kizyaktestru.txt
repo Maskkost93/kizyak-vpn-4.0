@@ -1,4 +1,8 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjcgMjI6MTgg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMjcgMjM6NDIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&nonce=JqjPHtkO#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://4a6c225b-46a2-494d-a190-0b0a7c5205d4@node.embrofree.org:443?sni=node.embrofree.org#🇬🇧%20Великобритания%20|%20🥭🔥
+hysteria2://4a6c225b-46a2-494d-a190-0b0a7c5205d4@node.embrofree.org:443?sni=node.embrofree.org#🇬🇧%20Великобритания%20|%20🥭🔥
+hysteria2://4a6c225b-46a2-494d-a190-0b0a7c5205d4@node.embrofree.org:443?sni=node.embrofree.org&nonce=gNu4zCR-#🇬🇧%20Великобритания%20|%20🥭🔥
+hysteria2://4a6c225b-46a2-494d-a190-0b0a7c5205d4@node.embrofree.org:443?sni=node.embrofree.org&nonce=S4_gGKXE#🇬🇧%20Великобритания%20|%20🥭🔥
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&nonce=JqjPHtkO&__rand=086c90fb#🇷🇺%20Обход%20БС%20|%20🥭🔥
