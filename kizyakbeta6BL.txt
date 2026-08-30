@@ -1,9 +1,9 @@
 # profile-title: КIЗЯК VPN BLACKLIST🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMzAgMTI6MjIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTcg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMzAgMTM6NDkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogOCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-08-30 / 05:26 (Moscow)
+# Date/Time: 2026-08-30 / 10:29 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 # RU: Эта подписка может содержать Trojan/Hysteria2/Hy2 с legacy-параметрами insecure=1 или allowInsecure=1.
@@ -15,28 +15,56 @@
 # EN: For compatibility, use Mihomo/Sing-box for Trojan/Hysteria2/Hy2 or Xray-core v26.1.23, the last confirmed working version for such configs.
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@3ce8ee8.hb.gladns.com:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28TG+%40WangCai2%29c47ab06%3A133288#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%20%7C%20%F0%9F%8C%90%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-fi-1.dost-self.co.uk:2443?sni=exit-fi-1.dost-self.co.uk#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20Helsinki%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-fi-3.dost-self.co.uk:2443?sni=exit-fi-3.dost-self.co.uk#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20Helsinki%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-fi-4.dost-self.co.uk:2443?sni=exit-fi-4.dost-self.co.uk#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20Helsinki%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-fi-5.dost-self.co.uk:2443?sni=exit-fi-5.dost-self.co.uk#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20Helsinki%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@decdn-724.aiai-rkp.net:443?sni=decdn-724.aiai-rkp.net#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Paris%20[🏴BL]
+hysteria2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080?sni=hopp-transit.1cooldns.com#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Paris%20[🏴BL]
+hysteria2://f980aecd-d243-4910-b231-db172d434541@de37149.cdn-video.pro:443?sni=de37149.cdn-video.pro#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏴BL]
+hysteria2://600bbee3-1f42-4877-8a4f-770582752ade@gr1.snowdnvpno4.com:8443?sni=gr1.snowdnvpno4.com#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-de-1.dost-self.co.uk:2443?sni=exit-de-1.dost-self.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-de-2.dost-self.co.uk:2443?sni=exit-de-2.dost-self.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-de-3.dost-self.co.uk:2443?sni=exit-de-3.dost-self.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-de-4.dost-self.co.uk:2443?sni=exit-de-4.dost-self.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-de-5.dost-self.co.uk:2443?sni=exit-de-5.dost-self.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+hysteria2://d19b459e-fcc3-4f2a-8f2e-77e8701cd1d8@hh.funvideorus.net:443?sni=hh.funvideorus.net#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+hysteria2://f980aecd-d243-4910-b231-db172d434541@de2205.cdn-video.pro:443?sni=de2205.cdn-video.pro#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+hysteria2://c0d1d7e1-7ce6-425d-a0ff-27b7eec8c533@x1bu-pys.de-2.deepl-cdn.com:30443?sni=de.deepl-cdn.com#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20[🏴BL]
+hysteria2://04d481ed-eb43-42de-ab4f-45049ab0e585@india.nalkonici.com:443?sni=india.nalkonici.com#%F0%9F%87%AE%F0%9F%87%B3%20Индия%2C%20Mhaswad%20[🏴BL]
+hysteria2://600bbee3-1f42-4877-8a4f-770582752ade@lat-jp.snowdnvpno4.com:8443?sni=lat-jp.snowdnvpno4.com#%F0%9F%87%AF%F0%9F%87%B5%20Япония%2C%20Shibuya%20City%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-jp-1.dost-self.co.uk:2443?sni=exit-jp-1.dost-self.co.uk#%F0%9F%87%AF%F0%9F%87%B5%20Япония%2C%20Shibuya%20City%20[🏴BL]
 hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@mlxy.mangshe.xyz:2060?insecure=1&security=tls&sni=mlxy.mangshe.xyz#%F0%9F%87%B2%F0%9F%87%BE%20Малайзия%2C%20Cyberjaya%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-pl-1.dost-self.co.uk:2443?sni=exit-pl-1.dost-self.co.uk#%F0%9F%87%B5%F0%9F%87%B1%20Польша%2C%20Warsaw%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-pl-2.dost-self.co.uk:2443?sni=exit-pl-2.dost-self.co.uk#%F0%9F%87%B5%F0%9F%87%B1%20Польша%2C%20Warsaw%20[🏴BL]
 hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?allowInsecure=1&sni=css.rbxcdn.com&upmbps=10&insecure=1&type=tcp&downmbps=50&nonce=e98RZ2Wn&_t=227da4f0#%F0%9F%87%B7%F0%9F%87%B4%20Румыния%2C%20Bucharest%20%7C%20%F0%9F%8C%90%20[🏴BL]
 hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=google.com&insecure=1&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%B4%20Румыния%2C%20Bucharest%20%7C%20%F0%9F%8C%90%20[🏴BL]
-hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%AD%20Швейцария%2C%20Oberengstringen%20%7C%20%F0%9F%8C%90%20[🏴BL]
+hysteria2://7302ad33229de166d393cd56143a1e4c@131.186.19.174:50160?insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20Южная Корея%2C%20Yangcheondong%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-se-2.dost-self.co.uk:2443?sni=exit-se-2.dost-self.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-se-3.dost-self.co.uk:2443?sni=exit-se-3.dost-self.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-se-4.dost-self.co.uk:2443?sni=exit-se-4.dost-self.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-se-5.dost-self.co.uk:2443?sni=exit-se-5.dost-self.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@ficdn1.aiai-rkp.net:443?sni=ficdn1.aiai-rkp.net#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
 hysteria2://Krab9Hyst2_Rk7pQ2xL@nl.vpn.legendaah.xyz:36723?insecure=1&sni=nl.vpn.legendaah.xyz#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20[🏴BL]
-hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%20%7C%20%F0%9F%8C%90%20[🏴BL]
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.152:8443?sni=grape-turbo-fr.roxa.org#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-nl-1.dost-self.co.uk:2443?sni=exit-nl-1.dost-self.co.uk#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Eygelshoven%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-nl-2.dost-self.co.uk:2443?sni=exit-nl-2.dost-self.co.uk#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Eygelshoven%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@trcdn1.aiai-rkp.net:443?sni=trcdn1.aiai-rkp.net#%F0%9F%87%B9%F0%9F%87%B7%20Турция%2C%20Istanbul%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-am-1.dost-self.co.uk:2443?sni=exit-am-1.dost-self.co.uk#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%2C%20Cruz%20Bay%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@ficdn2.aiai-rkp.net:443?sni=ficdn2.aiai-rkp.net#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%2C%20Cruz%20Bay%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@ficdn3.aiai-rkp.net:443?sni=ficdn3.aiai-rkp.net#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%2C%20Cruz%20Bay%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@ficdn4.aiai-rkp.net:443?sni=ficdn4.aiai-rkp.net#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%2C%20Cruz%20Bay%20[🏴BL]
+hysteria2://d19b459e-fcc3-4f2a-8f2e-77e8701cd1d8@ush2.shazamri.xyz:443?sni=ush2.shazamri.xyz#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Atlanta%20[🏴BL]
+hysteria2://c3e44804-5149-4bfe-9a33-d5051af3c65e@192.227.229.51:28133?insecure=1&sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Buffalo%20[🏴BL]
+hysteria2://600bbee3-1f42-4877-8a4f-770582752ade@ush2.snowdnvpno4.com:8443?sni=ush2.snowdnvpno4.com#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Dallas%20[🏴BL]
 hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=speedtest.tinkoff.ru#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20San%20Jose%20%7C%20%F0%9F%8C%90%20[🏴BL]
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20San%20Jose%20%7C%20%F0%9F%8C%90%20[🏴BL]
-hysteria2://f9e76796-72ba-4af1-9435-a556bd81c140@156.229.163.112:55000?sni=www.bing.com&insecure=1#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20[🏴BL]
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7MgQ2hpbmEsIEt1bm1pbmcgfCBbQkxdIiwiYWRkIjoiMTUwLjI0Mi4yNDQuMTE2IiwicG9ydCI6IjI2NDgiLCJpZCI6ImFkMjk4ZDFkLTJhZTktNDZmYS04OTVjLWYwNDAxZjM4YjAyYyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJhbHBuIjoiIiwic25pIjoiIiwiZnAiOiIiLCJ0bHMiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoibjE3NDc2MjQyNzQuNHU5bWEuaWN1IiwicG9ydCI6IjQ0MyIsImlkIjoiZDhkYWY1MDctYTRhYy00ZWVhLTgzOTktOGYwY2QwNzFlYjUyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJob3N0IjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
-vmess://eyJhZGQiOiJuMTc0NzYyNDI3NC40dTltYS5pY3UiLCJhaWQiOiIwIiwiaG9zdCI6Im4xNzQ3NjI0Mjc0LjR1OW1hLmljdSIsImlkIjoiZDhkYWY1MDctYTRhYy00ZWVhLTgzOTktOGYwY2QwNzFlYjUyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewIEhvbmcgS29uZywgSG9uZyBLb25nIHwgW0JMXSIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU3QgTG91aXMgKERvd250b3duKSB8IFtCTF0iLCJhZGQiOiJjaGF0Z3B0LmNvbSIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwidGxzIjoidGxzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
-vmess://eyJhZGQiOiIxNzIuNjQuODAuMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU3QgTG91aXMgKERvd250b3duKSB8IFtCTF0iLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxNzIuNjQuODAuMSIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwicG9ydCI6Ijg0NDMiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwidGxzIjoidGxzIiwiYWxwbiI6IiIsImZwIjoiIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJwcyI6IvCfh7rwn4e4IFVuaXRlZCBTdGF0ZXMsIFN0IExvdWlzIChEb3dudG93bikgfCBbQkxdIiwiYWlkIjoiMCIsInR5cGUiOiJub25lIn0=
-vmess://eyJhZGQiOiJjaGF0Z3B0LmNvbSIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwicG9ydCI6Ijg0NDMiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiIiLCJwYXRoIjoiL2xNbnNaVU40LyIsInRscyI6InRscyIsImFscG4iOiIiLCJmcCI6IiIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwicHMiOiLwn4e68J+HuCBVbml0ZWQgU3RhdGVzLCBTdCBMb3VpcyAoRG93bnRvd24pIHwgW0JMXSIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSJ9
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Lyon%20[🏴BL]
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Lyon%20[🏴BL]
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Lyon%20[🏴BL]
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Lyon%20[🏴BL]
-trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Lyon%20[🏴BL]
-trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Lyon%20[🏴BL]
-trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Lyon%20[🏴BL]
-trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=ios#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Lyon%20[🏴BL]
-trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Lyon%20[🏴BL]
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@nlcdn20.aiai-rkp.net:443?sni=nlcdn20.aiai-rkp.net#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20[🏴BL]
+hysteria2://c0d1d7e1-7ce6-425d-a0ff-27b7eec8c533@hy-z3q457q-f3b.nl-1.deepl-cdn.com:10443?sni=nl.deepl-cdn.com#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20[🏴BL]
+hysteria2://c0d1d7e1-7ce6-425d-a0ff-27b7eec8c533@zsdbyfg24a1.ru.mediavitrina.com:30443?sni=content.ru.mediavitrina.com#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AA%20[🏴BL]
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoibjE3NDc2MjQyNjAuNHU5bWEuaWN1IiwicG9ydCI6IjQ0MyIsImlkIjoiZWVlOGNiNzItN2VhYi00MDM0LWEzMDgtZWQwNmNiMDdlMDAzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJob3N0IjoibjE3NDc2MjQyNjAuNHU5bWEuaWN1IiwicGF0aCI6Ii8iLCJzbmkiOiJuMTc0NzYyNDI2MC40dTltYS5pY3UiLCJhbGxvd0luc2VjdXJlIjoiMSIsImluc2VjdXJlIjoiMSIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIiwiZnAiOiIifQ==
+trojan://M7v%25w11Se%2A@dggg.wsone.icu:443?security=tls&sni=dggg.wsone.icu&type=tcp&headerType=none&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://M7v%25w11Se%2A@dggg.wsone.icu:443?security=tls&sni=dggg.wsone.icu&type=tcp&headerType=none&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://M7v%25w11Se%2A@dggg.wsone.icu:443?security=tls&sni=dggg.wsone.icu&type=tcp&headerType=none&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://trojan@104.18.12.229:8443?security=tls&allowInsecure=1&sni=longwanghen.pages.dev&type=ws&host=&path=%2F&alpn=&fp=chrome#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20[🏴BL]
+trojan://trojan@104.18.12.229:8443?security=tls&allowInsecure=1&sni=longwanghen.pages.dev&type=ws&host=&path=%2F&alpn=&fp=ios#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20[🏴BL]
+trojan://trojan@104.18.12.229:8443?security=tls&allowInsecure=1&sni=longwanghen.pages.dev&type=ws&host=&path=%2F&alpn=&fp=qq#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20[🏴BL]
