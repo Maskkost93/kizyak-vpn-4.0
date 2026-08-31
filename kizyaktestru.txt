@@ -1,7 +1,7 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMzEgMTc6MjIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDgtMzEgMTg6MzAg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
-hysteria2://1c06966e-dbf0-44c4-b504-fe2aaf923359@91.185.83.48:8444?sni=testing8.nimarko.org&__rand=470a9927#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://1c06966e-dbf0-44c4-b504-fe2aaf923359@91.185.83.48:8444?sni=testing8.nimarko.org&descriptions=СвободуИнтернету624#🇷🇺%20Обход%20БС%20|%20🥭🔥
 hysteria2://1c06966e-dbf0-44c4-b504-fe2aaf923359@91.185.83.48:8465?sni=itit.nimarko.org#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://1c06966e-dbf0-44c4-b504-fe2aaf923359@91.185.83.48:8585?sni=swsw.nimarko.org&__rand=d03e8057#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://1c06966e-dbf0-44c4-b504-fe2aaf923359@91.185.83.48:8585?__rand=d03e8057&sni=swsw.nimarko.org#🇷🇺%20Обход%20БС%20|%20🥭🔥
 hysteria2://1c06966e-dbf0-44c4-b504-fe2aaf923359@91.185.83.48:8589?sni=rgrg.nimarko.org#🇷🇺%20Обход%20БС%20|%20🥭🔥
