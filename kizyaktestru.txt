@@ -1,12 +1,9 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDEgMTY6MTcg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDEgMTc6Mzkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
-hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast100.screw.page:443?sni=fast100.screw.page&fm=%7B&_t=3cc283b6#🇺🇸%20США%20|%20🥭🔥
+hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast100.screw.page:443?sni=fast100.screw.page&fm=%7B#🇺🇸%20США%20|%20🥭🔥
+hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast100.screw.page:443?sni=fast100.screw.page&fm=%7B#🇺🇸%20США%20|%20🥭🔥
+hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast100.screw.page:443?sni=fast100.screw.page&fm=%7B#🇺🇸%20США%20|%20🥭🔥
+hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast100.screw.page:443?sni=fast100.screw.page&fm=%7B&__rand=eb00e95a#🇺🇸%20США%20|%20🥭🔥
 hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast93.screw.page:443?fm=%7B&sni=fast93.screw.page#🇺🇸%20США%20|%20🥭🔥
-hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast93.screw.page:443?fm=%7B&sni=fast93.screw.page#🇺🇸%20США%20|%20🥭🔥
-hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast93.screw.page:443?fm=%7B&sni=fast93.screw.page&_t=3961af0c#🇺🇸%20США%20|%20🥭🔥
-hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast_s100.screw.page:443?fm=%7B&sni=fast_s100.screw.page&burmalda=a694f572#🇺🇸%20США%20|%20🥭🔥
-hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast_s100.screw.page:443?sni=fast_s100.screw.page&fm=%7B#🇺🇸%20США%20|%20🥭🔥
-hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast_s100.screw.page:443?sni=fast_s100.screw.page&fm=%7B&descriptions=люби_себя5933a5#🇺🇸%20США%20|%20🥭🔥
-hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast_s100.screw.page:443?sni=fast_s100.screw.page&fm=%7B&nonce=kwDKfz4N#🇺🇸%20США%20|%20🥭🔥
-hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast_s100.screw.page:443?sni=fast_s100.screw.page&fm=%7B&_t=404250c6#🇺🇸%20США%20|%20🥭🔥
+hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast93.screw.page:443?fm=%7B&sni=fast93.screw.page&__rand=2bdd3d1a#🇺🇸%20США%20|%20🥭🔥
