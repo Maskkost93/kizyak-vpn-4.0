@@ -1,23 +1,13 @@
 # profile-title: 🥭 КIЗЯК VPN 6
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDMgMjE6NDEg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTIg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDMgMjM6MjIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMiDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-09-03 / 19:33 (Moscow)
+# Date/Time: 2026-09-03 / 20:38 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@51.250.98.44:10453?type=grpc&headerType=none&security=reality&encryption=none&sni=www.google.com&pbk=rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc&spx=%2F&serviceName=TunService&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@51.250.98.44:10453?type=grpc&headerType=none&security=reality&encryption=none&sni=www.google.com&pbk=rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc&spx=%2F&serviceName=TunService&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@51.250.98.44:10453?type=grpc&headerType=none&security=reality&encryption=none&sni=www.google.com&pbk=rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc&spx=%2F&serviceName=TunService&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@51.250.98.44:10453?type=grpc&headerType=none&security=reality&encryption=none&sni=www.google.com&pbk=rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc&spx=%2F&serviceName=TunService&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@51.250.98.44:10453?type=grpc&headerType=none&security=reality&encryption=none&sni=www.google.com&pbk=rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc&spx=%2F&serviceName=TunService&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://f6392eed-95f4-4207-8d84-e7f0cf2d1102@185.91.52.152:443?type=grpc&headerType=none&security=reality&encryption=none&sni=music.yandex.ru&pbk=zrbrFoqiFTkSp6y9ACC2Wl6TtZo9uC0M8lAanIISagI&sid=c2276b15afea&spx=%2F&fp=chrome#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://f6392eed-95f4-4207-8d84-e7f0cf2d1102@185.91.52.152:443?type=grpc&headerType=none&security=reality&encryption=none&sni=music.yandex.ru&pbk=zrbrFoqiFTkSp6y9ACC2Wl6TtZo9uC0M8lAanIISagI&sid=c2276b15afea&spx=%2F&fp=edge#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://f6392eed-95f4-4207-8d84-e7f0cf2d1102@185.91.52.152:443?type=grpc&headerType=none&security=reality&encryption=none&sni=music.yandex.ru&pbk=zrbrFoqiFTkSp6y9ACC2Wl6TtZo9uC0M8lAanIISagI&sid=c2276b15afea&spx=%2F&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://f6392eed-95f4-4207-8d84-e7f0cf2d1102@185.91.52.152:443?type=grpc&headerType=none&security=reality&encryption=none&sni=music.yandex.ru&pbk=zrbrFoqiFTkSp6y9ACC2Wl6TtZo9uC0M8lAanIISagI&sid=c2276b15afea&spx=%2F&fp=ios#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://f6392eed-95f4-4207-8d84-e7f0cf2d1102@185.91.52.152:443?type=grpc&headerType=none&security=reality&encryption=none&sni=music.yandex.ru&pbk=zrbrFoqiFTkSp6y9ACC2Wl6TtZo9uC0M8lAanIISagI&sid=c2276b15afea&spx=%2F&fp=qq#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20[🏳️LTE]%20|%20🥭🔧
-ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ==@195.133.23.200:8011#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20[🏳️LTE]%20|%20🥭🔧
-ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ==@46.17.40.234:8010#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@tn2.tmn141246.ru:2200?encryption=none&type=ws&path=%2Fv1&host=rzd.ru&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@194.38.11.86:65443#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
 404: Not Found
-# Date/Time: 2026-09-03 / 19:33 (Moscow)
+# Date/Time: 2026-09-03 / 20:38 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
