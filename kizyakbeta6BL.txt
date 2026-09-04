@@ -1,9 +1,9 @@
 # profile-title: КIЗЯК VPN BLACKLIST🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDQgMTQ6MDkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTgg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDQgMTQ6NTUg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMSDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-09-04 / 11:18 (Moscow)
+# Date/Time: 2026-09-04 / 12:45 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 # RU: Эта подписка может содержать Trojan/Hysteria2/Hy2 с legacy-параметрами insecure=1 или allowInsecure=1.
@@ -17,25 +17,10 @@
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443/?insecure=1&sni=css.rbxcdn.com#%F0%9F%87%A6%F0%9F%87%BA%20Австралия%2C%20Sydney%20%7C%20%F0%9F%8C%90%20[🏴BL]
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%A6%F0%9F%87%BA%20Австралия%2C%20Sydney%20%7C%20%F0%9F%8C%90%20[🏴BL]
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=t.me&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%A6%F0%9F%87%BA%20Австралия%2C%20Sydney%20%7C%20%F0%9F%8C%90%20[🏴BL]
-hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@xg1.mangshe.xyz:2056?insecure=1&sni=hdlb1.mangshe.xyz#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Haidian%20%28Haidian%20Qu%29%20[🏴BL]
 hysteria2://f165967b-5a97-4791-8d19-aefabab31cd8@156.226.169.208:55644?insecure=1&sni=www.bing.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20[🏴BL]
 hysteria2://9c5be37406b6584005b8de0ee3734dd9@140.238.43.0:50160?insecure=1&sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5%20Япония%2C%20Inzai%20%28Otsuka%29%20[🏴BL]
-hysteria2://f165967b-5a97-4791-8d19-aefabab31cd8@154.85.19.81:55583?insecure=1&sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5%20Япония%2C%20Shibuya%20City%20[🏴BL]
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Lyon%20[🏴BL]
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Lyon%20[🏴BL]
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Lyon%20[🏴BL]
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Lyon%20[🏴BL]
-trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20M%C3%BCnster%20[🏴BL]
-trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20M%C3%BCnster%20[🏴BL]
-trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20M%C3%BCnster%20[🏴BL]
-trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20M%C3%BCnster%20[🏴BL]
-trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20M%C3%BCnster%20[🏴BL]
-trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Haarlem%20[🏴BL]
-trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Haarlem%20[🏴BL]
-trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Haarlem%20[🏴BL]
-trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Haarlem%20[🏴BL]
-trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Haarlem%20[🏴BL]
-trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Haarlem%20[🏴BL]
-trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Haarlem%20[🏴BL]
-trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Haarlem%20[🏴BL]
-trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Haarlem%20[🏴BL]
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mlxy2.mangshe.xyz:2060?insecure=1&sni=mlxy2.mangshe.xyz#%F0%9F%87%B2%F0%9F%87%BE%20Малайзия%2C%20Cyberjaya%20[🏴BL]
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=css.rbxcdn.com#%F0%9F%87%B0%F0%9F%87%B7%20Южная Корея%2C%20Chuncheon-si%20[🏴BL]
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=speedtest.tinkoff.ru#%F0%9F%87%B0%F0%9F%87%B7%20Южная Корея%2C%20Chuncheon-si%20[🏴BL]
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.111.166:443?insecure=1&sni=t.me#%F0%9F%87%B0%F0%9F%87%B7%20Южная Корея%2C%20Incheon%20[🏴BL]
+vmess://eyJhZGQiOiJ2aXAxLnJpY2hhcmRzZXJ2ZXIuaXIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZjllNDcxMzctZTZlMS00OTBmLWJhYjctMDJlNjNmNTI2ZGZhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6nwn4eqIEdlcm1hbnksIE51cmVtYmVyZyB8IFtCTF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
