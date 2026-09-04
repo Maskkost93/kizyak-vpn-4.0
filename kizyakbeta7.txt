@@ -1,4 +1,7 @@
 # profile-title: 🥭 КIЗЯК VPN ⚡
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDQgMjM6NTkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogODgg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# profile-update-interval: 1
+# profile-title: 🥭 КIЗЯК VPN ⚡
 # announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDQgMjM6MzAg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogODgg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
 # profile-update-interval: 1
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@107.161.160.176:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz1.api3-max.ru&type=tcp&fp=android&nonce=F_tjLuA-#🇬🇧🚀%20Великобритания%20[🏴BL/SNI]%20|%20🥭🔥
