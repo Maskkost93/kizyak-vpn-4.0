@@ -1,6 +1,6 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDYgMDE6Mzcg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDYgMDI6MjUg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
-hysteria2://e0b9fb0f-1bbd-478b-9580-c2294778338b@cdncache.pleiades.codes:8443?insecure=1&sni=cdncache.pleiades.codes#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&sni=msk.frkn.org&up-mbps=0&seq=you_are_beautiful5404#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://hysteria2_fastlane_f6dt3q19m:vqCgcZnSL76jftd4853Sq8pUCmsYIjTJ@87.239.111.109:1935?seq=you_are_beautiful1089&nonce=ers5YDhM&nonce=qr4riHH9&sni=ru2.h.smartaisupport.ru&burmalda=e5ac634c&freeinternet=kizyak_vpn1788584801974&__rand=0f6909c2#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://e0b9fb0f-1bbd-478b-9580-c2294778338b@cdncache.pleiades.codes:8443?sni=cdncache.pleiades.codes&insecure=1#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?up-mbps=0&insecure=false&seq=you_are_beautiful5404&sni=msk.frkn.org#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://hysteria2_fastlane_f6dt3q19m:vqCgcZnSL76jftd4853Sq8pUCmsYIjTJ@87.239.111.109:1935?nonce=qr4riHH9&burmalda=e5ac634c&nonce=ers5YDhM&seq=you_are_beautiful1089&sni=ru2.h.smartaisupport.ru&__rand=0f6909c2&freeinternet=kizyak_vpn1788584801974&freeinternet=kizyak_vpn1788640628416#🇷🇺%20Обход%20БС%20|%20🥭🔥
