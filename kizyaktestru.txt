@@ -1,7 +1,7 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDUgMDY6NTIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDUgMDc6MzYg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
 hysteria2://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@have.whit3.net:443?sni=have.whit3.net#🇮🇱%20Израиль%20|%20🥭🔥
-hysteria2://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@have.whit3.net:443?sni=have.whit3.net&descriptions=люби_себяdedc4e#🇮🇱%20Израиль%20|%20🥭🔥
-hysteria2://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@have.whit3.net:443?sni=have.whit3.net&nonce=6-lp4NMp#🇮🇱%20Израиль%20|%20🥭🔥
-hysteria2://hysteria2_fastlane_f6dt3q19m:vqCgcZnSL76jftd4853Sq8pUCmsYIjTJ@87.239.111.109:1935?sni=ru2.h.smartaisupport.ru#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@have.whit3.net:443?sni=have.whit3.net&descriptions=СвободуИнтернету150#🇮🇱%20Израиль%20|%20🥭🔥
+hysteria2://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@have.whit3.net:443?sni=have.whit3.net&freeinternet=kizyak_vpn1788575801693#🇮🇱%20Израиль%20|%20🥭🔥
+hysteria2://hysteria2_fastlane_f6dt3q19m:vqCgcZnSL76jftd4853Sq8pUCmsYIjTJ@87.239.111.109:1935?sni=ru2.h.smartaisupport.ru&seq=you_are_beautiful1089#🇷🇺%20Обход%20БС%20|%20🥭🔥
