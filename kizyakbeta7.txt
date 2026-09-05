@@ -1,4 +1,7 @@
 # profile-title: 🥭 КIЗЯК VPN ⚡
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDUgMTA6MzYg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTE2IOKame+4jwrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=
+# profile-update-interval: 1
+# profile-title: 🥭 КIЗЯК VPN ⚡
 # announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDUgMTA6MDYg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTE2IOKame+4jwrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=
 # profile-update-interval: 1
 hysteria2://hysteria2_fastlane_f6dt3q19m:vqCgcZnSL76jftd4853Sq8pUCmsYIjTJ@87.239.111.109:1935?seq=you_are_beautiful1089&nonce=ers5YDhM&nonce=qr4riHH9&sni=ru2.h.smartaisupport.ru&burmalda=e5ac634c&freeinternet=kizyak_vpn1788584801974#🇷🇺🚀%20Обход%20БС%20🛡️%20[🏴BL/SNI]%20|%20🥭🔥
