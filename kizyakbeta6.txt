@@ -1,5 +1,5 @@
 # profile-title: 🥭 КIЗЯК VPN 6
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDYgMDk6MDUg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogNjgg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDYgMDk6NTIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogNjgg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
 # profile-update-interval: 1
 
 
@@ -72,10 +72,10 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSB8IFsqQ0lEUl0iLCJhZGQiOiJyZW5k
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6nwn4eqIEdlcm1hbnkgfCBbKkNJRFJdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
 vmess://eyJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsInNjeSI6ImF1dG8iLCJwcyI6IvCfh6nwn4eqIEdlcm1hbnkgfCBbKkNJRFJdIiwiYWRkIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93Iiwic25pIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJlY2hmcSI6Im5vbmUiLCJhbGxvd0luc2VjdXJlIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInYiOiIyIiwicG9ydCI6IjQ0MyIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSIsImFscG4iOiIifQ==
 404: Not Found
-# Date/Time: 2026-09-06 / 06:47 (Moscow)
+# Date/Time: 2026-09-06 / 07:51 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@78.159.240.41:443?serviceName=vless-grpc-reality&mode=gun&type=grpc&nonce=FjQdXPIw&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=id.vk.com&encryption=none&burmalda=46190067&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20|%20🥭🔧%20id.vk.com
-vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@78.159.240.41:443?serviceName=vless-grpc-reality&mode=gun&type=grpc&nonce=FjQdXPIw&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=id.vk.com&encryption=none&burmalda=46190067&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20|%20🥭🔧%20id.vk.com
-vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@78.159.240.41:443?serviceName=vless-grpc-reality&mode=gun&type=grpc&nonce=FjQdXPIw&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=id.vk.com&encryption=none&burmalda=46190067&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20|%20🥭🔧%20id.vk.com
-vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@78.159.240.41:443?serviceName=vless-grpc-reality&mode=gun&type=grpc&nonce=FjQdXPIw&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=id.vk.com&encryption=none&burmalda=46190067&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20|%20🥭🔧%20id.vk.com
+vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@78.159.240.41:443?type=grpc&security=reality&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=id.vk.com&serviceName=vless-grpc-reality&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20|%20🥭🔧%20id.vk.com
+vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@78.159.240.41:443?type=grpc&security=reality&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=id.vk.com&serviceName=vless-grpc-reality&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20|%20🥭🔧%20id.vk.com
+vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@78.159.240.41:443?type=grpc&security=reality&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=id.vk.com&serviceName=vless-grpc-reality&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20|%20🥭🔧%20id.vk.com
+vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@78.159.240.41:443?type=grpc&security=reality&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=id.vk.com&serviceName=vless-grpc-reality&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20|%20🥭🔧%20id.vk.com
