@@ -1,5 +1,5 @@
 # profile-title: КIЗЯК VPN TEST_RU🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDYgMDc6MTQg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMDYgMDg6MDEg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
-hysteria2://e0b9fb0f-1bbd-478b-9580-c2294778338b@cdncache.pleiades.codes:8443?_t=5683d780&descriptions=люби_себя0e7916&__rand=7f2d1b24&sni=cdncache.pleiades.codes&insecure=1&__rand=0029d8b1&_t=eb86533d#🇷🇺%20Обход%20БС%20|%20🥭🔥
-hysteria2://hysteria2_fastlane_f6dt3q19m:vqCgcZnSL76jftd4853Sq8pUCmsYIjTJ@87.239.111.109:1935?__rand=c251b3e1&sni=ru2.h.smartaisupport.ru&freeinternet=kizyak_vpn1788646388479&_t=7460b72d&__rand=70591438&seq=you_are_beautiful8859&burmalda=f95f47a7#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://e0b9fb0f-1bbd-478b-9580-c2294778338b@cdncache.pleiades.codes:8443?sni=cdncache.pleiades.codes&__rand=2b3604f1&_t=22371f8c#🇷🇺%20Обход%20БС%20|%20🥭🔥
+hysteria2://hysteria2_fastlane_f6dt3q19m:vqCgcZnSL76jftd4853Sq8pUCmsYIjTJ@87.239.111.109:1935?burmalda=f95f47a7&_t=7460b72d&freeinternet=kizyak_vpn1788646388479&__rand=c251b3e1&__rand=70591438&sni=ru2.h.smartaisupport.ru&seq=you_are_beautiful8859#🇷🇺%20Обход%20БС%20|%20🥭🔥
