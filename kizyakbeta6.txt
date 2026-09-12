@@ -1,5 +1,5 @@
 # profile-title: 🥭 КIЗЯК VPN 6
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMTIgMDg6MTIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogODcg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMTIgMDk6MTIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogODQg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
 # profile-update-interval: 1
 
 
@@ -93,9 +93,5 @@ vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJhaWQiOiIwIiwiYWxw
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6nwn4eqIEdlcm1hbnkgfCBbKkNJRFJdIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
 vmess://eyJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsInNjeSI6ImF1dG8iLCJwcyI6IvCfh6nwn4eqIEdlcm1hbnkgfCBbKkNJRFJdIiwiYWRkIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93Iiwic25pIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJlY2hmcSI6Im5vbmUiLCJhbGxvd0luc2VjdXJlIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInYiOiIyIiwicG9ydCI6IjQ0MyIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSIsImFscG4iOiIifQ==
 404: Not Found
-# Date/Time: 2026-09-12 / 04:50 (Moscow)
+# Date/Time: 2026-09-12 / 06:07 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-
-vless://ae09ddf8-b786-4cc4-bc36-775a34fb5364@lt2.umi-w.com:6666?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&pbk=ITAZHhtDe-XSALdxcudrmuaPi5T00JGO9rO-p7ZGAS8&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Литва%20%7C%20|%20🥭🔧%20api-maps.yandex.ru
-vless://ae09ddf8-b786-4cc4-bc36-775a34fb5364@lt2.umi-w.com:6666?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&pbk=ITAZHhtDe-XSALdxcudrmuaPi5T00JGO9rO-p7ZGAS8&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B1%F0%9F%87%B9%20Литва%20%7C%20|%20🥭🔧%20api-maps.yandex.ru
-vless://ae09ddf8-b786-4cc4-bc36-775a34fb5364@lt2.umi-w.com:6666?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&pbk=ITAZHhtDe-XSALdxcudrmuaPi5T00JGO9rO-p7ZGAS8&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B1%F0%9F%87%B9%20Литва%20%7C%20|%20🥭🔧%20api-maps.yandex.ru
