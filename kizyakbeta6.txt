@@ -1,18 +1,36 @@
 # profile-title: 🥭 КIЗЯК VPN 6
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMTQgMTU6Mjgg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMiDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMTQgMTY6MjIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMjAg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-09-14 / 13:00 (Moscow)
+# Date/Time: 2026-09-14 / 14:06 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@ns.o11111o.club:443?encryption=none&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://22723345-4e67-4ac9-a4e6-4435b9a533b7@89.127.197.75:443?encryption=none&pbk=K-wTvAPoWqLXkMU1mOIwFxdOgZfiloib93AZKBIoUnQ&security=reality&serviceName=grpc&sid=6b&sni=www.samsung.com&type=grpc&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://22723345-4e67-4ac9-a4e6-4435b9a533b7@89.127.197.75:443?encryption=none&pbk=K-wTvAPoWqLXkMU1mOIwFxdOgZfiloib93AZKBIoUnQ&security=reality&serviceName=grpc&sid=6b&sni=www.samsung.com&type=grpc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://22723345-4e67-4ac9-a4e6-4435b9a533b7@89.127.197.75:443?encryption=none&pbk=K-wTvAPoWqLXkMU1mOIwFxdOgZfiloib93AZKBIoUnQ&security=reality&serviceName=grpc&sid=6b&sni=www.samsung.com&type=grpc&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://22723345-4e67-4ac9-a4e6-4435b9a533b7@89.127.197.75:443?encryption=none&pbk=K-wTvAPoWqLXkMU1mOIwFxdOgZfiloib93AZKBIoUnQ&security=reality&serviceName=grpc&sid=6b&sni=www.samsung.com&type=grpc&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://22723345-4e67-4ac9-a4e6-4435b9a533b7@89.127.197.75:443?encryption=none&pbk=K-wTvAPoWqLXkMU1mOIwFxdOgZfiloib93AZKBIoUnQ&security=reality&serviceName=grpc&sid=6b&sni=www.samsung.com&type=grpc&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://3b17070b-6a05-42ae-b584-73b05781aad0@89.127.197.75:443?encryption=none&pbk=K-wTvAPoWqLXkMU1mOIwFxdOgZfiloib93AZKBIoUnQ&security=reality&serviceName=grpc&sid=6b&sni=www.samsung.com&type=grpc&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://3b17070b-6a05-42ae-b584-73b05781aad0@89.127.197.75:443?encryption=none&pbk=K-wTvAPoWqLXkMU1mOIwFxdOgZfiloib93AZKBIoUnQ&security=reality&serviceName=grpc&sid=6b&sni=www.samsung.com&type=grpc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://3b17070b-6a05-42ae-b584-73b05781aad0@89.127.197.75:443?encryption=none&pbk=K-wTvAPoWqLXkMU1mOIwFxdOgZfiloib93AZKBIoUnQ&security=reality&serviceName=grpc&sid=6b&sni=www.samsung.com&type=grpc&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://3b17070b-6a05-42ae-b584-73b05781aad0@89.127.197.75:443?encryption=none&pbk=K-wTvAPoWqLXkMU1mOIwFxdOgZfiloib93AZKBIoUnQ&security=reality&serviceName=grpc&sid=6b&sni=www.samsung.com&type=grpc&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://3b17070b-6a05-42ae-b584-73b05781aad0@89.127.197.75:443?encryption=none&pbk=K-wTvAPoWqLXkMU1mOIwFxdOgZfiloib93AZKBIoUnQ&security=reality&serviceName=grpc&sid=6b&sni=www.samsung.com&type=grpc&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://3e561346-4319-4c4a-9fc1-1c951c70e02c@89.127.209.89:443?encryption=none&pbk=hbOfuUJeZUi3UfNd9PEasFw9R0aRCt0F5NT5rdNDoTA&security=reality&serviceName=grpc&sid=00000000&sni=www.samsung.com&type=grpc&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://3e561346-4319-4c4a-9fc1-1c951c70e02c@89.127.209.89:443?encryption=none&pbk=hbOfuUJeZUi3UfNd9PEasFw9R0aRCt0F5NT5rdNDoTA&security=reality&serviceName=grpc&sid=00000000&sni=www.samsung.com&type=grpc&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://3e561346-4319-4c4a-9fc1-1c951c70e02c@89.127.209.89:443?encryption=none&pbk=hbOfuUJeZUi3UfNd9PEasFw9R0aRCt0F5NT5rdNDoTA&security=reality&serviceName=grpc&sid=00000000&sni=www.samsung.com&type=grpc&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://3e561346-4319-4c4a-9fc1-1c951c70e02c@89.127.209.89:443?encryption=none&pbk=hbOfuUJeZUi3UfNd9PEasFw9R0aRCt0F5NT5rdNDoTA&security=reality&serviceName=grpc&sid=00000000&sni=www.samsung.com&type=grpc&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://3e561346-4319-4c4a-9fc1-1c951c70e02c@89.127.209.89:443?encryption=none&pbk=hbOfuUJeZUi3UfNd9PEasFw9R0aRCt0F5NT5rdNDoTA&security=reality&serviceName=grpc&sid=00000000&sni=www.samsung.com&type=grpc&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@ns.o11111o.club:443?encryption=none&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=edge#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20[🏳️LTE]%20|%20🥭🔧
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@ns.o11111o.club:443?encryption=none&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20[🏳️LTE]%20|%20🥭🔧
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@ns.o11111o.club:443?encryption=none&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=safari#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20[🏳️LTE]%20|%20🥭🔧
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@ns.o11111o.club:443?encryption=none&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=chrome#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://2a0099ded5baa93c55823af39229c5b1@185-22-155-81.liao.kdns.fr:50160?sni=185-22-155-81.liao.kdns.fr#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://2a0099ded5baa93c55823af39229c5b1@185.22.155.81:50160?sni=185-22-155-81.liao.kdns.fr#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=0&sni=msk.frkn.org#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AA%20[🏳️LTE]%20|%20🥭🔧
-vmess://eyJhZGQiOiI1LjE4OC4yNi44NSIsImFpZCI6IjAiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoiLvCWpZQg3YEgy5bWtPCfm7jgvITLlsKwLiB8IFsqQ0lEUl0iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInYiOiIyIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6IiJ9
-vmess://eyJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsInNjeSI6ImF1dG8iLCJwcyI6Ii7wlqWUIN2BIMuW1rTwn5u44LyEy5bCsC4gfCBbKkNJRFJdIiwiYWRkIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93Iiwic25pIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJlY2hmcSI6Im5vbmUiLCJhbGxvd0luc2VjdXJlIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInYiOiIyIiwicG9ydCI6IjQ0MyIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSIsImFscG4iOiIifQ==
 404: Not Found
-# Date/Time: 2026-09-14 / 13:00 (Moscow)
+# Date/Time: 2026-09-14 / 14:06 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
