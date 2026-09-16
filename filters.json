@@ -1,0 +1,10 @@
+[
+  {
+    "name": "vless_no_encryption",
+    "rules": {
+      "protocol": ["vless"],
+      "tls": false,
+      "reality": false
+    }
+  }
+]
