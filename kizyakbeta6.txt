@@ -1,34 +1,23 @@
 # profile-title: 🥭 КIЗЯК VPN 6
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMjAgMjE6MTAg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTUg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMjAgMjI6Mzcg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-09-20 / 18:28 (Moscow)
+# Date/Time: 2026-09-20 / 19:34 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://82719790-ff61-4284-8668-ba140a4d6cbd@89.125.214.154:8444?flow=&type=grpc&mode=gun&serviceName=grpc-de-grpc&security=reality&sni=vk.ru&pbk=O4ymaaoTi3woCs3MWktyrXKhlU5RCK1Wo0G_T0u_Vi4&sid=5db60b1f&fp=firefox#%F0%9F%87%A8%F0%9F%87%BF%20Чехия%20[🏳️LTE]%20|%20🥭🔧
-vless://82719790-ff61-4284-8668-ba140a4d6cbd@89.125.214.154:8444?flow=&type=grpc&mode=gun&serviceName=grpc-de-grpc&security=reality&sni=vk.ru&pbk=O4ymaaoTi3woCs3MWktyrXKhlU5RCK1Wo0G_T0u_Vi4&sid=5db60b1f&fp=android#%F0%9F%87%A8%F0%9F%87%BF%20Чехия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://82719790-ff61-4284-8668-ba140a4d6cbd@89.125.214.154:8444?flow=&type=grpc&mode=gun&serviceName=grpc-de-grpc&security=reality&sni=vk.ru&pbk=O4ymaaoTi3woCs3MWktyrXKhlU5RCK1Wo0G_T0u_Vi4&sid=5db60b1f&fp=chrome#%F0%9F%87%A8%F0%9F%87%BF%20Чехия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://82719790-ff61-4284-8668-ba140a4d6cbd@89.125.214.154:8444?flow=&type=grpc&mode=gun&serviceName=grpc-de-grpc&security=reality&sni=vk.ru&pbk=O4ymaaoTi3woCs3MWktyrXKhlU5RCK1Wo0G_T0u_Vi4&sid=5db60b1f&fp=qq#%F0%9F%87%A8%F0%9F%87%BF%20Чехия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://82719790-ff61-4284-8668-ba140a4d6cbd@89.125.214.154:8444?flow=&type=grpc&mode=gun&serviceName=grpc-de-grpc&security=reality&sni=vk.ru&pbk=O4ymaaoTi3woCs3MWktyrXKhlU5RCK1Wo0G_T0u_Vi4&sid=5db60b1f&fp=safari#%F0%9F%87%A8%F0%9F%87%BF%20Чехия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=bl3fk52.sysopnova.art&type=xhttp&fp=edge#%F0%9F%87%AE%F0%9F%87%B9%20Италия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=bl3fk52.sysopnova.art&type=xhttp&fp=android#%F0%9F%87%AE%F0%9F%87%B9%20Италия%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=bl3fk52.sysopnova.art&type=xhttp&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20Италия%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=bl3fk52.sysopnova.art&type=xhttp&fp=ios#%F0%9F%87%AE%F0%9F%87%B9%20Италия%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=bl3fk52.sysopnova.art&type=xhttp&fp=safari#%F0%9F%87%AE%F0%9F%87%B9%20Италия%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://fefe22c4-a9aa-4b56-b23d-e42aab4bbac0@node3.frost-api.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://fefe22c4-a9aa-4b56-b23d-e42aab4bbac0@node3.frost-api.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://fefe22c4-a9aa-4b56-b23d-e42aab4bbac0@node3.frost-api.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://fefe22c4-a9aa-4b56-b23d-e42aab4bbac0@node3.frost-api.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://fefe22c4-a9aa-4b56-b23d-e42aab4bbac0@node3.frost-api.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
+hysteria2://hysteria2_fastlane_cfm7kzssa:OHDpvCARUv5xvE07caQIrVo6IpqRkgkq@84.23.54.203:1935?sni=ru2.h.smartaisupport.ru#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20[🏳️LTE]%20|%20🥭🔧%20%20
+hysteria2://hysteria2_fastlane_f6dt3q19m:vqCgcZnSL76jftd4853Sq8pUCmsYIjTJ@87.239.111.109:1935?sni=ru2.h.smartaisupport.ru#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20[🏳️LTE]%20|%20🥭🔧%20%20
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?sni=hy.quattro-tech.ru#%F0%9F%87%B1%F0%9F%87%BB%20Латвия%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://2a3b101d-d8f9-40e7-9373-b0ef487c0035@46.8.210.129:22443?sni=disk.api-yandex.net#%F0%9F%87%B3%F0%9F%87%B4%20Норвегия%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://2a3b101d-d8f9-40e7-9373-b0ef487c0035@46.8.210.129:22443?sni=disk.api-yandex.net&alpn=h3#%F0%9F%87%B3%F0%9F%87%B4%20Норвегия%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://2a3b101d-d8f9-40e7-9373-b0ef487c0035@46.8.210.152:23443?sni=disk.api-yandex.net#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://2a3b101d-d8f9-40e7-9373-b0ef487c0035@46.8.210.152:23443?sni=disk.api-yandex.net&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=itsallproxy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
 404: Not Found
-# Date/Time: 2026-09-20 / 18:28 (Moscow)
+# Date/Time: 2026-09-20 / 19:34 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
