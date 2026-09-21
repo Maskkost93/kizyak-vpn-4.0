@@ -1,30 +1,26 @@
 # profile-title: 🥭 КIЗЯК VPN 6
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMjIgMDA6MDcg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTUg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMjIgMDE6MzUg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTEg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-09-21 / 21:50 (Moscow)
+# Date/Time: 2026-09-21 / 22:54 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@de58.abvpn.net:443?security=tls&type=xhttp&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&sni=de58.abvpn.net&alpn=h2&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@de58.abvpn.net:443?security=tls&type=xhttp&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&sni=de58.abvpn.net&alpn=h2&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@de58.abvpn.net:443?security=tls&type=xhttp&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&sni=de58.abvpn.net&alpn=h2&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@de58.abvpn.net:443?security=tls&type=xhttp&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&sni=de58.abvpn.net&alpn=h2&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@de58.abvpn.net:443?security=tls&type=xhttp&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&sni=de58.abvpn.net&alpn=h2&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://0a0667bd-1bdb-4555-a4a6-6903623fc804@89.169.166.43:2015?encryption=none&flow=xtls-rprx-vision&pbk=HnO7i6WBCj_5_km3TtotQJa76TbOVq1HuFhhqKVtr3U&security=reality&sid=e787c66988b14914&sni=gateway.icloud.com&type=raw&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://0a0667bd-1bdb-4555-a4a6-6903623fc804@89.169.166.43:2015?encryption=none&flow=xtls-rprx-vision&pbk=HnO7i6WBCj_5_km3TtotQJa76TbOVq1HuFhhqKVtr3U&security=reality&sid=e787c66988b14914&sni=gateway.icloud.com&type=raw&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://0a0667bd-1bdb-4555-a4a6-6903623fc804@89.169.166.43:2015?encryption=none&flow=xtls-rprx-vision&pbk=HnO7i6WBCj_5_km3TtotQJa76TbOVq1HuFhhqKVtr3U&security=reality&sid=e787c66988b14914&sni=gateway.icloud.com&type=raw&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://0a0667bd-1bdb-4555-a4a6-6903623fc804@89.169.166.43:2015?encryption=none&flow=xtls-rprx-vision&pbk=HnO7i6WBCj_5_km3TtotQJa76TbOVq1HuFhhqKVtr3U&security=reality&sid=e787c66988b14914&sni=gateway.icloud.com&type=raw&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://0a0667bd-1bdb-4555-a4a6-6903623fc804@89.169.166.43:2015?encryption=none&flow=xtls-rprx-vision&pbk=HnO7i6WBCj_5_km3TtotQJa76TbOVq1HuFhhqKVtr3U&security=reality&sid=e787c66988b14914&sni=gateway.icloud.com&type=raw&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://00d4010a-ac43-48a4-a790-50a50599e616@95.163.155.137:31585?encryption=none&security=none&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
+vless://e48e4377-1f29-485b-80d4-85fd4fa27bfa@159.194.217.26:443?security=reality&encryption=none&pbk=APL7UqMEGSeIQNe4evUy3gdFRnTD_l3UMtgTcIfh2XY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.siemens.com&sid=babcbe551bde8268&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://e48e4377-1f29-485b-80d4-85fd4fa27bfa@159.194.217.26:443?security=reality&encryption=none&pbk=APL7UqMEGSeIQNe4evUy3gdFRnTD_l3UMtgTcIfh2XY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.siemens.com&sid=babcbe551bde8268&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://e48e4377-1f29-485b-80d4-85fd4fa27bfa@159.194.217.26:443?security=reality&encryption=none&pbk=APL7UqMEGSeIQNe4evUy3gdFRnTD_l3UMtgTcIfh2XY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.siemens.com&sid=babcbe551bde8268&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://e48e4377-1f29-485b-80d4-85fd4fa27bfa@159.194.217.26:443?security=reality&encryption=none&pbk=APL7UqMEGSeIQNe4evUy3gdFRnTD_l3UMtgTcIfh2XY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.siemens.com&sid=babcbe551bde8268&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://e48e4377-1f29-485b-80d4-85fd4fa27bfa@159.194.217.26:443?security=reality&encryption=none&pbk=APL7UqMEGSeIQNe4evUy3gdFRnTD_l3UMtgTcIfh2XY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.siemens.com&sid=babcbe551bde8268&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?sni=hy.quattro-tech.ru#%F0%9F%87%B1%F0%9F%87%BB%20Латвия%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=itsallproxy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+trojan://wYQ9WYorgO@213.171.27.80:37490?security=none&type=raw&fp=qq#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+trojan://wYQ9WYorgO@213.171.27.80:37490?security=none&type=raw&fp=android#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
+trojan://wYQ9WYorgO@213.171.27.80:37490?security=none&type=raw&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
+trojan://wYQ9WYorgO@213.171.27.80:37490?security=none&type=raw&fp=edge#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
+trojan://wYQ9WYorgO@213.171.27.80:37490?security=none&type=raw&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20[🏳️LTE]%20|%20🥭🔧
 404: Not Found
-# Date/Time: 2026-09-21 / 21:50 (Moscow)
+# Date/Time: 2026-09-21 / 22:54 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
