@@ -1,29 +1,27 @@
 # profile-title: 🥭 КIЗЯК VPN 6
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMjEgMTk6NDAg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTEg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMjEgMjE6MDgg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTEg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-09-21 / 17:30 (Moscow)
+# Date/Time: 2026-09-21 / 18:34 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://b24a59f3-f62c-48ef-86d6-e4ca44d6b357@66.90.90.164:8443?encryption=none&type=tcp&security=tls&sni=dsapi-v2-6ab0d7e2.adhil.uk&alpn=h2&flow=xtls-rprx-vision&headerType=none&allowInsecure=0&fp=chrome#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://b24a59f3-f62c-48ef-86d6-e4ca44d6b357@66.90.90.164:8443?encryption=none&type=tcp&security=tls&sni=dsapi-v2-6ab0d7e2.adhil.uk&alpn=h2&flow=xtls-rprx-vision&headerType=none&allowInsecure=0&fp=edge#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://b24a59f3-f62c-48ef-86d6-e4ca44d6b357@66.90.90.164:8443?encryption=none&type=tcp&security=tls&sni=dsapi-v2-6ab0d7e2.adhil.uk&alpn=h2&flow=xtls-rprx-vision&headerType=none&allowInsecure=0&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://b24a59f3-f62c-48ef-86d6-e4ca44d6b357@66.90.90.164:8443?encryption=none&type=tcp&security=tls&sni=dsapi-v2-6ab0d7e2.adhil.uk&alpn=h2&flow=xtls-rprx-vision&headerType=none&allowInsecure=0&fp=ios#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://b24a59f3-f62c-48ef-86d6-e4ca44d6b357@66.90.90.164:8443?encryption=none&type=tcp&security=tls&sni=dsapi-v2-6ab0d7e2.adhil.uk&alpn=h2&flow=xtls-rprx-vision&headerType=none&allowInsecure=0&fp=qq#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://00d4010a-ac43-48a4-a790-50a50599e616@95.163.155.137:31585?encryption=none&security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://b24a59f3-f62c-48ef-86d6-e4ca44d6b357@66.90.90.164:8443?encryption=none&type=tcp&security=tls&sni=dsapi-v2-6ab0d7e2.adhil.uk&alpn=h2&flow=xtls-rprx-vision&headerType=none&allowInsecure=0&fp=android#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://00d4010a-ac43-48a4-a790-50a50599e616@95.163.155.137:31585?encryption=none&security=none&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
+vless://b24a59f3-f62c-48ef-86d6-e4ca44d6b357@66.90.90.164:8443?encryption=none&type=tcp&security=tls&sni=dsapi-v2-6ab0d7e2.adhil.uk&alpn=h2&flow=xtls-rprx-vision&headerType=none&allowInsecure=0&fp=chrome#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://b24a59f3-f62c-48ef-86d6-e4ca44d6b357@66.90.90.164:8443?encryption=none&type=tcp&security=tls&sni=dsapi-v2-6ab0d7e2.adhil.uk&alpn=h2&flow=xtls-rprx-vision&headerType=none&allowInsecure=0&fp=edge#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://b24a59f3-f62c-48ef-86d6-e4ca44d6b357@66.90.90.164:8443?encryption=none&type=tcp&security=tls&sni=dsapi-v2-6ab0d7e2.adhil.uk&alpn=h2&flow=xtls-rprx-vision&headerType=none&allowInsecure=0&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://b24a59f3-f62c-48ef-86d6-e4ca44d6b357@66.90.90.164:8443?encryption=none&type=tcp&security=tls&sni=dsapi-v2-6ab0d7e2.adhil.uk&alpn=h2&flow=xtls-rprx-vision&headerType=none&allowInsecure=0&fp=ios#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20[🏳️LTE]%20|%20🥭🔧%20%20
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?sni=hy.quattro-tech.ru#%F0%9F%87%B1%F0%9F%87%BB%20Латвия%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=itsallproxy.quattro-tech.ru&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
 404: Not Found
-# Date/Time: 2026-09-21 / 17:30 (Moscow)
+# Date/Time: 2026-09-21 / 18:34 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://e42ba0b1-39a0-48fd-a80f-f3fca3bb4c6d@109.176.91.28:443?encryption=none&type=grpc&security=reality&sni=cloudcdn-m9-15.cdn.yandex.net&pbk=zvDl-tnM_FtSLG45j7FXchPAl1dFJaE_T0Lgy26xuXU&sid=b9e7a1c4d8329f10&serviceName=simplegrpc&mode=gun&allowInsecure=1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20|%20🥭🔧%20cloudcdn-m9-15.cdn.yandex.net
-vless://e42ba0b1-39a0-48fd-a80f-f3fca3bb4c6d@109.176.91.28:443?encryption=none&type=grpc&security=reality&sni=cloudcdn-m9-15.cdn.yandex.net&pbk=zvDl-tnM_FtSLG45j7FXchPAl1dFJaE_T0Lgy26xuXU&sid=b9e7a1c4d8329f10&serviceName=simplegrpc&mode=gun&allowInsecure=1&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20|%20🥭🔧%20cloudcdn-m9-15.cdn.yandex.net
-vless://e42ba0b1-39a0-48fd-a80f-f3fca3bb4c6d@109.176.91.28:443?encryption=none&type=grpc&security=reality&sni=cloudcdn-m9-15.cdn.yandex.net&pbk=zvDl-tnM_FtSLG45j7FXchPAl1dFJaE_T0Lgy26xuXU&sid=b9e7a1c4d8329f10&serviceName=simplegrpc&mode=gun&allowInsecure=1&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20|%20🥭🔧%20cloudcdn-m9-15.cdn.yandex.net
-vless://e42ba0b1-39a0-48fd-a80f-f3fca3bb4c6d@109.176.91.28:443?encryption=none&type=grpc&security=reality&sni=cloudcdn-m9-15.cdn.yandex.net&pbk=zvDl-tnM_FtSLG45j7FXchPAl1dFJaE_T0Lgy26xuXU&sid=b9e7a1c4d8329f10&serviceName=simplegrpc&mode=gun&allowInsecure=1&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20|%20🥭🔧%20cloudcdn-m9-15.cdn.yandex.net
 vless://e42ba0b1-39a0-48fd-a80f-f3fca3bb4c6d@109.176.91.28:443?encryption=none&type=grpc&security=reality&sni=cloudcdn-m9-15.cdn.yandex.net&pbk=zvDl-tnM_FtSLG45j7FXchPAl1dFJaE_T0Lgy26xuXU&sid=b9e7a1c4d8329f10&serviceName=simplegrpc&mode=gun&allowInsecure=1&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20|%20🥭🔧%20cloudcdn-m9-15.cdn.yandex.net
+vless://e42ba0b1-39a0-48fd-a80f-f3fca3bb4c6d@109.176.91.28:443?encryption=none&type=grpc&security=reality&sni=cloudcdn-m9-15.cdn.yandex.net&pbk=zvDl-tnM_FtSLG45j7FXchPAl1dFJaE_T0Lgy26xuXU&sid=b9e7a1c4d8329f10&serviceName=simplegrpc&mode=gun&allowInsecure=1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20|%20🥭🔧%20cloudcdn-m9-15.cdn.yandex.net
+vless://e42ba0b1-39a0-48fd-a80f-f3fca3bb4c6d@109.176.91.28:443?encryption=none&type=grpc&security=reality&sni=cloudcdn-m9-15.cdn.yandex.net&pbk=zvDl-tnM_FtSLG45j7FXchPAl1dFJaE_T0Lgy26xuXU&sid=b9e7a1c4d8329f10&serviceName=simplegrpc&mode=gun&allowInsecure=1&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20|%20🥭🔧%20cloudcdn-m9-15.cdn.yandex.net
+vless://e42ba0b1-39a0-48fd-a80f-f3fca3bb4c6d@109.176.91.28:443?encryption=none&type=grpc&security=reality&sni=cloudcdn-m9-15.cdn.yandex.net&pbk=zvDl-tnM_FtSLG45j7FXchPAl1dFJaE_T0Lgy26xuXU&sid=b9e7a1c4d8329f10&serviceName=simplegrpc&mode=gun&allowInsecure=1&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20|%20🥭🔧%20cloudcdn-m9-15.cdn.yandex.net
+vless://e42ba0b1-39a0-48fd-a80f-f3fca3bb4c6d@109.176.91.28:443?encryption=none&type=grpc&security=reality&sni=cloudcdn-m9-15.cdn.yandex.net&pbk=zvDl-tnM_FtSLG45j7FXchPAl1dFJaE_T0Lgy26xuXU&sid=b9e7a1c4d8329f10&serviceName=simplegrpc&mode=gun&allowInsecure=1&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20|%20🥭🔧%20cloudcdn-m9-15.cdn.yandex.net
