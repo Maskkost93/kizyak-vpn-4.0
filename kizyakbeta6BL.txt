@@ -1,9 +1,9 @@
 # profile-title: КIЗЯК VPN BLACKLIST🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMjIgMTk6NDkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMiDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMjIgMjM6MTkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMjAg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-09-22 / 17:40 (Moscow)
+# Date/Time: 2026-09-22 / 20:48 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 # RU: Эта подписка может содержать Trojan/Hysteria2/Hy2 с legacy-параметрами insecure=1 или allowInsecure=1.
@@ -14,12 +14,35 @@
 # EN: Such configs may cause Xray-core startup errors with Xray-core v26.2.6 and newer in clients that use the Xray-core engine.
 # EN: For compatibility, use Mihomo/Sing-box for Trojan/Hysteria2/Hy2 or Xray-core v26.1.23, the last confirmed working version for such configs.
 
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@xg1.mangshe.xyz:2056?sni=hdlb1.mangshe.xyz&insecure=1#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Haidian%20%28Haidian%20Qu%29%20[🏴BL]
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@dg1.mangshe.xyz:2056?insecure=1&sni=dg1.mangshe.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20[🏴BL]
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@103.117.141.103:2060?insecure=1&sni=mlxy.mangshe.xyz#%F0%9F%87%B2%F0%9F%87%BE%20Малайзия%2C%20Cyberjaya%20[🏴BL]
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@103.117.141.124:2060?insecure=1&sni=mlxy1.mangshe.xyz#%F0%9F%87%B2%F0%9F%87%BE%20Малайзия%2C%20Cyberjaya%20[🏴BL]
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mlxy1.mangshe.xyz:2060?insecure=1&sni=mlxy1.mangshe.xyz#%F0%9F%87%B2%F0%9F%87%BE%20Малайзия%2C%20Cyberjaya%20[🏴BL]
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mlxy2.mangshe.xyz:2060?insecure=1#%F0%9F%87%B2%F0%9F%87%BE%20Малайзия%2C%20Cyberjaya%20[🏴BL]
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mlxy2.mangshe.xyz:2060?insecure=1&sni=mlxy2.mangshe.xyz#%F0%9F%87%B2%F0%9F%87%BE%20Малайзия%2C%20Cyberjaya%20[🏴BL]
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?insecure=1&sni=127.0.0.1#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20[🏴BL]
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?security=tls&sni=127.0.0.1&alpn=h3&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20[🏴BL]
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#%F0%9F%87%B7%F0%9F%87%BA%20Россия%2C%20Moscow%20[🏴BL]
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#%F0%9F%87%B7%F0%9F%87%BA%20Россия%2C%20Moscow%20%7C%20%F0%9F%8C%90%20[🏴BL]
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Россия%2C%20Moscow%20%7C%20%F0%9F%8C%90%20[🏴BL]
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Россия%2C%20Moscow%20%7C%20%F0%9F%8C%90%20[🏴BL]
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoiaTJwc20za25vZjVxamppeC52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwiaG9zdCI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJhZGQiOiJpMnBzbTNrbm9mNXFqaml4LnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiaG9zdCI6ImkycHNtM2tub2Y1cWpqaXgudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjctYzFmOS00MzczLTg3NmMtMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwic25pIjoiaTJwc20za25vZjVxamppeC52LjNkbnMudmlwIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJhZGQiOiJkZWUyMzA5ZGI0OTQ0YzI0OGI2ZDQzNzJjNjY0MWU3Yi5veWxmbXh6LmNuIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImQ5MGU0MDc3LWJjN2UtNDE0ZC1hNjUwLTcwYmYxYmFhZTRkNiIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewIEhvbmcgS29uZywgVGluIFNodWkgV2FpIHwgW0JMXSIsInNuaSI6ImRlZTIzMDlkYjQ5NDRjMjQ4YjZkNDM3MmM2NjQxZTdiLm95bGZteHouY24iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6IiJ9
 vmess://eyJhZGQiOiJkZWUyMzA5ZGI0OTQ0YzI0OGI2ZDQzNzJjNjY0MWU3Yi5veWxmbXh6LmNuIiwiYWlkIjoiMCIsImhvc3QiOiJkZWUyMzA5ZGI0OTQ0YzI0OGI2ZDQzNzJjNjY0MWU3Yi5veWxmbXh6LmNuIiwiaWQiOiJkOTBlNDA3Ny1iYzdlLTQxNGQtYTY1MC03MGJmMWJhYWU0ZDYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBUaW4gU2h1aSBXYWkgfCBbQkxdIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoiZGVlMjMwOWRiNDk0NGMyNDhiNmQ0MzcyYzY2NDFlN2Iub3lsZm14ei5jbiIsInRscyI6InRscyIsInYiOiIyIiwidHlwZSI6Im5vbmUiLCJhbHBuIjoiIiwiZnAiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU3QgTG91aXMgKERvd250b3duKSB8IFtCTF0iLCJhZGQiOiIxNzIuNjQuODAuMSIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJwYXRoIjoiL2xNbnNaVU40LyIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsImZwIjoiIn0=
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Guilin%20[🏴BL]
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=edge#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Guilin%20[🏴BL]
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=firefox#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Guilin%20[🏴BL]
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Guilin%20[🏴BL]
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=android#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Guilin%20[🏴BL]
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=edge#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Guilin%20[🏴BL]
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=ios#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Guilin%20[🏴BL]
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=safari#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Guilin%20[🏴BL]
+trojan://-svgCjAG2X4akN5ats6xfvSmTSNjEnSA@185.238.191.45:443?type=grpc&serviceName=ajv&mode=gun&security=tls&sni=d4-de2.cloud-cdn.xyz&alpn=h2&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://-svgCjAG2X4akN5ats6xfvSmTSNjEnSA@185.238.191.45:443?type=grpc&serviceName=ajv&mode=gun&security=tls&sni=d4-de2.cloud-cdn.xyz&alpn=h2&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://-svgCjAG2X4akN5ats6xfvSmTSNjEnSA@185.238.191.45:443?type=grpc&serviceName=ajv&mode=gun&security=tls&sni=d4-de2.cloud-cdn.xyz&alpn=h2&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://-svgCjAG2X4akN5ats6xfvSmTSNjEnSA@185.238.191.45:443?type=grpc&serviceName=ajv&mode=gun&security=tls&sni=d4-de2.cloud-cdn.xyz&alpn=h2&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Santa%20Clara%20[🏴BL]
+trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Santa%20Clara%20[🏴BL]
+trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Santa%20Clara%20[🏴BL]
+trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Santa%20Clara%20[🏴BL]
