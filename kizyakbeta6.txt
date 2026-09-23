@@ -1,21 +1,17 @@
 # profile-title: 🥭 КIЗЯК VPN 6
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMjMgMjA6MDMg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogNSDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMjMgMjE6MzAg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMCDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-09-23 / 17:05 (Moscow)
+# Date/Time: 2026-09-23 / 19:09 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?sni=hy.quattro-tech.ru#%F0%9F%87%B1%F0%9F%87%BB%20Латвия%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?insecure=0&sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=itsallproxy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
 404: Not Found
-# Date/Time: 2026-09-23 / 17:05 (Moscow)
+# Date/Time: 2026-09-23 / 19:09 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
