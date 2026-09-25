@@ -1,9 +1,9 @@
 # profile-title: КIЗЯК VPN BLACKLIST🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMjUgMTQ6MTAg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTgg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMDktMjUgMTU6MjIg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMjAg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-09-25 / 11:15 (Moscow)
+# Date/Time: 2026-09-25 / 12:35 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 # RU: Эта подписка может содержать Trojan/Hysteria2/Hy2 с legacy-параметрами insecure=1 или allowInsecure=1.
@@ -14,17 +14,15 @@
 # EN: Such configs may cause Xray-core startup errors with Xray-core v26.2.6 and newer in clients that use the Xray-core engine.
 # EN: For compatibility, use Mihomo/Sing-box for Trojan/Hysteria2/Hy2 or Xray-core v26.1.23, the last confirmed working version for such configs.
 
-hysteria2://kewr0929_M9ic23iqe_m9E2R93Js8034c_Rt10@222.167.212.160:8443?sni=new-finland-september.bumbleshrimp.com#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20Helsinki%20[🏴BL]
+ss://YWVzLTEyOC1nY206MTdiNzBmNzItZmM0Zi00MWE3LWEzMmYtZTBiYmFkN2QxNDAw@gd.bjnet2.com:36602?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D3c183f1f4eae079d708e817ae656417a.baidu.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20[🏴BL]
 hysteria2://2561c6b1a3069d3170b4d7e1ecc08c65@paris.nerabotaet.com:443#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Paris%20[🏴BL]
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.189:8443?sni=hopp-romania-new.roxa.org#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Paris%20[🏴BL]
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.189:8443?sni=hopp-romania-new.roxa.org&insecure=1&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Paris%20[🏴BL]
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.13:8443?sni=hop-germany-september.dynuddns.com#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
 hysteria2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@e6b91583-tm96o0-tnhquc-1j0a4.hk3.hyhuawei.com:443?insecure=1&sni=e6b91583-tm96o0-tnhquc-1j0a4.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20[🏴BL]
 hysteria2://aed1cc24-351d-11ef-ba52-f23c9164ca5d@311648fa-tm3mo0-0-1rfon.hk3.hyhuawei.com:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20[🏴BL]
 hysteria2://aed1cc24-351d-11ef-ba52-f23c9164ca5d@311648fa-tm3mo0-0-1rfon.hk3.hyhuawei.com:443?insecure=1&sni=311648fa-tm3mo0-0-1rfon.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20[🏴BL]
-hysteria2://aed1cc24-351d-11ef-ba52-f23c9164ca5d@44577f17-tm96o0-tne5x4-1rfon.nw4.hyhuawei.com:443?insecure=1&sni=44577f17-tm96o0-tne5x4-1rfon.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20[🏴BL]
-hysteria2://aed1cc24-351d-11ef-ba52-f23c9164ca5d@465965e0-tm3mo0-0-1rfon.nw4.hyhuawei.com:443?insecure=1&sni=465965e0-tm3mo0-0-1rfon.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20[🏴BL]
 hysteria2://aed1cc24-351d-11ef-ba52-f23c9164ca5d@b503b615-tm96o0-tne5x4-1rfon.hk3.hyhuawei.com:443?insecure=1&sni=b503b615-tm96o0-tne5x4-1rfon.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20[🏴BL]
+hysteria2://c12f73f6-e8c7-11ed-9246-f23c9164ca5d@193d0c41-tm96o0-tnggms-6gn6.nw4.hyhuawei.com:443?insecure=1&sni=193d0c41-tm96o0-tnggms-6gn6.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20[🏴BL]
 hysteria2://RQBXe4kpsRant_2u1PzdneBOPuCSwUSI@43.167.208.94:443?insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Япония%2C%20Shibuya%20City%20[🏴BL]
 hysteria2://RQBXe4kpsRant_2u1PzdneBOPuCSwUSI@43.167.208.94:443?sni=43.167.208.94&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Япония%2C%20Shibuya%20City%20[🏴BL]
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@msjp.mangshe.xyz:20561#%F0%9F%87%AF%F0%9F%87%B5%20Япония%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20[🏴BL]
@@ -34,17 +32,17 @@ hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mlxy1.mangshe.xyz:2060?insecure
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mlxy1.mangshe.xyz:2060?insecure=1&sni=mlxy1.mangshe.xyz#%F0%9F%87%B2%F0%9F%87%BE%20Малайзия%2C%20Cyberjaya%20[🏴BL]
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mlxy2.mangshe.xyz:2060?insecure=1#%F0%9F%87%B2%F0%9F%87%BE%20Малайзия%2C%20Cyberjaya%20[🏴BL]
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mlxy2.mangshe.xyz:2060?insecure=1&sni=mlxy2.mangshe.xyz#%F0%9F%87%B2%F0%9F%87%BE%20Малайзия%2C%20Cyberjaya%20[🏴BL]
-hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.239:8443?sni=hopp-swizland-new.mysynology.net#%F0%9F%87%A8%F0%9F%87%AD%20Швейцария%2C%20Zurich%20[🏴BL]
-hysteria2://d929e993-8053-488a-8a22-0ae09f706a2e@31.59.150.248:4433?sni=nl.nextgencloud.tech#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20[🏴BL]
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.99:8443?sni=grape-test-italy.dynuddns.net#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20[🏴BL]
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.99:8443?sni=grape-test-italy.dynuddns.net&insecure=1&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20[🏴BL]
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?security=tls&sni=127.0.0.1&alpn=h3&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20[🏴BL]
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?sni=127.0.0.1&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20[🏴BL]
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.13:8081?sni=hop-germany-september.dynuddns.com#%F0%9F%87%B9%F0%9F%87%B7%20Турция%2C%20Ankara%20[🏴BL]
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Россия%2C%20Moscow%20[🏴BL]
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#%F0%9F%87%B7%F0%9F%87%BA%20Россия%2C%20Moscow%20%7C%20%F0%9F%8C%90%20[🏴BL]
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=0&sni=msk.frkn.org#%F0%9F%87%B7%F0%9F%87%BA%20Россия%2C%20Moscow%20%7C%20%F0%9F%8C%90%20[🏴BL]
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Россия%2C%20Moscow%20%7C%20%F0%9F%8C%90%20[🏴BL]
-vmess://eyJhZGQiOiIxNjMuMjQ1LjE5Ni4xMDYiLCJpZCI6IlhFWEVWSUwiLCJwb3J0IjoiNDA0NDMiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiIiLCJwYXRoIjoiL3VzZXJfeGV4ZXZpbCB0ZWwiLCJ0bHMiOiJub25lIiwicHMiOiIu8JallCDdgSDLlta08J+buOC8hMuWwrAuIHwgW0JMXSIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Россия%2C%20Moscow%20%7C%20%F0%9F%8C%90%20[🏴BL]
+vmess://eyJ2IjoiMiIsInBzIjoiLvCWpZQg3YEgy5bWtPCfm7jgvITLlsKwLiB8IFtCTF0iLCJhZGQiOiIzMS43Ny44Ljk3IiwicG9ydCI6IjExMCIsImlkIjoiZTg3NThiZjAtYzIzNC00ODA5LTg5ZjctMjVmZDg2ODMxNmQwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJyYXciLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vmess://eyJhZGQiOiIyNDg2NDE2ODU0NTE2NC5veWxmbXh6LmNuIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiMjQ4NjQxNjg1NDUxNjQub3lsZm14ei5jbiIsImlkIjoiZDkwZTQwNzctYmM3ZS00MTRkLWE2NTAtNzBiZjFiYWFlNGQ2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7nwn4e8IFRhaXdhbiwgWXVhbmxpbiB8IFtCTF0iLCJzY3kiOiJhdXRvIiwic25pIjoiMjQ4NjQxNjg1NDUxNjQub3lsZm14ei5jbiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJmcCI6IiJ9
+vmess://eyJhZGQiOiIyNDg2NDE2ODU0NTE2NC5veWxmbXh6LmNuIiwiYWlkIjoiMCIsImhvc3QiOiIyNDg2NDE2ODU0NTE2NC5veWxmbXh6LmNuIiwiaWQiOiJkOTBlNDA3Ny1iYzdlLTQxNGQtYTY1MC03MGJmMWJhYWU0ZDYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBZdWFubGluIHwgW0JMXSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6IjI0ODY0MTY4NTQ1MTY0Lm95bGZteHouY24iLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIiwiZnAiOiIifQ==
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Guilin%20[🏴BL]
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=edge#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Guilin%20[🏴BL]
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=firefox#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Guilin%20[🏴BL]
@@ -55,9 +53,9 @@ trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=firefox#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Guilin%20[🏴BL]
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=ios#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Guilin%20[🏴BL]
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=safari#%F0%9F%87%A8%F0%9F%87%B3%20Китай%2C%20Guilin%20[🏴BL]
-trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Santa%20Clara%20[🏴BL]
-trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Santa%20Clara%20[🏴BL]
+trojan://zO79_fE_wEIhphCLNOo3mQ@8.6.112.0:443?security=tls&sni=cf.lunex-vpn.xyz&alpn=h3%2C+h2%2C+http%2F1.1&type=ws&host=cf.lunex-vpn.xyz&path=%2FLunex&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://zO79_fE_wEIhphCLNOo3mQ@8.6.112.0:443?security=tls&sni=cf.lunex-vpn.xyz&alpn=h3%2C+h2%2C+http%2F1.1&type=ws&host=cf.lunex-vpn.xyz&path=%2FLunex&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://zO79_fE_wEIhphCLNOo3mQ@8.6.112.0:443?security=tls&sni=cf.lunex-vpn.xyz&alpn=h3%2C+h2%2C+http%2F1.1&type=ws&host=cf.lunex-vpn.xyz&path=%2FLunex&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
 trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Santa%20Clara%20[🏴BL]
 trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Santa%20Clara%20[🏴BL]
-trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=random#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Santa%20Clara%20[🏴BL]
 trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Santa%20Clara%20[🏴BL]
