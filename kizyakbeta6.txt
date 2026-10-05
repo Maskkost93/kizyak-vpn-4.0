@@ -1,34 +1,17 @@
 # profile-title: 🥭 КIЗЯК VPN 6
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMTAtMDUgMTc6MTcg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMjAg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMTAtMDUgMTg6Mzkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogNSDimpnvuI8K4p2k77iPICAjT1BFTlNPVVJDRSDinaTvuI8K
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-10-05 / 14:15 (Moscow)
+# Date/Time: 2026-10-05 / 15:31 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://9b5bc0f3-4e1b-4ea8-92ff-6ba32a5c3830@45.144.31.76:443?encryption=none&flow=xtls-rprx-vision&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&security=reality&sid=d1694c220d4b13e7&sni=free01.tunnely.space&type=tcp&fp=android#%F0%9F%87%A7%F0%9F%87%AA%20Бельгия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://9b5bc0f3-4e1b-4ea8-92ff-6ba32a5c3830@45.144.31.76:443?encryption=none&flow=xtls-rprx-vision&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&security=reality&sid=d1694c220d4b13e7&sni=free01.tunnely.space&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%AA%20Бельгия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://9b5bc0f3-4e1b-4ea8-92ff-6ba32a5c3830@45.144.31.76:443?encryption=none&flow=xtls-rprx-vision&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&security=reality&sid=d1694c220d4b13e7&sni=free01.tunnely.space&type=tcp&fp=firefox#%F0%9F%87%A7%F0%9F%87%AA%20Бельгия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://9b5bc0f3-4e1b-4ea8-92ff-6ba32a5c3830@45.144.31.76:443?encryption=none&flow=xtls-rprx-vision&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&security=reality&sid=d1694c220d4b13e7&sni=free01.tunnely.space&type=tcp&fp=qq#%F0%9F%87%A7%F0%9F%87%AA%20Бельгия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://9b5bc0f3-4e1b-4ea8-92ff-6ba32a5c3830@45.144.31.76:443?encryption=none&flow=xtls-rprx-vision&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&security=reality&sid=d1694c220d4b13e7&sni=free01.tunnely.space&type=tcp&fp=safari#%F0%9F%87%A7%F0%9F%87%AA%20Бельгия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://1bb2af63-4472-44ed-9c70-8f316258b68b@62.152.58.90:443?security=reality&encryption=none&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&type=grpc&sni=360.yandex.ru&sid=27e53bbcab7593d7&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Польша%20[🏳️LTE]%20|%20🥭🔧
-vless://1bb2af63-4472-44ed-9c70-8f316258b68b@62.152.58.90:443?security=reality&encryption=none&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&type=grpc&sni=360.yandex.ru&sid=27e53bbcab7593d7&fp=android#%F0%9F%87%B5%F0%9F%87%B1%20Польша%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://1bb2af63-4472-44ed-9c70-8f316258b68b@62.152.58.90:443?security=reality&encryption=none&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&type=grpc&sni=360.yandex.ru&sid=27e53bbcab7593d7&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Польша%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://1bb2af63-4472-44ed-9c70-8f316258b68b@62.152.58.90:443?security=reality&encryption=none&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&type=grpc&sni=360.yandex.ru&sid=27e53bbcab7593d7&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Польша%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://1bb2af63-4472-44ed-9c70-8f316258b68b@62.152.58.90:443?security=reality&encryption=none&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&type=grpc&sni=360.yandex.ru&sid=27e53bbcab7593d7&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Польша%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@168.113.215.77:443?encryption=none&pbk=qxfjtrU0MD7HgM2M8-Jij33p-WGUSFLG7XnaVanRx0Y&security=reality&serviceName=vless-grpc&sni=samsung.com&type=grpc&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@168.113.215.77:443?encryption=none&pbk=qxfjtrU0MD7HgM2M8-Jij33p-WGUSFLG7XnaVanRx0Y&security=reality&serviceName=vless-grpc&sni=samsung.com&type=grpc&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@168.113.215.77:443?encryption=none&pbk=qxfjtrU0MD7HgM2M8-Jij33p-WGUSFLG7XnaVanRx0Y&security=reality&serviceName=vless-grpc&sni=samsung.com&type=grpc&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@168.113.215.77:443?encryption=none&pbk=qxfjtrU0MD7HgM2M8-Jij33p-WGUSFLG7XnaVanRx0Y&security=reality&serviceName=vless-grpc&sni=samsung.com&type=grpc&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@168.113.215.77:443?encryption=none&pbk=qxfjtrU0MD7HgM2M8-Jij33p-WGUSFLG7XnaVanRx0Y&security=reality&serviceName=vless-grpc&sni=samsung.com&type=grpc&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@168.113.215.92:443?encryption=none&pbk=qxfjtrU0MD7HgM2M8-Jij33p-WGUSFLG7XnaVanRx0Y&security=reality&serviceName=vless-grpc&sni=samsung.com&type=grpc&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@168.113.215.92:443?encryption=none&pbk=qxfjtrU0MD7HgM2M8-Jij33p-WGUSFLG7XnaVanRx0Y&security=reality&serviceName=vless-grpc&sni=samsung.com&type=grpc&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@168.113.215.92:443?encryption=none&pbk=qxfjtrU0MD7HgM2M8-Jij33p-WGUSFLG7XnaVanRx0Y&security=reality&serviceName=vless-grpc&sni=samsung.com&type=grpc&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@168.113.215.92:443?encryption=none&pbk=qxfjtrU0MD7HgM2M8-Jij33p-WGUSFLG7XnaVanRx0Y&security=reality&serviceName=vless-grpc&sni=samsung.com&type=grpc&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@168.113.215.92:443?encryption=none&pbk=qxfjtrU0MD7HgM2M8-Jij33p-WGUSFLG7XnaVanRx0Y&security=reality&serviceName=vless-grpc&sni=samsung.com&type=grpc&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@e7q.internet-booster.online:2443?sni=hy2.78.141.219.189.nip.io#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@155.212.187.222:8451?security=reality&encryption=none&pbk=4q8nqNb-0c-akP3XqVmen67BLXJVlx48a_GDRw16nVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=5ea112e8&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@155.212.187.222:8451?security=reality&encryption=none&pbk=4q8nqNb-0c-akP3XqVmen67BLXJVlx48a_GDRw16nVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=5ea112e8&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@155.212.187.222:8451?security=reality&encryption=none&pbk=4q8nqNb-0c-akP3XqVmen67BLXJVlx48a_GDRw16nVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=5ea112e8&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@155.212.187.222:8451?security=reality&encryption=none&pbk=4q8nqNb-0c-akP3XqVmen67BLXJVlx48a_GDRw16nVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=5ea112e8&fp=ios#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@155.212.187.222:8451?security=reality&encryption=none&pbk=4q8nqNb-0c-akP3XqVmen67BLXJVlx48a_GDRw16nVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=5ea112e8&fp=qq#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
 404: Not Found
-# Date/Time: 2026-10-05 / 14:15 (Moscow)
+# Date/Time: 2026-10-05 / 15:31 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
