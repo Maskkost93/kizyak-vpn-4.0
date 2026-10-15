@@ -1,9 +1,9 @@
 # profile-title: КIЗЯК VPN BLACKLIST🥭
-# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMTAtMTUgMDk6MzYg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogODQg4pqZ77iPCuKdpO+4jyAgI09QRU5TT1VSQ0Ug4p2k77iPCg==
+# announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMTAtMTUgMTE6Mjkg8J+lrQrinIUg0JrQvtC70LjRh9C10YHRgtCy0L4g0YHQtdGA0LLQtdGA0L7QsjogMTAyIOKame+4jwrinaTvuI8gICNPUEVOU09VUkNFIOKdpO+4jwo=
 # profile-update-interval: 1
 
 
-# Date/Time: 2026-10-15 / 07:26 (Moscow)
+# Date/Time: 2026-10-15 / 09:14 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 # RU: Эта подписка может содержать Trojan/Hysteria2/Hy2 с legacy-параметрами insecure=1 или allowInsecure=1.
@@ -14,69 +14,52 @@
 # EN: Such configs may cause Xray-core startup errors with Xray-core v26.2.6 and newer in clients that use the Xray-core engine.
 # EN: For compatibility, use Mihomo/Sing-box for Trojan/Hysteria2/Hy2 or Xray-core v26.1.23, the last confirmed working version for such configs.
 
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20[🏴BL]
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?security=tls&sni=match-stream.lovkisport.blog&alpn=h3&insecure=0#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20[🏴BL]
-hysteria2://f83ce3c4-07d9-4895-bd14-cb74abbcab37@sweedenqfds777.qcloud.surf:21223?sni=sweedenqfds777.qcloud.surf#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20[🏴BL]
+hysteria2://43c6e610-03e3-4b6d-9abd-a4bfe7cc0aa9@outh.yandex-cloud.org:54183?sni=outh.yandex-cloud.org&fp=random&alpn=h3#%F0%9F%87%A7%F0%9F%87%AC%20Болгария%2C%20Sofia%20[🏴BL]
+hysteria2://43c6e610-03e3-4b6d-9abd-a4bfe7cc0aa9@50.7.87.149:54183?sni=outh.yandex-cloud.org#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?alpn=h3&insecure=1&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1&sni=91.196.32.163#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1&sni=germany3.h2corp.local#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?security=tls&sni=91.196.32.163&alpn=h3&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?security=tls&sni=germany3.h2corp.local&alpn=h3&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
 hysteria2://e7438b3190e185e1a0e529673fc0588efc85070295f51a893a44b8ce7812c235@34.150.46.137:443?insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20[🏴BL]
 hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@fi1server.rabstvo.shop:443?sni=fi1server.rabstvo.shop#%F0%9F%87%B0%F0%9F%87%BF%20Казахстан%2C%20Almaty%20[🏴BL]
-hysteria2://43212c32-01f2-4356-b216-67dc1c178262@ees92.shhflow.xyz:5443?sni=ees92.shhflow.xyz#%F0%9F%87%B1%F0%9F%87%B7%20Либерия%2C%20Monrovia%20%7C%20%F0%9F%8C%90%20[🏴BL]
-hysteria2://43212c32-01f2-4356-b216-67dc1c178262@ees92.shhflow.xyz:5443?sni=ees92.shhflow.xyz&alpn=h3#%F0%9F%87%B1%F0%9F%87%B7%20Либерия%2C%20Monrovia%20%7C%20%F0%9F%8C%90%20[🏴BL]
 hysteria2://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@boostlitva77www.qcloud.surf:21733?security=tls&sni=boostlitva77www.qcloud.surf&alpn=h3&insecure=0#%F0%9F%87%B1%F0%9F%87%B9%20Литва%2C%20Vilnius%20[🏴BL]
 hysteria2://408c51e8-9246-483d-ba73-34ab4e202eb9@145.249.109.140:27313?sni=spainspeedboostjbl88.qcloud.surf#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
 hysteria2://408c51e8-9246-483d-ba73-34ab4e202eb9@spainspeedboostjbl88.qcloud.surf:27313#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
-hysteria2://408c51e8-9246-483d-ba73-34ab4e202eb9@spainspeedboostjbl88.qcloud.surf:27313?security=tls&sni=spainspeedboostjbl88.qcloud.surf&alpn=h3&insecure=0#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
-hysteria2://408c51e8-9246-483d-ba73-34ab4e202eb9@spainspeedboostjbl88.qcloud.surf:27313?sni=spainspeedboostjbl88.qcloud.surf&security=tls#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
-hysteria2://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@spainspeedboostjbl88.qcloud.surf:27313?sni=spainspeedboostjbl88.qcloud.surf&alpn=h3&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
-hysteria2://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@spainspeedboostjbl88.qcloud.surf:27313?sni=spainspeedboostjbl88.qcloud.surf&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
 hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@145.249.109.140:27313?sni=spainspeedboostjbl88.qcloud.surf#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
-hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@spainspeedboostjbl88.qcloud.surf:27313#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
-hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@spainspeedboostjbl88.qcloud.surf:27313?security=tls&sni=spainspeedboostjbl88.qcloud.surf&alpn=h3&insecure=0#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
 hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@spainspeedboostjbl88.qcloud.surf:27313?sni=spainspeedboostjbl88.qcloud.surf&security=tls#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
-hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@145.249.109.140:27313?sni=spainspeedboostjbl88.qcloud.surf#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
 hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@spainspeedboostjbl88.qcloud.surf:27313#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
-hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@spainspeedboostjbl88.qcloud.surf:27313?alpn=h3#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
-hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@spainspeedboostjbl88.qcloud.surf:27313?alpn=h3&sni=spainspeedboostjbl88.qcloud.surf#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
-hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@spainspeedboostjbl88.qcloud.surf:27313?sni=spainspeedboostjbl88.qcloud.surf#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
-hysteria2://f83ce3c4-07d9-4895-bd14-cb74abbcab37@spainspeedboostjbl88.qcloud.surf:27313#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
-hysteria2://f83ce3c4-07d9-4895-bd14-cb74abbcab37@spainspeedboostjbl88.qcloud.surf:27313?security=tls&sni=spainspeedboostjbl88.qcloud.surf&alpn=h3&insecure=0#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
-hysteria2://f83ce3c4-07d9-4895-bd14-cb74abbcab37@spainspeedboostjbl88.qcloud.surf:27313?sni=spainspeedboostjbl88.qcloud.surf#%F0%9F%87%AA%F0%9F%87%B8%20Испания%2C%20Madrid%20[🏴BL]
 hysteria2://408c51e8-9246-483d-ba73-34ab4e202eb9@144.31.230.27:21223?sni=sweedenqfds777.qcloud.surf#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
 hysteria2://408c51e8-9246-483d-ba73-34ab4e202eb9@sweedenqfds777.qcloud.surf:21223#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
 hysteria2://408c51e8-9246-483d-ba73-34ab4e202eb9@sweedenqfds777.qcloud.surf:21223?security=tls&sni=sweedenqfds777.qcloud.surf&alpn=h3&insecure=0#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
-hysteria2://408c51e8-9246-483d-ba73-34ab4e202eb9@sweedenqfds777.qcloud.surf:21223?sni=sweedenqfds777.qcloud.surf#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
 hysteria2://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@sweedenqfds777.qcloud.surf:21223#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
 hysteria2://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@sweedenqfds777.qcloud.surf:21223?security=tls&sni=sweedenqfds777.qcloud.surf&alpn=h3&insecure=0#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
 hysteria2://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@sweedenqfds777.qcloud.surf:21223?sni=sweedenqfds777.qcloud.surf&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
-hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@144.31.230.27:21223?sni=sweedenqfds777.qcloud.surf#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
 hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@sweedenqfds777.qcloud.surf:21223#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
-hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@sweedenqfds777.qcloud.surf:21223?security=tls&sni=sweedenqfds777.qcloud.surf&alpn=h3&insecure=0#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
-hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@sweedenqfds777.qcloud.surf:21223?sni=sweedenqfds777.qcloud.surf&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
-hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@sweedenqfds777.qcloud.surf:21223?insecure=1&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
-hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@sweedenqfds777.qcloud.surf:21223?insecure=1&sni=127.0.0.1#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
-hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@sweedenqfds777.qcloud.surf:21223?sni=sweedenqfds777.qcloud.surf#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
+hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@sweedenqfds777.qcloud.surf:21223?security=tls&sni=sweedenqfds777.qcloud.surf&alpn=h3&insecure=0#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
 hysteria2://f83ce3c4-07d9-4895-bd14-cb74abbcab37@144.31.230.27:21223?sni=sweedenqfds777.qcloud.surf#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
+hysteria2://f83ce3c4-07d9-4895-bd14-cb74abbcab37@sweedenqfds777.qcloud.surf:21223#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
 hysteria2://f83ce3c4-07d9-4895-bd14-cb74abbcab37@sweedenqfds777.qcloud.surf:21223?security=tls&sni=sweedenqfds777.qcloud.surf&alpn=h3&insecure=0#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%2C%20Stockholm%20[🏴BL]
+hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@95.140.147.245:443?sni=nl1server.rabstvo.shop#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20[🏴BL]
 hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@nl1server.rabstvo.shop:443?sni=nl1server.rabstvo.shop#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20[🏴BL]
-hysteria2://43c6e610-03e3-4b6d-9abd-a4bfe7cc0aa9@outh.yandex-cloud.org:54183?sni=outh.yandex-cloud.org&fp=random&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Halfweg%20[🏴BL]
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1&sni=match-stream.lovkisport.blog#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B7%F0%9F%87%BA%20[🏴BL]
+hysteria2://43c6e610-03e3-4b6d-9abd-a4bfe7cc0aa9@189.74.114.36:54183?sni=outh.yandex-cloud.org#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Halfweg%20[🏴BL]
+hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?security=tls&sni=match-stream.lovkisport.blog&alpn=h3&insecure=0#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B7%F0%9F%87%BA%20[🏴BL]
+hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20[🏴BL]
 hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1&sni=194.87.118.184#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20[🏴BL]
+hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1&sni=match-stream.lovkisport.blog#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20[🏴BL]
 hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1&sni=off#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20[🏴BL]
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7MgQ2hpbmEsIEppbnJvbmdqaWUgKFhpY2hlbmcgRGlzdHJpY3QpIHwgW0JMXSIsImFkZCI6IjEyMC40OC4xMzMuMTYyIiwicG9ydCI6IjEwMDg2IiwiaWQiOiIyYjkxMGM0My01MWUzLTRiMTUtOWJlOC1iNjU4MTA2YmEzNWUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJhbHBuIjoiIiwic25pIjoiIiwiZnAiOiIiLCJ0bHMiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7MgQ2hpbmEsIFNoZW56aGVuIHwgW0JMXSIsImFkZCI6IjM5LjEwOC4xMTMuMTI3IiwicG9ydCI6IjEwMDg2IiwiaWQiOiI0ZmM1NDNkNS0yM2NlLTQ1NTYtYWUyYi0wMTY4NWVkZDQzOTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJhbHBuIjoiIiwic25pIjoiIiwiZnAiOiIiLCJ0bHMiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
-vmess://eyJhZGQiOiIzOS4xMDguMTEzLjEyNyIsImlkIjoiMmI5MTBjNDMtNTFlMy00YjE1LTliZTgtYjY1ODEwNmJhMzVlIiwicG9ydCI6IjEwMDg2Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiLwn4eo8J+HsyBDaGluYSwgU2hlbnpoZW4gfCBbQkxdIiwiYWlkIjoiMCIsInR5cGUiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh74gTWFsYXlzaWEsIEt1YWxhIEx1bXB1ciB8IFtCTF0iLCJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsInBvcnQiOiIxMDAwMCIsImlkIjoiYWVkYzY2YjgtOTlkNy00YTIxLTgzMTAtNjE4NzBlN2Y4NzBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJyYXciLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiLvCWpZQg3YEgy5bWtPCfm7jgvITLlsKwLiB8IFtCTF0iLCJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsInBvcnQiOiIxMDAwMCIsInR5cGUiOiJub25lIiwiaWQiOiJhZWRjNjZiOC05OWQ3LTRhMjEtODMxMC02MTg3MGU3Zjg3MGQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7MgQ2hpbmEsIEppbnJvbmdqaWUgKFhpY2hlbmcgRGlzdHJpY3QpIHwgW0JMXSIsImFkZCI6IjEyMC40OC4xMzMuMTYyIiwicG9ydCI6IjEwMDg2IiwiaWQiOiIyYjkxMGM0My01MWUzLTRiMTUtOWJlOC1iNjU4MTA2YmEzNWUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInBhdGgiOiIiLCJob3N0IjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBUYW95dWFuIHwgW0JMXSIsImFkZCI6IjE2NS4xNTQuMTk1LjM4IiwicG9ydCI6IjM1MDM0IiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJ2bWVzcyIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0=
 vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoidjJyYXlucGx1cy0tdjJyYXlucGx1cy0tdjJyYXlucGx1cyIsImlkIjoiOTU5YThjYWYtNGNlYS00M2QwLWE1NDgtMzYyOGU3ZGRmYWZjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNTAzNCIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBUYW95dWFuIHwgW0JMXSIsInNuaSI6InYycmF5bnBsdXMtLXYycmF5bnBsdXMtLXYycmF5bnBsdXMiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6IiJ9
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3ZsL3hRaE5lN3JMcmRNMGVtWmxhVzVMTXNOd2NvSWduVCIsInBvcnQiOiIzNTAzNCIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBUYW95dWFuIHwgW0JMXSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJzY3kiOiJhdXRvIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiLwn4e58J+HvCBUYWl3YW4sIFRhb3l1YW4gfCBbQkxdIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJyYXciLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiLwn4e58J+HvCBUYWl3YW4sIFRhb3l1YW4gfCBbQkxdIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJyYXciLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwicG9ydCI6IjM1MDM0IiwicHMiOiLwn4e58J+HvCBUYWl3YW4sIFRhb3l1YW4gfCBbQkxdIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJyYXciLCJwYXRoIjoiLyIsInBvcnQiOiIzNTAzNCIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBUYW95dWFuIHwgW0JMXSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+MkCBBbnljYXN0LUlQIHwg8J+HuvCfh7ggfCBbQkxdIiwiYWRkIjoiMTcyLjY0LjgwLjEiLCJwb3J0IjoiODQ0MyIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwiaG9zdCI6IiIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+MkCBBbnljYXN0LUlQIHwg8J+HuvCfh7ggfCBbQkxdIiwiYWRkIjoiMTcyLjY0LjgwLjEiLCJwb3J0IjoiODQ0MyIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJwYXRoIjoiL2xNbnNaVU40LyIsInRscyI6InRscyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+MkCBBbnljYXN0LUlQIHwg8J+HuvCfh7ggfCBbQkxdIiwiYWRkIjoiMTcyLjY0LjgwLjEiLCJwb3J0IjoiODQ0MyIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiYWxwbiI6IiIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwicGF0aCI6Ii9sTW5zWlVONC8iLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJmcCI6IiJ9
+vmess://eyJhZGQiOiIxNzIuNjQuODAuMSIsImFpZCI6IjAiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+MkCBBbnljYXN0LUlQIHwg8J+HuvCfh7ggfCBbQkxdIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIiwiZnAiOiIifQ==
 trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Paris%20[🏴BL]
 trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Paris%20[🏴BL]
 trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Paris%20[🏴BL]
@@ -92,6 +75,19 @@ trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&typ
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Paris%20[🏴BL]
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Paris%20[🏴BL]
 trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20Франция%2C%20Paris%20[🏴BL]
+trojan://M7v%25w11Se%2A@35.246.185.109:443?allowInsecure=1&security=tls&sni=dggg.wsone.icu#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://M7v%25w11Se%2A@35.246.185.109:443?type=tcp&security=tls&fp=chrome&sni=dggg.wsone.icu#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://M7v%25w11Se%2A@dggg.wsone.icu:443?type=tcp&security=tls&fp=chrome&sni=dggg.wsone.icu#%F0%9F%87%A9%F0%9F%87%AA%20Германия%2C%20Frankfurt%20am%20Main%20[🏴BL]
+trojan://M7v%25w11Se%2A@35.244.28.130:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=tttyder.wsone.icu#%F0%9F%87%AE%F0%9F%87%B3%20Индия%2C%20Mumbai%20[🏴BL]
+trojan://M7v%25w11Se%2A@tttyder.wsone.icu:443?allowInsecure=0&insecure=0&type=tcp&security=tls&sni=tttyder.wsone.icu#%F0%9F%87%AE%F0%9F%87%B3%20Индия%2C%20Mumbai%20[🏴BL]
+trojan://M7v%25w11Se%2A@35.244.28.130:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=tttyder.wsone.icu#%F0%9F%87%AE%F0%9F%87%B3%20Индия%2C%20Mumbai%20[🏴BL]
+trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=hyfuuf6.wsone.icu#%F0%9F%87%AE%F0%9F%87%B3%20Индия%2C%20New%20Delhi%20[🏴BL]
+trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B3%20Индия%2C%20New%20Delhi%20[🏴BL]
+trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?type=tcp&security=tls&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%20Индия%2C%20New%20Delhi%20[🏴BL]
+trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?type=tcp&security=tls&fp=firefox#%F0%9F%87%AE%F0%9F%87%B3%20Индия%2C%20New%20Delhi%20[🏴BL]
+trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&fp=android&sni=hyfuuf6.wsone.icu&peer=hyfuuf6.wsone.icu#%F0%9F%87%AE%F0%9F%87%B3%20Индия%2C%20New%20Delhi%20[🏴BL]
+trojan://M7v%25w11Se%2A@34.101.126.150:443?allowInsecure=1&fp=chrome&security=tls&sni=qfdfsg.wsone.icu#%F0%9F%87%AE%F0%9F%87%A9%20Индонезия%2C%20Jakarta%20[🏴BL]
+trojan://M7v%25w11Se%2A@qfdfsg.wsone.icu:443?allowInsecure=1&type=tcp&security=tls&fp=ios&sni=qfdfsg.wsone.icu#%F0%9F%87%AE%F0%9F%87%A9%20Индонезия%2C%20Jakarta%20[🏴BL]
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumerOot.coM.&fp=android&type=ws&sni=wWw.Volumeroot.cOm.#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Haarlem%20[🏴BL]
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumerOot.coM.&fp=safari&type=ws&sni=wWw.Volumeroot.cOm.#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Haarlem%20[🏴BL]
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Haarlem%20[🏴BL]
@@ -147,7 +143,10 @@ trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host
 trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Haarlem%20[🏴BL]
 trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=/assignment#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Haarlem%20[🏴BL]
 trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?security=tls&insecure=1&allowInsecure=1&fp=chrome&alpn=h2%2Chttp%2F1.1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Dallas%20[🏴BL]
+trojan://M7v%25w11Se%2A@34.94.125.227:443?security=tls&sni=mxlo.wsone.icu&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Los%20Angeles%20[🏴BL]
+trojan://M7v%25w11Se%2A@34.94.125.227:443?sni=mxlo.wsone.icu&peer=mxlo.wsone.icu&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Los%20Angeles%20[🏴BL]
+trojan://mitivpn@199.232.78.160:443?path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=google.com#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20[🏴BL]
+trojan://bpb-trojan@172.64.80.1:443?security=tls&sni=vless.herogoing.top&type=ws&path=/tr?ed=2560&Host=vless.herogoing.top#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20[🏴BL]
 trojan://mitivpn@167.82.64.46:443?path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSs---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=firefox.com#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20[🏴BL]
-trojan://mitivpn@199.232.78.160:443?path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=google.com#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20[🏴BL]
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@107.189.26.160:443?security=tls&type=ws&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&sni=mfyousheng.nl.eu.org#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20[🏴BL]
 trojan://humanity@107.189.26.160:443?allowInsecure=1&insecure=1&type=ws&security=tls&path=%2Fassignment&host=www.pleadcourt.org&sni=www.pleadcourt.org&fp=chrome&alpn=http/1.1#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20[🏴BL]
